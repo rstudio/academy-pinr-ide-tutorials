@@ -14,6 +14,8 @@ git clone https://github.com/rstudio/academy-pinr-ide-tutorials.git
 
 | Folder | Tutorial |
 |--------|----------|
+| `quarto-survey/` | Quarto basics: rendering, markdown, chunk options |
+| `quarto-parameterize/` | Parameterized Quarto reports |
 | `purrr-map_tourists-quarto/` | Iteration with `map()`, parameterized reports |
 | `debug-intro-quarto/` | Debugging workflow: `browser()`, traceback, reproducible examples |
 | `functions-state_management-quarto/` | Side effects, `on.exit()`, the withr package |
