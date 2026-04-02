@@ -14,12 +14,12 @@ git clone https://github.com/rstudio/academy-pinr-ide-tutorials.git
 
 | Folder | Starter File | Tutorial |
 |--------|-------------|----------|
-| `quarto-survey/` | `penguins.qmd` | Quarto basics: rendering, markdown, chunk options |
-| `quarto-parameterize/` | `tx-housing.qmd` | Parameterized Quarto reports |
-| `purrr-map_tourists-quarto/` | `tourism.qmd` | Iteration with `map()`, parameterized reports |
-| `debug-intro-quarto/` | `vaccines.qmd` | Debugging workflow: `browser()`, traceback, reproducible examples |
-| `functions-state_management-quarto/` | `gapminder.qmd` | Side effects, `on.exit()`, the withr package |
-| `debug-oikolab_weather-quarto/` | `weather.qmd` | Debugging practice with weather data |
+| `01-quarto-survey/` | `penguins.qmd` | Quarto basics: rendering, markdown, chunk options |
+| `02-quarto-parameterize/` | `tx-housing.qmd` | Parameterized Quarto reports |
+| `03-purrr-map_tourists-quarto/` | `tourism.qmd` | Iteration with `map()`, parameterized reports |
+| `04-debug-intro-quarto/` | `vaccines.qmd` | Debugging workflow: `browser()`, traceback, reproducible examples |
+| `05-functions-state_management-quarto/` | `gapminder.qmd` | Side effects, `on.exit()`, the withr package |
+| `06-debug-oikolab_weather-quarto/` | `weather.qmd` | Debugging practice with weather data |
 
 Each folder contains a starter `.qmd` file and any data files needed for that tutorial.
 
