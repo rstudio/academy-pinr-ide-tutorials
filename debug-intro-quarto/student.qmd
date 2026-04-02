@@ -1,0 +1,38 @@
+---
+title: "Debug this"
+format: html
+---
+
+```{r}
+#| label: setup
+
+# Load packages
+library(tidyverse)
+
+# Read data
+vaccines_list <-
+  read_csv("data/vaccines.csv") |>
+  split(read_csv("data/vaccines.csv")$jurisdiction)
+```
+
+```{r}
+#| label: functions
+calculate_doses <- function(data) {
+  df |>
+    group_by(jurisdiction, vaccine, week) |>
+    summarize(
+      total_doses = sum(first_dose, second_dose, na.rm = TRUE),
+      .groups = "drop"
+    )
+}
+
+plot_doses <- function(data, name, months) {
+  data |>
+    calculate_doses() |>
+    filter(month(week) %in% month) |>
+    ggplot(aes(week, total_doses, color = vaccine)) +
+    geom_point() +
+    geom_line() +
+    labs(title = name)
+}
+```

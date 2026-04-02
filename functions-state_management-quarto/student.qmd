@@ -1,0 +1,35 @@
+---
+title: "State management"
+format: html
+---
+
+```{r}
+#| label: setup
+#| include: false
+library(tidyverse)
+library(readxl)
+library(withr)
+
+knitr::opts_chunk$set(warning = FALSE)
+
+categorize <- function(column, probs = seq(0, 1, 0.25)) {
+  cut(column, quantile(column, probs = probs), include.lowest = TRUE)
+}
+
+read_data <- function(file_name) {
+  read_excel(
+    file_name,
+    sheet = 2,
+    col_names = c("country", "continent", "year", "lifeExp", "pop", "gdpPercap"),
+    skip = 5
+  ) |>
+    mutate(
+      lifeExp_cat = categorize(lifeExp),
+      pop_cat = categorize(pop, probs = seq(0, 1, 0.1)),
+      gdpPercap_cat = categorize(gdpPercap)
+    )
+}
+
+url_algeria <-
+  "https://rsacdn.link/ac/r_software_development/iteration/purrr-map/data/Algeria.xlsx"
+```

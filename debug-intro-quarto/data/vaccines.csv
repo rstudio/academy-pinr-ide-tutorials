@@ -1,0 +1,3592 @@
+jurisdiction,vaccine,week,first_dose,second_dose
+Alabama,Janssen,2021-03-01,40100,NA
+Alabama,Janssen,2021-03-15,5600,NA
+Alabama,Janssen,2021-03-22,5600,NA
+Alabama,Janssen,2021-03-29,28300,NA
+Alabama,Janssen,2021-04-05,71800,NA
+Alabama,Janssen,2021-04-12,8500,NA
+Alabama,Janssen,2021-05-03,11000,NA
+Alabama,Janssen,2021-05-10,8500,NA
+Alabama,Moderna,2020-12-21,84300,84300
+Alabama,Moderna,2020-12-28,29100,29100
+Alabama,Moderna,2021-01-04,29000,29000
+Alabama,Moderna,2021-01-11,29100,29100
+Alabama,Moderna,2021-01-18,30600,30600
+Alabama,Moderna,2021-01-25,30600,30600
+Alabama,Moderna,2021-02-01,40400,40400
+Alabama,Moderna,2021-02-08,44100,44100
+Alabama,Moderna,2021-02-15,47700,47700
+Alabama,Moderna,2021-02-22,47700,47700
+Alabama,Moderna,2021-03-01,47700,47700
+Alabama,Moderna,2021-03-08,47700,47700
+Alabama,Moderna,2021-03-15,47700,47700
+Alabama,Moderna,2021-03-22,47700,47700
+Alabama,Moderna,2021-03-29,47700,47700
+Alabama,Moderna,2021-04-05,49800,49800
+Alabama,Moderna,2021-04-12,49800,49800
+Alabama,Moderna,2021-04-19,53700,53700
+Alabama,Moderna,2021-04-26,53700,53700
+Alabama,Moderna,2021-05-03,53700,53700
+Alabama,Moderna,2021-05-10,54900,54900
+Alabama,Moderna,2021-05-17,54960,54960
+Alabama,Moderna,2021-05-24,54960,54960
+Alabama,Moderna,2021-05-31,53760,53760
+Alabama,Pfizer,2020-12-14,40950,40950
+Alabama,Pfizer,2020-12-21,29250,29250
+Alabama,Pfizer,2020-12-28,38025,38025
+Alabama,Pfizer,2021-01-04,29250,29250
+Alabama,Pfizer,2021-01-11,29250,29250
+Alabama,Pfizer,2021-01-18,30225,30225
+Alabama,Pfizer,2021-01-25,30225,30225
+Alabama,Pfizer,2021-02-01,30225,30225
+Alabama,Pfizer,2021-02-08,30225,30225
+Alabama,Pfizer,2021-02-15,30225,30225
+Alabama,Pfizer,2021-02-22,47970,47970
+Alabama,Pfizer,2021-03-01,54990,54990
+Alabama,Pfizer,2021-03-08,60840,60840
+Alabama,Pfizer,2021-03-15,65520,65520
+Alabama,Pfizer,2021-03-22,66690,66690
+Alabama,Pfizer,2021-03-29,80730,80730
+Alabama,Pfizer,2021-04-05,66690,66690
+Alabama,Pfizer,2021-04-12,67860,67860
+Alabama,Pfizer,2021-04-19,72540,72540
+Alabama,Pfizer,2021-04-26,72540,72540
+Alabama,Pfizer,2021-05-03,72540,72540
+Alabama,Pfizer,2021-05-10,72540,72540
+Alabama,Pfizer,2021-05-17,72540,72540
+Alabama,Pfizer,2021-05-24,72540,72540
+Alabama,Pfizer,2021-05-31,72090,72090
+Alaska,Janssen,2021-03-01,8900,NA
+Alaska,Janssen,2021-03-15,1300,NA
+Alaska,Janssen,2021-03-22,1300,NA
+Alaska,Janssen,2021-03-29,6300,NA
+Alaska,Janssen,2021-04-05,15800,NA
+Alaska,Janssen,2021-04-12,1900,NA
+Alaska,Janssen,2021-05-03,2500,NA
+Alaska,Janssen,2021-05-10,1900,NA
+Alaska,Moderna,2020-12-21,26800,26800
+Alaska,Moderna,2020-12-28,0,0
+Alaska,Moderna,2021-01-04,25600,25600
+Alaska,Moderna,2021-01-11,0,0
+Alaska,Moderna,2021-01-18,0,0
+Alaska,Moderna,2021-01-25,0,0
+Alaska,Moderna,2021-02-01,32300,32300
+Alaska,Moderna,2021-02-08,0,0
+Alaska,Moderna,2021-02-15,0,0
+Alaska,Moderna,2021-02-22,0,0
+Alaska,Moderna,2021-03-01,49300,49300
+Alaska,Moderna,2021-03-08,0,0
+Alaska,Moderna,2021-03-15,0,0
+Alaska,Moderna,2021-03-22,0,0
+Alaska,Moderna,2021-03-29,52500,52500
+Alaska,Moderna,2021-04-05,0,0
+Alaska,Moderna,2021-04-12,0,0
+Alaska,Moderna,2021-04-19,0,0
+Alaska,Moderna,2021-04-26,0,0
+Alaska,Moderna,2021-05-03,15200,15200
+Alaska,Moderna,2021-05-10,12100,12100
+Alaska,Moderna,2021-05-17,12060,12060
+Alaska,Moderna,2021-05-24,12060,12060
+Alaska,Moderna,2021-05-31,11760,11760
+Alaska,Pfizer,2020-12-14,35100,35100
+Alaska,Pfizer,2020-12-21,0,0
+Alaska,Pfizer,2020-12-28,0,0
+Alaska,Pfizer,2021-01-04,27300,27300
+Alaska,Pfizer,2021-01-11,0,0
+Alaska,Pfizer,2021-01-18,0,0
+Alaska,Pfizer,2021-01-25,0,0
+Alaska,Pfizer,2021-02-01,27300,27300
+Alaska,Pfizer,2021-02-08,0,0
+Alaska,Pfizer,2021-02-15,0,0
+Alaska,Pfizer,2021-02-22,0,0
+Alaska,Pfizer,2021-03-01,53820,53820
+Alaska,Pfizer,2021-03-08,0,0
+Alaska,Pfizer,2021-03-15,0,0
+Alaska,Pfizer,2021-03-22,0,0
+Alaska,Pfizer,2021-03-29,91260,79560
+Alaska,Pfizer,2021-04-05,0,0
+Alaska,Pfizer,2021-04-12,0,0
+Alaska,Pfizer,2021-04-19,0,0
+Alaska,Pfizer,2021-04-26,0,0
+Alaska,Pfizer,2021-05-03,18720,18720
+Alaska,Pfizer,2021-05-10,16380,16380
+Alaska,Pfizer,2021-05-17,16380,16380
+Alaska,Pfizer,2021-05-24,16380,16380
+Alaska,Pfizer,2021-05-31,16830,16830
+American Samoa,Janssen,2021-03-01,400,NA
+American Samoa,Janssen,2021-03-15,100,NA
+American Samoa,Janssen,2021-03-22,100,NA
+American Samoa,Janssen,2021-03-29,300,NA
+American Samoa,Janssen,2021-04-05,3700,NA
+American Samoa,Janssen,2021-04-12,0,NA
+American Samoa,Janssen,2021-05-03,0,NA
+American Samoa,Janssen,2021-05-10,0,NA
+American Samoa,Moderna,2020-12-21,2400,0
+American Samoa,Moderna,2020-12-28,0,0
+American Samoa,Moderna,2021-01-04,2400,0
+American Samoa,Moderna,2021-01-11,0,0
+American Samoa,Moderna,2021-01-18,0,0
+American Samoa,Moderna,2021-01-25,0,0
+American Samoa,Moderna,2021-02-01,3200,0
+American Samoa,Moderna,2021-02-08,0,0
+American Samoa,Moderna,2021-02-15,0,0
+American Samoa,Moderna,2021-02-22,0,0
+American Samoa,Moderna,2021-03-01,4400,0
+American Samoa,Moderna,2021-03-08,0,0
+American Samoa,Moderna,2021-03-15,0,0
+American Samoa,Moderna,2021-03-22,0,0
+American Samoa,Moderna,2021-03-29,5000,0
+American Samoa,Moderna,2021-04-05,0,0
+American Samoa,Moderna,2021-04-12,0,0
+American Samoa,Moderna,2021-04-19,0,0
+American Samoa,Moderna,2021-04-26,0,0
+American Samoa,Moderna,2021-05-03,0,0
+American Samoa,Moderna,2021-05-10,0,0
+American Samoa,Moderna,2021-05-17,0,0
+American Samoa,Moderna,2021-05-24,0,0
+American Samoa,Moderna,2021-05-31,0,0
+American Samoa,Pfizer,2020-12-14,5850,0
+American Samoa,Pfizer,2020-12-21,0,0
+American Samoa,Pfizer,2020-12-28,0,0
+American Samoa,Pfizer,2021-01-04,7800,0
+American Samoa,Pfizer,2021-01-11,0,0
+American Samoa,Pfizer,2021-01-18,0,0
+American Samoa,Pfizer,2021-01-25,0,0
+American Samoa,Pfizer,2021-02-01,7800,0
+American Samoa,Pfizer,2021-02-08,0,0
+American Samoa,Pfizer,2021-02-15,0,0
+American Samoa,Pfizer,2021-02-22,0,0
+American Samoa,Pfizer,2021-03-01,9360,0
+American Samoa,Pfizer,2021-03-08,0,0
+American Samoa,Pfizer,2021-03-15,0,0
+American Samoa,Pfizer,2021-03-22,0,0
+American Samoa,Pfizer,2021-03-29,11700,0
+American Samoa,Pfizer,2021-04-05,0,0
+American Samoa,Pfizer,2021-04-12,0,0
+American Samoa,Pfizer,2021-04-19,0,0
+American Samoa,Pfizer,2021-04-26,0,0
+American Samoa,Pfizer,2021-05-03,0,0
+American Samoa,Pfizer,2021-05-10,0,0
+American Samoa,Pfizer,2021-05-17,0,0
+American Samoa,Pfizer,2021-05-24,0,0
+American Samoa,Pfizer,2021-05-31,0,0
+Arizona,Janssen,2021-03-01,56800,NA
+Arizona,Janssen,2021-03-15,7900,NA
+Arizona,Janssen,2021-03-22,7900,NA
+Arizona,Janssen,2021-03-29,40000,NA
+Arizona,Janssen,2021-04-05,101700,NA
+Arizona,Janssen,2021-04-12,12000,NA
+Arizona,Janssen,2021-05-03,15600,NA
+Arizona,Janssen,2021-05-10,12000,NA
+Arizona,Moderna,2020-12-21,119400,119400
+Arizona,Moderna,2020-12-28,41300,41300
+Arizona,Moderna,2021-01-04,41100,41100
+Arizona,Moderna,2021-01-11,41300,41300
+Arizona,Moderna,2021-01-18,43400,43400
+Arizona,Moderna,2021-01-25,43400,43400
+Arizona,Moderna,2021-02-01,57200,57200
+Arizona,Moderna,2021-02-08,62500,62500
+Arizona,Moderna,2021-02-15,67600,67600
+Arizona,Moderna,2021-02-22,67600,67600
+Arizona,Moderna,2021-03-01,67600,67600
+Arizona,Moderna,2021-03-08,67600,67600
+Arizona,Moderna,2021-03-15,67600,67600
+Arizona,Moderna,2021-03-22,67600,67600
+Arizona,Moderna,2021-03-29,67600,67600
+Arizona,Moderna,2021-04-05,70600,70600
+Arizona,Moderna,2021-04-12,70600,70600
+Arizona,Moderna,2021-04-19,76200,76200
+Arizona,Moderna,2021-04-26,76200,76200
+Arizona,Moderna,2021-05-03,76200,76200
+Arizona,Moderna,2021-05-10,77900,77900
+Arizona,Moderna,2021-05-17,77860,77860
+Arizona,Moderna,2021-05-24,77860,77860
+Arizona,Moderna,2021-05-31,76160,76160
+Arizona,Pfizer,2020-12-14,58500,58500
+Arizona,Pfizer,2020-12-21,41925,41925
+Arizona,Pfizer,2020-12-28,53625,53625
+Arizona,Pfizer,2021-01-04,41925,41925
+Arizona,Pfizer,2021-01-11,41925,41925
+Arizona,Pfizer,2021-01-18,42900,42900
+Arizona,Pfizer,2021-01-25,42900,42900
+Arizona,Pfizer,2021-02-01,42900,42900
+Arizona,Pfizer,2021-02-08,42900,42900
+Arizona,Pfizer,2021-02-15,42900,42900
+Arizona,Pfizer,2021-02-22,69030,69030
+Arizona,Pfizer,2021-03-01,78390,78390
+Arizona,Pfizer,2021-03-08,85410,85410
+Arizona,Pfizer,2021-03-15,92430,92430
+Arizona,Pfizer,2021-03-22,93600,93600
+Arizona,Pfizer,2021-03-29,114660,114660
+Arizona,Pfizer,2021-04-05,93600,93600
+Arizona,Pfizer,2021-04-12,95940,95940
+Arizona,Pfizer,2021-04-19,102960,102960
+Arizona,Pfizer,2021-04-26,102960,102960
+Arizona,Pfizer,2021-05-03,102960,102960
+Arizona,Pfizer,2021-05-10,102960,102960
+Arizona,Pfizer,2021-05-17,102960,102960
+Arizona,Pfizer,2021-05-24,102960,102960
+Arizona,Pfizer,2021-05-31,102510,102510
+Arkansas,Janssen,2021-03-01,24400,NA
+Arkansas,Janssen,2021-03-15,3400,NA
+Arkansas,Janssen,2021-03-22,3400,NA
+Arkansas,Janssen,2021-03-29,17200,NA
+Arkansas,Janssen,2021-04-05,43500,NA
+Arkansas,Janssen,2021-04-12,5200,NA
+Arkansas,Janssen,2021-05-03,6700,NA
+Arkansas,Janssen,2021-05-10,5200,NA
+Arkansas,Moderna,2020-12-21,51100,51100
+Arkansas,Moderna,2020-12-28,17700,17700
+Arkansas,Moderna,2021-01-04,17600,17600
+Arkansas,Moderna,2021-01-11,17700,17700
+Arkansas,Moderna,2021-01-18,18600,18600
+Arkansas,Moderna,2021-01-25,18600,18600
+Arkansas,Moderna,2021-02-01,24500,24500
+Arkansas,Moderna,2021-02-08,26800,26800
+Arkansas,Moderna,2021-02-15,28900,28900
+Arkansas,Moderna,2021-02-22,28900,28900
+Arkansas,Moderna,2021-03-01,28900,28900
+Arkansas,Moderna,2021-03-08,28900,28900
+Arkansas,Moderna,2021-03-15,28900,28900
+Arkansas,Moderna,2021-03-22,28900,28900
+Arkansas,Moderna,2021-03-29,28900,28900
+Arkansas,Moderna,2021-04-05,30200,30200
+Arkansas,Moderna,2021-04-12,30200,30200
+Arkansas,Moderna,2021-04-19,32600,32600
+Arkansas,Moderna,2021-04-26,32600,32600
+Arkansas,Moderna,2021-05-03,32600,32600
+Arkansas,Moderna,2021-05-10,33400,33400
+Arkansas,Moderna,2021-05-17,33420,33420
+Arkansas,Moderna,2021-05-24,33420,33420
+Arkansas,Moderna,2021-05-31,32620,32620
+Arkansas,Pfizer,2020-12-14,25350,25350
+Arkansas,Pfizer,2020-12-21,18525,18525
+Arkansas,Pfizer,2020-12-28,23400,23400
+Arkansas,Pfizer,2021-01-04,18525,18525
+Arkansas,Pfizer,2021-01-11,18525,18525
+Arkansas,Pfizer,2021-01-18,18525,18525
+Arkansas,Pfizer,2021-01-25,18525,18525
+Arkansas,Pfizer,2021-02-01,18525,18525
+Arkansas,Pfizer,2021-02-08,18525,18525
+Arkansas,Pfizer,2021-02-15,18525,18525
+Arkansas,Pfizer,2021-02-22,29250,29250
+Arkansas,Pfizer,2021-03-01,33930,33930
+Arkansas,Pfizer,2021-03-08,37440,37440
+Arkansas,Pfizer,2021-03-15,39780,39780
+Arkansas,Pfizer,2021-03-22,39780,39780
+Arkansas,Pfizer,2021-03-29,49140,49140
+Arkansas,Pfizer,2021-04-05,39780,39780
+Arkansas,Pfizer,2021-04-12,40950,40950
+Arkansas,Pfizer,2021-04-19,44460,44460
+Arkansas,Pfizer,2021-04-26,44460,44460
+Arkansas,Pfizer,2021-05-03,44460,44460
+Arkansas,Pfizer,2021-05-10,44460,44460
+Arkansas,Pfizer,2021-05-17,44460,44460
+Arkansas,Pfizer,2021-05-24,44460,44460
+Arkansas,Pfizer,2021-05-31,44460,44460
+California,Janssen,2021-03-01,320100,NA
+California,Janssen,2021-03-15,44000,NA
+California,Janssen,2021-03-22,44000,NA
+California,Janssen,2021-03-29,224600,NA
+California,Janssen,2021-04-05,572700,NA
+California,Janssen,2021-04-12,67600,NA
+California,Janssen,2021-05-03,87800,NA
+California,Janssen,2021-05-10,67600,NA
+California,Moderna,2020-12-21,672600,672600
+California,Moderna,2020-12-28,232300,232300
+California,Moderna,2021-01-04,231400,231400
+California,Moderna,2021-01-11,232300,232300
+California,Moderna,2021-01-18,244000,244000
+California,Moderna,2021-01-25,244000,244000
+California,Moderna,2021-02-01,322000,322000
+California,Moderna,2021-02-08,351900,351900
+California,Moderna,2021-02-15,380300,380300
+California,Moderna,2021-02-22,380300,380300
+California,Moderna,2021-03-01,380300,380300
+California,Moderna,2021-03-08,380300,380300
+California,Moderna,2021-03-15,380300,380300
+California,Moderna,2021-03-22,380300,380300
+California,Moderna,2021-03-29,380300,380300
+California,Moderna,2021-04-05,397400,397400
+California,Moderna,2021-04-12,397400,397400
+California,Moderna,2021-04-19,428600,428600
+California,Moderna,2021-04-26,428600,428600
+California,Moderna,2021-05-03,428600,428600
+California,Moderna,2021-05-10,438100,438100
+California,Moderna,2021-05-17,438000,438000
+California,Moderna,2021-05-24,438000,438000
+California,Moderna,2021-05-31,428400,428400
+California,Pfizer,2020-12-14,327600,327600
+California,Pfizer,2020-12-21,233025,233025
+California,Pfizer,2020-12-28,297375,297375
+California,Pfizer,2021-01-04,232050,232050
+California,Pfizer,2021-01-11,233025,233025
+California,Pfizer,2021-01-18,241800,241800
+California,Pfizer,2021-01-25,241800,241800
+California,Pfizer,2021-02-01,240825,240825
+California,Pfizer,2021-02-08,241800,241800
+California,Pfizer,2021-02-15,241800,241800
+California,Pfizer,2021-02-22,382590,382590
+California,Pfizer,2021-03-01,438750,438750
+California,Pfizer,2021-03-08,479700,479700
+California,Pfizer,2021-03-15,515970,515970
+California,Pfizer,2021-03-22,524160,524160
+California,Pfizer,2021-03-29,644670,644670
+California,Pfizer,2021-04-05,524160,524160
+California,Pfizer,2021-04-12,535860,535860
+California,Pfizer,2021-04-19,575640,575640
+California,Pfizer,2021-04-26,575640,575640
+California,Pfizer,2021-05-03,575640,575640
+California,Pfizer,2021-05-10,575640,575640
+California,Pfizer,2021-05-17,575640,575640
+California,Pfizer,2021-05-24,575640,575640
+California,Pfizer,2021-05-31,575640,575640
+Chicago,Janssen,2021-03-01,22300,NA
+Chicago,Janssen,2021-03-15,3100,NA
+Chicago,Janssen,2021-03-22,3100,NA
+Chicago,Janssen,2021-03-29,15700,NA
+Chicago,Janssen,2021-04-05,39900,NA
+Chicago,Janssen,2021-04-12,4800,NA
+Chicago,Janssen,2021-05-03,6200,NA
+Chicago,Janssen,2021-05-10,4800,NA
+Chicago,Moderna,2020-12-21,46800,46800
+Chicago,Moderna,2020-12-28,16200,16200
+Chicago,Moderna,2021-01-04,16100,16100
+Chicago,Moderna,2021-01-11,16200,16200
+Chicago,Moderna,2021-01-18,17000,17000
+Chicago,Moderna,2021-01-25,17000,17000
+Chicago,Moderna,2021-02-01,22400,22400
+Chicago,Moderna,2021-02-08,24500,24500
+Chicago,Moderna,2021-02-15,26500,26500
+Chicago,Moderna,2021-02-22,26500,26500
+Chicago,Moderna,2021-03-01,26500,26500
+Chicago,Moderna,2021-03-08,26500,26500
+Chicago,Moderna,2021-03-15,26500,26500
+Chicago,Moderna,2021-03-22,26500,26500
+Chicago,Moderna,2021-03-29,26500,26500
+Chicago,Moderna,2021-04-05,27700,27700
+Chicago,Moderna,2021-04-12,27700,27700
+Chicago,Moderna,2021-04-19,29900,29900
+Chicago,Moderna,2021-04-26,29900,29900
+Chicago,Moderna,2021-05-03,29900,29900
+Chicago,Moderna,2021-05-10,30600,30600
+Chicago,Moderna,2021-05-17,30520,30520
+Chicago,Moderna,2021-05-24,30520,30520
+Chicago,Moderna,2021-05-31,29820,29820
+Chicago,Pfizer,2020-12-14,23400,23400
+Chicago,Pfizer,2020-12-21,16575,16575
+Chicago,Pfizer,2020-12-28,21450,21450
+Chicago,Pfizer,2021-01-04,16575,16575
+Chicago,Pfizer,2021-01-11,16575,16575
+Chicago,Pfizer,2021-01-18,17550,17550
+Chicago,Pfizer,2021-01-25,17550,17550
+Chicago,Pfizer,2021-02-01,17550,17550
+Chicago,Pfizer,2021-02-08,17550,17550
+Chicago,Pfizer,2021-02-15,17550,17550
+Chicago,Pfizer,2021-02-22,26910,26910
+Chicago,Pfizer,2021-03-01,31590,31590
+Chicago,Pfizer,2021-03-08,33930,33930
+Chicago,Pfizer,2021-03-15,36270,36270
+Chicago,Pfizer,2021-03-22,37440,37440
+Chicago,Pfizer,2021-03-29,45630,45630
+Chicago,Pfizer,2021-04-05,37440,37440
+Chicago,Pfizer,2021-04-12,37440,37440
+Chicago,Pfizer,2021-04-19,40950,40950
+Chicago,Pfizer,2021-04-26,40950,40950
+Chicago,Pfizer,2021-05-03,40950,40950
+Chicago,Pfizer,2021-05-10,40950,40950
+Chicago,Pfizer,2021-05-17,40950,40950
+Chicago,Pfizer,2021-05-24,40950,40950
+Chicago,Pfizer,2021-05-31,40770,40770
+Colorado,Janssen,2021-03-01,45500,NA
+Colorado,Janssen,2021-03-15,6300,NA
+Colorado,Janssen,2021-03-22,6300,NA
+Colorado,Janssen,2021-03-29,32000,NA
+Colorado,Janssen,2021-04-05,81400,NA
+Colorado,Janssen,2021-04-12,9700,NA
+Colorado,Janssen,2021-05-03,12500,NA
+Colorado,Janssen,2021-05-10,9700,NA
+Colorado,Moderna,2020-12-21,95600,95600
+Colorado,Moderna,2020-12-28,33000,33000
+Colorado,Moderna,2021-01-04,32900,32900
+Colorado,Moderna,2021-01-11,33000,33000
+Colorado,Moderna,2021-01-18,34700,34700
+Colorado,Moderna,2021-01-25,34700,34700
+Colorado,Moderna,2021-02-01,45800,45800
+Colorado,Moderna,2021-02-08,50000,50000
+Colorado,Moderna,2021-02-15,54100,54100
+Colorado,Moderna,2021-02-22,54100,54100
+Colorado,Moderna,2021-03-01,54100,54100
+Colorado,Moderna,2021-03-08,54100,54100
+Colorado,Moderna,2021-03-15,54100,54100
+Colorado,Moderna,2021-03-22,54100,54100
+Colorado,Moderna,2021-03-29,54100,54100
+Colorado,Moderna,2021-04-05,56500,56500
+Colorado,Moderna,2021-04-12,56500,56500
+Colorado,Moderna,2021-04-19,60900,60900
+Colorado,Moderna,2021-04-26,60900,60900
+Colorado,Moderna,2021-05-03,60900,60900
+Colorado,Moderna,2021-05-10,62300,62300
+Colorado,Moderna,2021-05-17,62300,62300
+Colorado,Moderna,2021-05-24,62300,62300
+Colorado,Moderna,2021-05-31,60900,60900
+Colorado,Pfizer,2020-12-14,46800,46800
+Colorado,Pfizer,2020-12-21,33150,33150
+Colorado,Pfizer,2020-12-28,42900,42900
+Colorado,Pfizer,2021-01-04,33150,33150
+Colorado,Pfizer,2021-01-11,33150,33150
+Colorado,Pfizer,2021-01-18,35100,35100
+Colorado,Pfizer,2021-01-25,35100,35100
+Colorado,Pfizer,2021-02-01,34125,34125
+Colorado,Pfizer,2021-02-08,35100,35100
+Colorado,Pfizer,2021-02-15,35100,35100
+Colorado,Pfizer,2021-02-22,54990,54990
+Colorado,Pfizer,2021-03-01,63180,63180
+Colorado,Pfizer,2021-03-08,69030,69030
+Colorado,Pfizer,2021-03-15,73710,73710
+Colorado,Pfizer,2021-03-22,74880,74880
+Colorado,Pfizer,2021-03-29,92430,92430
+Colorado,Pfizer,2021-04-05,74880,74880
+Colorado,Pfizer,2021-04-12,76050,76050
+Colorado,Pfizer,2021-04-19,81900,81900
+Colorado,Pfizer,2021-04-26,81900,81900
+Colorado,Pfizer,2021-05-03,81900,81900
+Colorado,Pfizer,2021-05-10,81900,81900
+Colorado,Pfizer,2021-05-17,81900,81900
+Colorado,Pfizer,2021-05-24,81900,81900
+Colorado,Pfizer,2021-05-31,82710,82710
+Connecticut,Janssen,2021-03-01,30200,NA
+Connecticut,Janssen,2021-03-15,4200,NA
+Connecticut,Janssen,2021-03-22,4200,NA
+Connecticut,Janssen,2021-03-29,21200,NA
+Connecticut,Janssen,2021-04-05,53900,NA
+Connecticut,Janssen,2021-04-12,6400,NA
+Connecticut,Janssen,2021-05-03,8300,NA
+Connecticut,Janssen,2021-05-10,6400,NA
+Connecticut,Moderna,2020-12-21,63300,63300
+Connecticut,Moderna,2020-12-28,21900,21900
+Connecticut,Moderna,2021-01-04,21800,21800
+Connecticut,Moderna,2021-01-11,21900,21900
+Connecticut,Moderna,2021-01-18,23000,23000
+Connecticut,Moderna,2021-01-25,23000,23000
+Connecticut,Moderna,2021-02-01,30300,30300
+Connecticut,Moderna,2021-02-08,33100,33100
+Connecticut,Moderna,2021-02-15,35800,35800
+Connecticut,Moderna,2021-02-22,35800,35800
+Connecticut,Moderna,2021-03-01,35800,35800
+Connecticut,Moderna,2021-03-08,35800,35800
+Connecticut,Moderna,2021-03-15,35800,35800
+Connecticut,Moderna,2021-03-22,35800,35800
+Connecticut,Moderna,2021-03-29,35800,35800
+Connecticut,Moderna,2021-04-05,37400,37400
+Connecticut,Moderna,2021-04-12,37400,37400
+Connecticut,Moderna,2021-04-19,40400,40400
+Connecticut,Moderna,2021-04-26,40400,40400
+Connecticut,Moderna,2021-05-03,40400,40400
+Connecticut,Moderna,2021-05-10,41300,41300
+Connecticut,Moderna,2021-05-17,41220,41220
+Connecticut,Moderna,2021-05-24,41220,41220
+Connecticut,Moderna,2021-05-31,40320,40320
+Connecticut,Pfizer,2020-12-14,31200,31200
+Connecticut,Pfizer,2020-12-21,22425,22425
+Connecticut,Pfizer,2020-12-28,28275,28275
+Connecticut,Pfizer,2021-01-04,22425,22425
+Connecticut,Pfizer,2021-01-11,22425,22425
+Connecticut,Pfizer,2021-01-18,23400,23400
+Connecticut,Pfizer,2021-01-25,23400,23400
+Connecticut,Pfizer,2021-02-01,23400,23400
+Connecticut,Pfizer,2021-02-08,23400,23400
+Connecticut,Pfizer,2021-02-15,23400,23400
+Connecticut,Pfizer,2021-02-22,36270,36270
+Connecticut,Pfizer,2021-03-01,42120,42120
+Connecticut,Pfizer,2021-03-08,45630,45630
+Connecticut,Pfizer,2021-03-15,49140,49140
+Connecticut,Pfizer,2021-03-22,50310,50310
+Connecticut,Pfizer,2021-03-29,60840,60840
+Connecticut,Pfizer,2021-04-05,50310,50310
+Connecticut,Pfizer,2021-04-12,51480,51480
+Connecticut,Pfizer,2021-04-19,54990,54990
+Connecticut,Pfizer,2021-04-26,54990,54990
+Connecticut,Pfizer,2021-05-03,54990,54990
+Connecticut,Pfizer,2021-05-10,54990,54990
+Connecticut,Pfizer,2021-05-17,54990,54990
+Connecticut,Pfizer,2021-05-24,54990,54990
+Connecticut,Pfizer,2021-05-31,54360,54360
+Delaware,Janssen,2021-03-01,8000,NA
+Delaware,Janssen,2021-03-15,1100,NA
+Delaware,Janssen,2021-03-22,1100,NA
+Delaware,Janssen,2021-03-29,5600,NA
+Delaware,Janssen,2021-04-05,14300,NA
+Delaware,Janssen,2021-04-12,1700,NA
+Delaware,Janssen,2021-05-03,2200,NA
+Delaware,Janssen,2021-05-10,1700,NA
+Delaware,Moderna,2020-12-21,16700,16700
+Delaware,Moderna,2020-12-28,5800,5800
+Delaware,Moderna,2021-01-04,5800,5800
+Delaware,Moderna,2021-01-11,5800,5800
+Delaware,Moderna,2021-01-18,6100,6100
+Delaware,Moderna,2021-01-25,6100,6100
+Delaware,Moderna,2021-02-01,8000,8000
+Delaware,Moderna,2021-02-08,8800,8800
+Delaware,Moderna,2021-02-15,9500,9500
+Delaware,Moderna,2021-02-22,9500,9500
+Delaware,Moderna,2021-03-01,9500,9500
+Delaware,Moderna,2021-03-08,9500,9500
+Delaware,Moderna,2021-03-15,9500,9500
+Delaware,Moderna,2021-03-22,9500,9500
+Delaware,Moderna,2021-03-29,9500,9500
+Delaware,Moderna,2021-04-05,9900,9900
+Delaware,Moderna,2021-04-12,9900,9900
+Delaware,Moderna,2021-04-19,10700,10700
+Delaware,Moderna,2021-04-26,10700,10700
+Delaware,Moderna,2021-05-03,10700,10700
+Delaware,Moderna,2021-05-10,11000,11000
+Delaware,Moderna,2021-05-17,10940,10940
+Delaware,Moderna,2021-05-24,10940,10940
+Delaware,Moderna,2021-05-31,10640,10640
+Delaware,Pfizer,2020-12-14,8775,8775
+Delaware,Pfizer,2020-12-21,5850,5850
+Delaware,Pfizer,2020-12-28,7800,7800
+Delaware,Pfizer,2021-01-04,5850,5850
+Delaware,Pfizer,2021-01-11,5850,5850
+Delaware,Pfizer,2021-01-18,6825,6825
+Delaware,Pfizer,2021-01-25,6825,6825
+Delaware,Pfizer,2021-02-01,6825,6825
+Delaware,Pfizer,2021-02-08,6825,6825
+Delaware,Pfizer,2021-02-15,6825,6825
+Delaware,Pfizer,2021-02-22,10530,10530
+Delaware,Pfizer,2021-03-01,11700,11700
+Delaware,Pfizer,2021-03-08,12870,12870
+Delaware,Pfizer,2021-03-15,12870,12870
+Delaware,Pfizer,2021-03-22,14040,14040
+Delaware,Pfizer,2021-03-29,16380,16380
+Delaware,Pfizer,2021-04-05,14040,14040
+Delaware,Pfizer,2021-04-12,14040,14040
+Delaware,Pfizer,2021-04-19,15210,15210
+Delaware,Pfizer,2021-04-26,15210,15210
+Delaware,Pfizer,2021-05-03,15210,15210
+Delaware,Pfizer,2021-05-10,15210,15210
+Delaware,Pfizer,2021-05-17,15210,15210
+Delaware,Pfizer,2021-05-24,15210,15210
+Delaware,Pfizer,2021-05-31,15210,15210
+District of Columbia,Janssen,2021-03-01,6000,NA
+District of Columbia,Janssen,2021-03-15,900,NA
+District of Columbia,Janssen,2021-03-22,900,NA
+District of Columbia,Janssen,2021-03-29,4300,NA
+District of Columbia,Janssen,2021-04-05,10800,NA
+District of Columbia,Janssen,2021-04-12,1300,NA
+District of Columbia,Janssen,2021-05-03,1700,NA
+District of Columbia,Janssen,2021-05-10,1300,NA
+District of Columbia,Moderna,2020-12-21,12600,12600
+District of Columbia,Moderna,2020-12-28,4400,4400
+District of Columbia,Moderna,2021-01-04,4400,4400
+District of Columbia,Moderna,2021-01-11,4400,4400
+District of Columbia,Moderna,2021-01-18,4600,4600
+District of Columbia,Moderna,2021-01-25,4600,4600
+District of Columbia,Moderna,2021-02-01,6100,6100
+District of Columbia,Moderna,2021-02-08,6600,6600
+District of Columbia,Moderna,2021-02-15,7200,7200
+District of Columbia,Moderna,2021-02-22,7200,7200
+District of Columbia,Moderna,2021-03-01,7200,7200
+District of Columbia,Moderna,2021-03-08,7200,7200
+District of Columbia,Moderna,2021-03-15,7200,7200
+District of Columbia,Moderna,2021-03-22,7200,7200
+District of Columbia,Moderna,2021-03-29,7200,7200
+District of Columbia,Moderna,2021-04-05,7500,7500
+District of Columbia,Moderna,2021-04-12,7500,7500
+District of Columbia,Moderna,2021-04-19,8100,8100
+District of Columbia,Moderna,2021-04-26,8100,8100
+District of Columbia,Moderna,2021-05-03,8100,8100
+District of Columbia,Moderna,2021-05-10,8300,8300
+District of Columbia,Moderna,2021-05-17,8320,8320
+District of Columbia,Moderna,2021-05-24,8320,8320
+District of Columbia,Moderna,2021-05-31,8120,8120
+District of Columbia,Pfizer,2020-12-14,6825,6825
+District of Columbia,Pfizer,2020-12-21,4875,4875
+District of Columbia,Pfizer,2020-12-28,5850,5850
+District of Columbia,Pfizer,2021-01-04,4875,4875
+District of Columbia,Pfizer,2021-01-11,4875,4875
+District of Columbia,Pfizer,2021-01-18,4875,4875
+District of Columbia,Pfizer,2021-01-25,4875,4875
+District of Columbia,Pfizer,2021-02-01,4875,4875
+District of Columbia,Pfizer,2021-02-08,4875,4875
+District of Columbia,Pfizer,2021-02-15,4875,4875
+District of Columbia,Pfizer,2021-02-22,8190,8190
+District of Columbia,Pfizer,2021-03-01,9360,9360
+District of Columbia,Pfizer,2021-03-08,9360,9360
+District of Columbia,Pfizer,2021-03-15,10530,10530
+District of Columbia,Pfizer,2021-03-22,10530,10530
+District of Columbia,Pfizer,2021-03-29,12870,12870
+District of Columbia,Pfizer,2021-04-05,10530,10530
+District of Columbia,Pfizer,2021-04-12,10530,10530
+District of Columbia,Pfizer,2021-04-19,11700,11700
+District of Columbia,Pfizer,2021-04-26,11700,11700
+District of Columbia,Pfizer,2021-05-03,11700,11700
+District of Columbia,Pfizer,2021-05-10,11700,11700
+District of Columbia,Pfizer,2021-05-17,11700,11700
+District of Columbia,Pfizer,2021-05-24,11700,11700
+District of Columbia,Pfizer,2021-05-31,11520,11520
+Federal Entities,Janssen,2021-03-01,139200,NA
+Federal Entities,Janssen,2021-03-15,120500,NA
+Federal Entities,Janssen,2021-03-22,16700,NA
+Federal Entities,Janssen,2021-03-29,16700,NA
+Federal Entities,Janssen,2021-04-05,84600,NA
+Federal Entities,Janssen,2021-04-12,129600,NA
+Federal Entities,Janssen,2021-05-03,25700,NA
+Federal Entities,Janssen,2021-05-10,33200,NA
+Federal Entities,Moderna,2020-12-21,298200,289200
+Federal Entities,Moderna,2020-12-28,100000,100000
+Federal Entities,Moderna,2021-01-04,108400,99600
+Federal Entities,Moderna,2021-01-11,99900,99900
+Federal Entities,Moderna,2021-01-18,105000,105000
+Federal Entities,Moderna,2021-01-25,105300,105300
+Federal Entities,Moderna,2021-02-01,151180,151800
+Federal Entities,Moderna,2021-02-08,481400,481400
+Federal Entities,Moderna,2021-02-15,163500,163500
+Federal Entities,Moderna,2021-02-22,163500,163500
+Federal Entities,Moderna,2021-03-01,180500,163500
+Federal Entities,Moderna,2021-03-08,197900,193500
+Federal Entities,Moderna,2021-03-15,143000,143000
+Federal Entities,Moderna,2021-03-22,143000,143000
+Federal Entities,Moderna,2021-03-29,143000,143000
+Federal Entities,Moderna,2021-04-05,143000,143000
+Federal Entities,Moderna,2021-04-12,149400,149400
+Federal Entities,Moderna,2021-04-19,149400,149400
+Federal Entities,Moderna,2021-04-26,161100,161100
+Federal Entities,Moderna,2021-05-03,161100,161100
+Federal Entities,Moderna,2021-05-10,161100,161100
+Federal Entities,Moderna,2021-05-17,164900,164900
+Federal Entities,Moderna,2021-05-24,164800,164800
+Federal Entities,Moderna,2021-05-31,164800,164800
+Federal Entities,Pfizer,2020-12-14,156000,142350
+Federal Entities,Pfizer,2020-12-21,102375,102375
+Federal Entities,Pfizer,2020-12-28,128700,128700
+Federal Entities,Pfizer,2021-01-04,117000,101400
+Federal Entities,Pfizer,2021-01-11,102375,102375
+Federal Entities,Pfizer,2021-01-18,105300,105300
+Federal Entities,Pfizer,2021-01-25,105300,105300
+Federal Entities,Pfizer,2021-02-01,119925,104325
+Federal Entities,Pfizer,2021-02-08,105300,105300
+Federal Entities,Pfizer,2021-02-15,105300,105300
+Federal Entities,Pfizer,2021-02-22,166140,166140
+Federal Entities,Pfizer,2021-03-01,209430,190710
+Federal Entities,Pfizer,2021-03-08,230490,221130
+Federal Entities,Pfizer,2021-03-15,182520,182520
+Federal Entities,Pfizer,2021-03-22,195390,195390
+Federal Entities,Pfizer,2021-03-29,201240,201240
+Federal Entities,Pfizer,2021-04-05,243360,243360
+Federal Entities,Pfizer,2021-04-12,201240,201240
+Federal Entities,Pfizer,2021-04-19,203580,203580
+Federal Entities,Pfizer,2021-04-26,218790,218790
+Federal Entities,Pfizer,2021-05-03,218790,218790
+Federal Entities,Pfizer,2021-05-10,218790,218790
+Federal Entities,Pfizer,2021-05-17,218790,218790
+Federal Entities,Pfizer,2021-05-24,218790,218790
+Federal Entities,Pfizer,2021-05-31,218790,218790
+Florida,Janssen,2021-03-01,175100,NA
+Florida,Janssen,2021-03-15,24100,NA
+Florida,Janssen,2021-03-22,24100,NA
+Florida,Janssen,2021-03-29,122900,NA
+Florida,Janssen,2021-04-05,313200,NA
+Florida,Janssen,2021-04-12,37000,NA
+Florida,Janssen,2021-05-03,48100,NA
+Florida,Janssen,2021-05-10,37000,NA
+Florida,Moderna,2020-12-21,367900,367900
+Florida,Moderna,2020-12-28,127100,127100
+Florida,Moderna,2021-01-04,126600,126600
+Florida,Moderna,2021-01-11,127100,127100
+Florida,Moderna,2021-01-18,133500,133500
+Florida,Moderna,2021-01-25,133500,133500
+Florida,Moderna,2021-02-01,176100,176100
+Florida,Moderna,2021-02-08,192500,192500
+Florida,Moderna,2021-02-15,208000,208000
+Florida,Moderna,2021-02-22,208000,208000
+Florida,Moderna,2021-03-01,208000,208000
+Florida,Moderna,2021-03-08,208000,208000
+Florida,Moderna,2021-03-15,208000,208000
+Florida,Moderna,2021-03-22,208000,208000
+Florida,Moderna,2021-03-29,208000,208000
+Florida,Moderna,2021-04-05,217400,217400
+Florida,Moderna,2021-04-12,217400,217400
+Florida,Moderna,2021-04-19,234500,234500
+Florida,Moderna,2021-04-26,234500,234500
+Florida,Moderna,2021-05-03,234500,234500
+Florida,Moderna,2021-05-10,239700,239700
+Florida,Moderna,2021-05-17,239560,239560
+Florida,Moderna,2021-05-24,239560,239560
+Florida,Moderna,2021-05-31,234360,234360
+Florida,Pfizer,2020-12-14,179400,179400
+Florida,Pfizer,2020-12-21,127725,127725
+Florida,Pfizer,2020-12-28,162825,162825
+Florida,Pfizer,2021-01-04,126750,126750
+Florida,Pfizer,2021-01-11,127725,127725
+Florida,Pfizer,2021-01-18,132600,132600
+Florida,Pfizer,2021-01-25,132600,132600
+Florida,Pfizer,2021-02-01,131625,131625
+Florida,Pfizer,2021-02-08,132600,132600
+Florida,Pfizer,2021-02-15,132600,132600
+Florida,Pfizer,2021-02-22,209430,209430
+Florida,Pfizer,2021-03-01,239850,239850
+Florida,Pfizer,2021-03-08,262080,262080
+Florida,Pfizer,2021-03-15,281970,281970
+Florida,Pfizer,2021-03-22,286650,286650
+Florida,Pfizer,2021-03-29,352170,352170
+Florida,Pfizer,2021-04-05,286650,286650
+Florida,Pfizer,2021-04-12,293670,293670
+Florida,Pfizer,2021-04-19,314730,314730
+Florida,Pfizer,2021-04-26,314730,314730
+Florida,Pfizer,2021-05-03,314730,314730
+Florida,Pfizer,2021-05-10,314730,314730
+Florida,Pfizer,2021-05-17,314730,314730
+Florida,Pfizer,2021-05-24,314730,314730
+Florida,Pfizer,2021-05-31,314640,314640
+Georgia,Janssen,2021-03-01,83000,NA
+Georgia,Janssen,2021-03-15,11500,NA
+Georgia,Janssen,2021-03-22,11500,NA
+Georgia,Janssen,2021-03-29,58400,NA
+Georgia,Janssen,2021-04-05,148500,NA
+Georgia,Janssen,2021-04-12,17600,NA
+Georgia,Janssen,2021-05-03,22800,NA
+Georgia,Janssen,2021-05-10,17600,NA
+Georgia,Moderna,2020-12-21,174400,174400
+Georgia,Moderna,2020-12-28,60200,60200
+Georgia,Moderna,2021-01-04,60000,60000
+Georgia,Moderna,2021-01-11,60200,60200
+Georgia,Moderna,2021-01-18,63300,63300
+Georgia,Moderna,2021-01-25,63300,63300
+Georgia,Moderna,2021-02-01,83500,83500
+Georgia,Moderna,2021-02-08,91300,91300
+Georgia,Moderna,2021-02-15,98600,98600
+Georgia,Moderna,2021-02-22,98600,98600
+Georgia,Moderna,2021-03-01,98600,98600
+Georgia,Moderna,2021-03-08,98600,98600
+Georgia,Moderna,2021-03-15,98600,98600
+Georgia,Moderna,2021-03-22,98600,98600
+Georgia,Moderna,2021-03-29,98600,98600
+Georgia,Moderna,2021-04-05,103000,103000
+Georgia,Moderna,2021-04-12,103000,103000
+Georgia,Moderna,2021-04-19,111100,111100
+Georgia,Moderna,2021-04-26,111100,111100
+Georgia,Moderna,2021-05-03,111100,111100
+Georgia,Moderna,2021-05-10,113600,113600
+Georgia,Moderna,2021-05-17,113660,113660
+Georgia,Moderna,2021-05-24,113660,113660
+Georgia,Moderna,2021-05-31,111160,111160
+Georgia,Pfizer,2020-12-14,84825,84825
+Georgia,Pfizer,2020-12-21,60450,60450
+Georgia,Pfizer,2020-12-28,77025,77025
+Georgia,Pfizer,2021-01-04,60450,60450
+Georgia,Pfizer,2021-01-11,60450,60450
+Georgia,Pfizer,2021-01-18,63375,63375
+Georgia,Pfizer,2021-01-25,63375,63375
+Georgia,Pfizer,2021-02-01,62400,62400
+Georgia,Pfizer,2021-02-08,63375,63375
+Georgia,Pfizer,2021-02-15,63375,63375
+Georgia,Pfizer,2021-02-22,99450,99450
+Georgia,Pfizer,2021-03-01,114660,114660
+Georgia,Pfizer,2021-03-08,125190,125190
+Georgia,Pfizer,2021-03-15,134550,134550
+Georgia,Pfizer,2021-03-22,136890,136890
+Georgia,Pfizer,2021-03-29,167310,167310
+Georgia,Pfizer,2021-04-05,136890,136890
+Georgia,Pfizer,2021-04-12,139230,139230
+Georgia,Pfizer,2021-04-19,149760,149760
+Georgia,Pfizer,2021-04-26,149760,149760
+Georgia,Pfizer,2021-05-03,149760,149760
+Georgia,Pfizer,2021-05-10,149760,149760
+Georgia,Pfizer,2021-05-17,149760,149760
+Georgia,Pfizer,2021-05-24,149760,149760
+Georgia,Pfizer,2021-05-31,149490,149490
+Guam,Janssen,2021-03-01,1300,NA
+Guam,Janssen,2021-03-15,200,NA
+Guam,Janssen,2021-03-22,200,NA
+Guam,Janssen,2021-03-29,900,NA
+Guam,Janssen,2021-04-05,16900,NA
+Guam,Janssen,2021-04-12,0,NA
+Guam,Janssen,2021-05-03,0,NA
+Guam,Janssen,2021-05-10,0,NA
+Guam,Moderna,2020-12-21,7600,0
+Guam,Moderna,2020-12-28,0,0
+Guam,Moderna,2021-01-04,7200,0
+Guam,Moderna,2021-01-11,0,0
+Guam,Moderna,2021-01-18,0,0
+Guam,Moderna,2021-01-25,0,0
+Guam,Moderna,2021-02-01,9200,0
+Guam,Moderna,2021-02-08,0,0
+Guam,Moderna,2021-02-15,0,0
+Guam,Moderna,2021-02-22,0,0
+Guam,Moderna,2021-03-01,14200,0
+Guam,Moderna,2021-03-08,0,0
+Guam,Moderna,2021-03-15,0,0
+Guam,Moderna,2021-03-22,0,0
+Guam,Moderna,2021-03-29,15000,0
+Guam,Moderna,2021-04-05,0,0
+Guam,Moderna,2021-04-12,0,0
+Guam,Moderna,2021-04-19,0,0
+Guam,Moderna,2021-04-26,0,0
+Guam,Moderna,2021-05-03,0,0
+Guam,Moderna,2021-05-10,0,0
+Guam,Moderna,2021-05-17,0,0
+Guam,Moderna,2021-05-24,0,0
+Guam,Moderna,2021-05-31,0,0
+Guam,Pfizer,2020-12-14,11700,0
+Guam,Pfizer,2020-12-21,0,0
+Guam,Pfizer,2020-12-28,0,0
+Guam,Pfizer,2021-01-04,7800,0
+Guam,Pfizer,2021-01-11,0,0
+Guam,Pfizer,2021-01-18,0,0
+Guam,Pfizer,2021-01-25,0,0
+Guam,Pfizer,2021-02-01,7800,0
+Guam,Pfizer,2021-02-08,0,0
+Guam,Pfizer,2021-02-15,0,0
+Guam,Pfizer,2021-02-22,0,0
+Guam,Pfizer,2021-03-01,21060,0
+Guam,Pfizer,2021-03-08,0,0
+Guam,Pfizer,2021-03-15,0,0
+Guam,Pfizer,2021-03-22,0,0
+Guam,Pfizer,2021-03-29,25740,0
+Guam,Pfizer,2021-04-05,0,0
+Guam,Pfizer,2021-04-12,0,0
+Guam,Pfizer,2021-04-19,0,0
+Guam,Pfizer,2021-04-26,0,0
+Guam,Pfizer,2021-05-03,0,0
+Guam,Pfizer,2021-05-10,0,0
+Guam,Pfizer,2021-05-17,0,0
+Guam,Pfizer,2021-05-24,0,0
+Guam,Pfizer,2021-05-31,0,0
+Hawaii,Janssen,2021-03-01,11900,NA
+Hawaii,Janssen,2021-03-15,1700,NA
+Hawaii,Janssen,2021-03-22,1700,NA
+Hawaii,Janssen,2021-03-29,8400,NA
+Hawaii,Janssen,2021-04-05,21300,NA
+Hawaii,Janssen,2021-04-12,2600,NA
+Hawaii,Janssen,2021-05-03,3300,NA
+Hawaii,Janssen,2021-05-10,2600,NA
+Hawaii,Moderna,2020-12-21,25000,25000
+Hawaii,Moderna,2020-12-28,8700,8700
+Hawaii,Moderna,2021-01-04,8600,8600
+Hawaii,Moderna,2021-01-11,8700,8700
+Hawaii,Moderna,2021-01-18,9100,9100
+Hawaii,Moderna,2021-01-25,9100,9100
+Hawaii,Moderna,2021-02-01,12000,12000
+Hawaii,Moderna,2021-02-08,13100,13100
+Hawaii,Moderna,2021-02-15,14200,14200
+Hawaii,Moderna,2021-02-22,14200,14200
+Hawaii,Moderna,2021-03-01,14200,14200
+Hawaii,Moderna,2021-03-08,14200,14200
+Hawaii,Moderna,2021-03-15,14200,14200
+Hawaii,Moderna,2021-03-22,14200,14200
+Hawaii,Moderna,2021-03-29,14200,14200
+Hawaii,Moderna,2021-04-05,14800,14800
+Hawaii,Moderna,2021-04-12,14800,14800
+Hawaii,Moderna,2021-04-19,15900,15900
+Hawaii,Moderna,2021-04-26,15900,15900
+Hawaii,Moderna,2021-05-03,15900,15900
+Hawaii,Moderna,2021-05-10,16300,16300
+Hawaii,Moderna,2021-05-17,16360,16360
+Hawaii,Moderna,2021-05-24,16360,16360
+Hawaii,Moderna,2021-05-31,15960,15960
+Hawaii,Pfizer,2020-12-14,12675,12675
+Hawaii,Pfizer,2020-12-21,8775,8775
+Hawaii,Pfizer,2020-12-28,11700,11700
+Hawaii,Pfizer,2021-01-04,8775,8775
+Hawaii,Pfizer,2021-01-11,8775,8775
+Hawaii,Pfizer,2021-01-18,9750,9750
+Hawaii,Pfizer,2021-01-25,9750,9750
+Hawaii,Pfizer,2021-02-01,9750,9750
+Hawaii,Pfizer,2021-02-08,9750,9750
+Hawaii,Pfizer,2021-02-15,9750,9750
+Hawaii,Pfizer,2021-02-22,15210,15210
+Hawaii,Pfizer,2021-03-01,16380,16380
+Hawaii,Pfizer,2021-03-08,18720,18720
+Hawaii,Pfizer,2021-03-15,19890,19890
+Hawaii,Pfizer,2021-03-22,19890,19890
+Hawaii,Pfizer,2021-03-29,24570,24570
+Hawaii,Pfizer,2021-04-05,19890,19890
+Hawaii,Pfizer,2021-04-12,19890,19890
+Hawaii,Pfizer,2021-04-19,22230,22230
+Hawaii,Pfizer,2021-04-26,22230,22230
+Hawaii,Pfizer,2021-05-03,22230,22230
+Hawaii,Pfizer,2021-05-10,22230,22230
+Hawaii,Pfizer,2021-05-17,22230,22230
+Hawaii,Pfizer,2021-05-24,22230,22230
+Hawaii,Pfizer,2021-05-31,22590,22590
+Idaho,Janssen,2021-03-01,13300,NA
+Idaho,Janssen,2021-03-15,1900,NA
+Idaho,Janssen,2021-03-22,1900,NA
+Idaho,Janssen,2021-03-29,9500,NA
+Idaho,Janssen,2021-04-05,23800,NA
+Idaho,Janssen,2021-04-12,2900,NA
+Idaho,Janssen,2021-05-03,3700,NA
+Idaho,Janssen,2021-05-10,2900,NA
+Idaho,Moderna,2020-12-21,28000,28000
+Idaho,Moderna,2020-12-28,9700,9700
+Idaho,Moderna,2021-01-04,9700,9700
+Idaho,Moderna,2021-01-11,9700,9700
+Idaho,Moderna,2021-01-18,10200,10200
+Idaho,Moderna,2021-01-25,10200,10200
+Idaho,Moderna,2021-02-01,13400,13400
+Idaho,Moderna,2021-02-08,14700,14700
+Idaho,Moderna,2021-02-15,15800,15800
+Idaho,Moderna,2021-02-22,15800,15800
+Idaho,Moderna,2021-03-01,15800,15800
+Idaho,Moderna,2021-03-08,15800,15800
+Idaho,Moderna,2021-03-15,15800,15800
+Idaho,Moderna,2021-03-22,15800,15800
+Idaho,Moderna,2021-03-29,15800,15800
+Idaho,Moderna,2021-04-05,16600,16600
+Idaho,Moderna,2021-04-12,16600,16600
+Idaho,Moderna,2021-04-19,17800,17800
+Idaho,Moderna,2021-04-26,17800,17800
+Idaho,Moderna,2021-05-03,17800,17800
+Idaho,Moderna,2021-05-10,18200,18200
+Idaho,Moderna,2021-05-17,18320,18320
+Idaho,Moderna,2021-05-24,18320,18320
+Idaho,Moderna,2021-05-31,17920,17920
+Idaho,Pfizer,2020-12-14,13650,13650
+Idaho,Pfizer,2020-12-21,9750,9750
+Idaho,Pfizer,2020-12-28,12675,12675
+Idaho,Pfizer,2021-01-04,9750,9750
+Idaho,Pfizer,2021-01-11,9750,9750
+Idaho,Pfizer,2021-01-18,10725,10725
+Idaho,Pfizer,2021-01-25,10725,10725
+Idaho,Pfizer,2021-02-01,10725,10725
+Idaho,Pfizer,2021-02-08,10725,10725
+Idaho,Pfizer,2021-02-15,10725,10725
+Idaho,Pfizer,2021-02-22,16380,16380
+Idaho,Pfizer,2021-03-01,18720,18720
+Idaho,Pfizer,2021-03-08,19890,19890
+Idaho,Pfizer,2021-03-15,22230,22230
+Idaho,Pfizer,2021-03-22,22230,22230
+Idaho,Pfizer,2021-03-29,26910,26910
+Idaho,Pfizer,2021-04-05,22230,22230
+Idaho,Pfizer,2021-04-12,23400,23400
+Idaho,Pfizer,2021-04-19,24570,24570
+Idaho,Pfizer,2021-04-26,24570,24570
+Idaho,Pfizer,2021-05-03,24570,24570
+Idaho,Pfizer,2021-05-10,24570,24570
+Idaho,Pfizer,2021-05-17,24570,24570
+Idaho,Pfizer,2021-05-24,24570,24570
+Idaho,Pfizer,2021-05-31,25110,25110
+Illinois,Janssen,2021-03-01,83100,NA
+Illinois,Janssen,2021-03-15,11500,NA
+Illinois,Janssen,2021-03-22,11500,NA
+Illinois,Janssen,2021-03-29,58400,NA
+Illinois,Janssen,2021-04-05,148600,NA
+Illinois,Janssen,2021-04-12,17600,NA
+Illinois,Janssen,2021-05-03,22800,NA
+Illinois,Janssen,2021-05-10,17600,NA
+Illinois,Moderna,2020-12-21,174600,174600
+Illinois,Moderna,2020-12-28,60300,60300
+Illinois,Moderna,2021-01-04,60100,60100
+Illinois,Moderna,2021-01-11,60300,60300
+Illinois,Moderna,2021-01-18,63300,63300
+Illinois,Moderna,2021-01-25,63300,63300
+Illinois,Moderna,2021-02-01,83600,83600
+Illinois,Moderna,2021-02-08,91300,91300
+Illinois,Moderna,2021-02-15,98700,98700
+Illinois,Moderna,2021-02-22,98700,98700
+Illinois,Moderna,2021-03-01,98700,98700
+Illinois,Moderna,2021-03-08,98700,98700
+Illinois,Moderna,2021-03-15,98700,98700
+Illinois,Moderna,2021-03-22,98700,98700
+Illinois,Moderna,2021-03-29,98700,98700
+Illinois,Moderna,2021-04-05,103100,103100
+Illinois,Moderna,2021-04-12,103100,103100
+Illinois,Moderna,2021-04-19,111300,111300
+Illinois,Moderna,2021-04-26,111300,111300
+Illinois,Moderna,2021-05-03,111300,111300
+Illinois,Moderna,2021-05-10,113800,113800
+Illinois,Moderna,2021-05-17,113660,113660
+Illinois,Moderna,2021-05-24,113660,113660
+Illinois,Moderna,2021-05-31,111160,111160
+Illinois,Pfizer,2020-12-14,85800,85800
+Illinois,Pfizer,2020-12-21,60450,60450
+Illinois,Pfizer,2020-12-28,78000,78000
+Illinois,Pfizer,2021-01-04,60450,60450
+Illinois,Pfizer,2021-01-11,60450,60450
+Illinois,Pfizer,2021-01-18,63375,63375
+Illinois,Pfizer,2021-01-25,63375,63375
+Illinois,Pfizer,2021-02-01,62400,62400
+Illinois,Pfizer,2021-02-08,63375,63375
+Illinois,Pfizer,2021-02-15,63375,63375
+Illinois,Pfizer,2021-02-22,99450,99450
+Illinois,Pfizer,2021-03-01,114660,114660
+Illinois,Pfizer,2021-03-08,125190,125190
+Illinois,Pfizer,2021-03-15,134550,134550
+Illinois,Pfizer,2021-03-22,136890,136890
+Illinois,Pfizer,2021-03-29,167310,167310
+Illinois,Pfizer,2021-04-05,136890,136890
+Illinois,Pfizer,2021-04-12,139230,139230
+Illinois,Pfizer,2021-04-19,149760,149760
+Illinois,Pfizer,2021-04-26,149760,149760
+Illinois,Pfizer,2021-05-03,149760,149760
+Illinois,Pfizer,2021-05-10,149760,149760
+Illinois,Pfizer,2021-05-17,149760,149760
+Illinois,Pfizer,2021-05-24,149760,149760
+Illinois,Pfizer,2021-05-31,149490,149490
+Indiana,Janssen,2021-03-01,53900,NA
+Indiana,Janssen,2021-03-15,7500,NA
+Indiana,Janssen,2021-03-22,7500,NA
+Indiana,Janssen,2021-03-29,38000,NA
+Indiana,Janssen,2021-04-05,96500,NA
+Indiana,Janssen,2021-04-12,11400,NA
+Indiana,Janssen,2021-05-03,14800,NA
+Indiana,Janssen,2021-05-10,11400,NA
+Indiana,Moderna,2020-12-21,113300,113300
+Indiana,Moderna,2020-12-28,39200,39200
+Indiana,Moderna,2021-01-04,39000,39000
+Indiana,Moderna,2021-01-11,39200,39200
+Indiana,Moderna,2021-01-18,41100,41100
+Indiana,Moderna,2021-01-25,41100,41100
+Indiana,Moderna,2021-02-01,54300,54300
+Indiana,Moderna,2021-02-08,59300,59300
+Indiana,Moderna,2021-02-15,64100,64100
+Indiana,Moderna,2021-02-22,64100,64100
+Indiana,Moderna,2021-03-01,64100,64100
+Indiana,Moderna,2021-03-08,64100,64100
+Indiana,Moderna,2021-03-15,64100,64100
+Indiana,Moderna,2021-03-22,64100,64100
+Indiana,Moderna,2021-03-29,64100,64100
+Indiana,Moderna,2021-04-05,66900,66900
+Indiana,Moderna,2021-04-12,66900,66900
+Indiana,Moderna,2021-04-19,72200,72200
+Indiana,Moderna,2021-04-26,72200,72200
+Indiana,Moderna,2021-05-03,72200,72200
+Indiana,Moderna,2021-05-10,73800,73800
+Indiana,Moderna,2021-05-17,73840,73840
+Indiana,Moderna,2021-05-24,73840,73840
+Indiana,Moderna,2021-05-31,72240,72240
+Indiana,Pfizer,2020-12-14,55575,55575
+Indiana,Pfizer,2020-12-21,39975,39975
+Indiana,Pfizer,2020-12-28,50700,50700
+Indiana,Pfizer,2021-01-04,39000,39000
+Indiana,Pfizer,2021-01-11,39975,39975
+Indiana,Pfizer,2021-01-18,40950,40950
+Indiana,Pfizer,2021-01-25,40950,40950
+Indiana,Pfizer,2021-02-01,40950,40950
+Indiana,Pfizer,2021-02-08,40950,40950
+Indiana,Pfizer,2021-02-15,40950,40950
+Indiana,Pfizer,2021-02-22,64350,64350
+Indiana,Pfizer,2021-03-01,74880,74880
+Indiana,Pfizer,2021-03-08,80730,80730
+Indiana,Pfizer,2021-03-15,87750,87750
+Indiana,Pfizer,2021-03-22,88920,88920
+Indiana,Pfizer,2021-03-29,108810,108810
+Indiana,Pfizer,2021-04-05,88920,88920
+Indiana,Pfizer,2021-04-12,91260,91260
+Indiana,Pfizer,2021-04-19,97110,97110
+Indiana,Pfizer,2021-04-26,97110,97110
+Indiana,Pfizer,2021-05-03,97110,97110
+Indiana,Pfizer,2021-05-10,97110,97110
+Indiana,Pfizer,2021-05-17,97110,97110
+Indiana,Pfizer,2021-05-24,97110,97110
+Indiana,Pfizer,2021-05-31,97200,97200
+Iowa,Janssen,2021-03-01,25600,NA
+Iowa,Janssen,2021-03-15,3600,NA
+Iowa,Janssen,2021-03-22,3600,NA
+Iowa,Janssen,2021-03-29,18100,NA
+Iowa,Janssen,2021-04-05,45800,NA
+Iowa,Janssen,2021-04-12,5400,NA
+Iowa,Janssen,2021-05-03,7100,NA
+Iowa,Janssen,2021-05-10,5500,NA
+Iowa,Moderna,2020-12-21,53800,53800
+Iowa,Moderna,2020-12-28,18600,18600
+Iowa,Moderna,2021-01-04,18500,18500
+Iowa,Moderna,2021-01-11,18600,18600
+Iowa,Moderna,2021-01-18,19500,19500
+Iowa,Moderna,2021-01-25,19500,19500
+Iowa,Moderna,2021-02-01,25800,25800
+Iowa,Moderna,2021-02-08,28200,28200
+Iowa,Moderna,2021-02-15,30400,30400
+Iowa,Moderna,2021-02-22,30400,30400
+Iowa,Moderna,2021-03-01,30400,30400
+Iowa,Moderna,2021-03-08,30400,30400
+Iowa,Moderna,2021-03-15,30400,30400
+Iowa,Moderna,2021-03-22,30400,30400
+Iowa,Moderna,2021-03-29,30400,30400
+Iowa,Moderna,2021-04-05,31800,31800
+Iowa,Moderna,2021-04-12,31800,31800
+Iowa,Moderna,2021-04-19,34300,34300
+Iowa,Moderna,2021-04-26,34300,34300
+Iowa,Moderna,2021-05-03,34300,34300
+Iowa,Moderna,2021-05-10,35100,35100
+Iowa,Moderna,2021-05-17,35100,35100
+Iowa,Moderna,2021-05-24,35100,35100
+Iowa,Moderna,2021-05-31,34300,34300
+Iowa,Pfizer,2020-12-14,26325,26325
+Iowa,Pfizer,2020-12-21,19500,19500
+Iowa,Pfizer,2020-12-28,24375,24375
+Iowa,Pfizer,2021-01-04,18525,18525
+Iowa,Pfizer,2021-01-11,19500,19500
+Iowa,Pfizer,2021-01-18,19500,19500
+Iowa,Pfizer,2021-01-25,19500,19500
+Iowa,Pfizer,2021-02-01,19500,19500
+Iowa,Pfizer,2021-02-08,19500,19500
+Iowa,Pfizer,2021-02-15,19500,19500
+Iowa,Pfizer,2021-02-22,31590,31590
+Iowa,Pfizer,2021-03-01,35100,35100
+Iowa,Pfizer,2021-03-08,38610,38610
+Iowa,Pfizer,2021-03-15,42120,42120
+Iowa,Pfizer,2021-03-22,42120,42120
+Iowa,Pfizer,2021-03-29,51480,51480
+Iowa,Pfizer,2021-04-05,42120,42120
+Iowa,Pfizer,2021-04-12,43290,43290
+Iowa,Pfizer,2021-04-19,46800,46800
+Iowa,Pfizer,2021-04-26,46800,46800
+Iowa,Pfizer,2021-05-03,46800,46800
+Iowa,Pfizer,2021-05-10,46800,46800
+Iowa,Pfizer,2021-05-17,46800,46800
+Iowa,Pfizer,2021-05-24,46800,46800
+Iowa,Pfizer,2021-05-31,46530,46530
+Kansas,Janssen,2021-03-01,23400,NA
+Kansas,Janssen,2021-03-15,3300,NA
+Kansas,Janssen,2021-03-22,3300,NA
+Kansas,Janssen,2021-03-29,16500,NA
+Kansas,Janssen,2021-04-05,41800,NA
+Kansas,Janssen,2021-04-12,5000,NA
+Kansas,Janssen,2021-05-03,6400,NA
+Kansas,Janssen,2021-05-10,5000,NA
+Kansas,Moderna,2020-12-21,49100,49100
+Kansas,Moderna,2020-12-28,17000,17000
+Kansas,Moderna,2021-01-04,16900,16900
+Kansas,Moderna,2021-01-11,17000,17000
+Kansas,Moderna,2021-01-18,17800,17800
+Kansas,Moderna,2021-01-25,17800,17800
+Kansas,Moderna,2021-02-01,23500,23500
+Kansas,Moderna,2021-02-08,25700,25700
+Kansas,Moderna,2021-02-15,27800,27800
+Kansas,Moderna,2021-02-22,27800,27800
+Kansas,Moderna,2021-03-01,27800,27800
+Kansas,Moderna,2021-03-08,27800,27800
+Kansas,Moderna,2021-03-15,27800,27800
+Kansas,Moderna,2021-03-22,27800,27800
+Kansas,Moderna,2021-03-29,27800,27800
+Kansas,Moderna,2021-04-05,29000,29000
+Kansas,Moderna,2021-04-12,29000,29000
+Kansas,Moderna,2021-04-19,31300,31300
+Kansas,Moderna,2021-04-26,31300,31300
+Kansas,Moderna,2021-05-03,31300,31300
+Kansas,Moderna,2021-05-10,32000,32000
+Kansas,Moderna,2021-05-17,32060,32060
+Kansas,Moderna,2021-05-24,32060,32060
+Kansas,Moderna,2021-05-31,31360,31360
+Kansas,Pfizer,2020-12-14,24375,24375
+Kansas,Pfizer,2020-12-21,17550,17550
+Kansas,Pfizer,2020-12-28,22425,22425
+Kansas,Pfizer,2021-01-04,17550,17550
+Kansas,Pfizer,2021-01-11,17550,17550
+Kansas,Pfizer,2021-01-18,18525,18525
+Kansas,Pfizer,2021-01-25,18525,18525
+Kansas,Pfizer,2021-02-01,17550,17550
+Kansas,Pfizer,2021-02-08,18525,18525
+Kansas,Pfizer,2021-02-15,18525,18525
+Kansas,Pfizer,2021-02-22,28080,28080
+Kansas,Pfizer,2021-03-01,32760,32760
+Kansas,Pfizer,2021-03-08,35100,35100
+Kansas,Pfizer,2021-03-15,38610,38610
+Kansas,Pfizer,2021-03-22,38610,38610
+Kansas,Pfizer,2021-03-29,47970,47970
+Kansas,Pfizer,2021-04-05,38610,38610
+Kansas,Pfizer,2021-04-12,39780,39780
+Kansas,Pfizer,2021-04-19,42120,42120
+Kansas,Pfizer,2021-04-26,42120,42120
+Kansas,Pfizer,2021-05-03,42120,42120
+Kansas,Pfizer,2021-05-10,42120,42120
+Kansas,Pfizer,2021-05-17,42120,42120
+Kansas,Pfizer,2021-05-24,42120,42120
+Kansas,Pfizer,2021-05-31,42390,42390
+Kentucky,Janssen,2021-03-01,36500,NA
+Kentucky,Janssen,2021-03-15,5100,NA
+Kentucky,Janssen,2021-03-22,5100,NA
+Kentucky,Janssen,2021-03-29,25700,NA
+Kentucky,Janssen,2021-04-05,65300,NA
+Kentucky,Janssen,2021-04-12,7800,NA
+Kentucky,Janssen,2021-05-03,10100,NA
+Kentucky,Janssen,2021-05-10,7800,NA
+Kentucky,Moderna,2020-12-21,76700,76700
+Kentucky,Moderna,2020-12-28,26500,26500
+Kentucky,Moderna,2021-01-04,26400,26400
+Kentucky,Moderna,2021-01-11,26500,26500
+Kentucky,Moderna,2021-01-18,27900,27900
+Kentucky,Moderna,2021-01-25,27900,27900
+Kentucky,Moderna,2021-02-01,36700,36700
+Kentucky,Moderna,2021-02-08,40200,40200
+Kentucky,Moderna,2021-02-15,43400,43400
+Kentucky,Moderna,2021-02-22,43400,43400
+Kentucky,Moderna,2021-03-01,43400,43400
+Kentucky,Moderna,2021-03-08,43400,43400
+Kentucky,Moderna,2021-03-15,43400,43400
+Kentucky,Moderna,2021-03-22,43400,43400
+Kentucky,Moderna,2021-03-29,43400,43400
+Kentucky,Moderna,2021-04-05,45300,45300
+Kentucky,Moderna,2021-04-12,45300,45300
+Kentucky,Moderna,2021-04-19,48900,48900
+Kentucky,Moderna,2021-04-26,48900,48900
+Kentucky,Moderna,2021-05-03,48900,48900
+Kentucky,Moderna,2021-05-10,50000,50000
+Kentucky,Moderna,2021-05-17,49960,49960
+Kentucky,Moderna,2021-05-24,49960,49960
+Kentucky,Moderna,2021-05-31,48860,48860
+Kentucky,Pfizer,2020-12-14,38025,38025
+Kentucky,Pfizer,2020-12-21,27300,27300
+Kentucky,Pfizer,2020-12-28,34125,34125
+Kentucky,Pfizer,2021-01-04,27300,27300
+Kentucky,Pfizer,2021-01-11,27300,27300
+Kentucky,Pfizer,2021-01-18,28275,28275
+Kentucky,Pfizer,2021-01-25,28275,28275
+Kentucky,Pfizer,2021-02-01,28275,28275
+Kentucky,Pfizer,2021-02-08,28275,28275
+Kentucky,Pfizer,2021-02-15,28275,28275
+Kentucky,Pfizer,2021-02-22,44460,44460
+Kentucky,Pfizer,2021-03-01,50310,50310
+Kentucky,Pfizer,2021-03-08,54990,54990
+Kentucky,Pfizer,2021-03-15,59670,59670
+Kentucky,Pfizer,2021-03-22,60840,60840
+Kentucky,Pfizer,2021-03-29,73710,73710
+Kentucky,Pfizer,2021-04-05,60840,60840
+Kentucky,Pfizer,2021-04-12,62010,62010
+Kentucky,Pfizer,2021-04-19,66690,66690
+Kentucky,Pfizer,2021-04-26,66690,66690
+Kentucky,Pfizer,2021-05-03,66690,66690
+Kentucky,Pfizer,2021-05-10,66690,66690
+Kentucky,Pfizer,2021-05-17,66690,66690
+Kentucky,Pfizer,2021-05-24,66690,66690
+Kentucky,Pfizer,2021-05-31,65880,65880
+Louisiana,Janssen,2021-03-01,37900,NA
+Louisiana,Janssen,2021-03-15,5200,NA
+Louisiana,Janssen,2021-03-22,5200,NA
+Louisiana,Janssen,2021-03-29,26600,NA
+Louisiana,Janssen,2021-04-05,67700,NA
+Louisiana,Janssen,2021-04-12,8000,NA
+Louisiana,Janssen,2021-05-03,10400,NA
+Louisiana,Janssen,2021-05-10,8000,NA
+Louisiana,Moderna,2020-12-21,79500,79500
+Louisiana,Moderna,2020-12-28,27500,27500
+Louisiana,Moderna,2021-01-04,27400,27400
+Louisiana,Moderna,2021-01-11,27500,27500
+Louisiana,Moderna,2021-01-18,28900,28900
+Louisiana,Moderna,2021-01-25,28900,28900
+Louisiana,Moderna,2021-02-01,38100,38100
+Louisiana,Moderna,2021-02-08,41600,41600
+Louisiana,Moderna,2021-02-15,45000,45000
+Louisiana,Moderna,2021-02-22,45000,45000
+Louisiana,Moderna,2021-03-01,45000,45000
+Louisiana,Moderna,2021-03-08,45000,45000
+Louisiana,Moderna,2021-03-15,45000,45000
+Louisiana,Moderna,2021-03-22,45000,45000
+Louisiana,Moderna,2021-03-29,45000,45000
+Louisiana,Moderna,2021-04-05,47000,47000
+Louisiana,Moderna,2021-04-12,47000,47000
+Louisiana,Moderna,2021-04-19,50700,50700
+Louisiana,Moderna,2021-04-26,50700,50700
+Louisiana,Moderna,2021-05-03,50700,50700
+Louisiana,Moderna,2021-05-10,51900,51900
+Louisiana,Moderna,2021-05-17,51880,51880
+Louisiana,Moderna,2021-05-24,51880,51880
+Louisiana,Moderna,2021-05-31,50680,50680
+Louisiana,Pfizer,2020-12-14,39000,39000
+Louisiana,Pfizer,2020-12-21,28275,28275
+Louisiana,Pfizer,2020-12-28,36075,36075
+Louisiana,Pfizer,2021-01-04,28275,28275
+Louisiana,Pfizer,2021-01-11,28275,28275
+Louisiana,Pfizer,2021-01-18,29250,29250
+Louisiana,Pfizer,2021-01-25,29250,29250
+Louisiana,Pfizer,2021-02-01,29250,29250
+Louisiana,Pfizer,2021-02-08,29250,29250
+Louisiana,Pfizer,2021-02-15,29250,29250
+Louisiana,Pfizer,2021-02-22,45630,45630
+Louisiana,Pfizer,2021-03-01,52650,52650
+Louisiana,Pfizer,2021-03-08,57330,57330
+Louisiana,Pfizer,2021-03-15,62010,62010
+Louisiana,Pfizer,2021-03-22,62010,62010
+Louisiana,Pfizer,2021-03-29,77220,77220
+Louisiana,Pfizer,2021-04-05,62010,62010
+Louisiana,Pfizer,2021-04-12,64350,64350
+Louisiana,Pfizer,2021-04-19,69030,69030
+Louisiana,Pfizer,2021-04-26,69030,69030
+Louisiana,Pfizer,2021-05-03,69030,69030
+Louisiana,Pfizer,2021-05-10,69030,69030
+Louisiana,Pfizer,2021-05-17,69030,69030
+Louisiana,Pfizer,2021-05-24,69030,69030
+Louisiana,Pfizer,2021-05-31,69120,69120
+Maine,Janssen,2021-03-01,11500,NA
+Maine,Janssen,2021-03-15,1600,NA
+Maine,Janssen,2021-03-22,1600,NA
+Maine,Janssen,2021-03-29,8100,NA
+Maine,Janssen,2021-04-05,20600,NA
+Maine,Janssen,2021-04-12,2500,NA
+Maine,Janssen,2021-05-03,3200,NA
+Maine,Janssen,2021-05-10,2500,NA
+Maine,Moderna,2020-12-21,24200,24200
+Maine,Moderna,2020-12-28,8400,8400
+Maine,Moderna,2021-01-04,8300,8300
+Maine,Moderna,2021-01-11,8400,8400
+Maine,Moderna,2021-01-18,8800,8800
+Maine,Moderna,2021-01-25,8800,8800
+Maine,Moderna,2021-02-01,11600,11600
+Maine,Moderna,2021-02-08,12700,12700
+Maine,Moderna,2021-02-15,13700,13700
+Maine,Moderna,2021-02-22,13700,13700
+Maine,Moderna,2021-03-01,13700,13700
+Maine,Moderna,2021-03-08,13700,13700
+Maine,Moderna,2021-03-15,13700,13700
+Maine,Moderna,2021-03-22,13700,13700
+Maine,Moderna,2021-03-29,13700,13700
+Maine,Moderna,2021-04-05,14300,14300
+Maine,Moderna,2021-04-12,14300,14300
+Maine,Moderna,2021-04-19,15400,15400
+Maine,Moderna,2021-04-26,15400,15400
+Maine,Moderna,2021-05-03,15400,15400
+Maine,Moderna,2021-05-10,15800,15800
+Maine,Moderna,2021-05-17,15800,15800
+Maine,Moderna,2021-05-24,15800,15800
+Maine,Moderna,2021-05-31,15400,15400
+Maine,Pfizer,2020-12-14,12675,12675
+Maine,Pfizer,2020-12-21,8775,8775
+Maine,Pfizer,2020-12-28,10725,10725
+Maine,Pfizer,2021-01-04,8775,8775
+Maine,Pfizer,2021-01-11,8775,8775
+Maine,Pfizer,2021-01-18,8775,8775
+Maine,Pfizer,2021-01-25,8775,8775
+Maine,Pfizer,2021-02-01,8775,8775
+Maine,Pfizer,2021-02-08,8775,8775
+Maine,Pfizer,2021-02-15,8775,8775
+Maine,Pfizer,2021-02-22,14040,14040
+Maine,Pfizer,2021-03-01,16380,16380
+Maine,Pfizer,2021-03-08,17550,17550
+Maine,Pfizer,2021-03-15,18720,18720
+Maine,Pfizer,2021-03-22,19890,19890
+Maine,Pfizer,2021-03-29,23400,23400
+Maine,Pfizer,2021-04-05,19890,19890
+Maine,Pfizer,2021-04-12,19890,19890
+Maine,Pfizer,2021-04-19,21060,21060
+Maine,Pfizer,2021-04-26,21060,21060
+Maine,Pfizer,2021-05-03,21060,21060
+Maine,Pfizer,2021-05-10,21060,21060
+Maine,Pfizer,2021-05-17,21060,21060
+Maine,Pfizer,2021-05-24,21060,21060
+Maine,Pfizer,2021-05-31,21420,21420
+Mariana Islands,Janssen,2021-03-01,400,NA
+Mariana Islands,Janssen,2021-03-15,100,NA
+Mariana Islands,Janssen,2021-03-22,100,NA
+Mariana Islands,Janssen,2021-03-29,400,NA
+Mariana Islands,Janssen,2021-04-05,1600,NA
+Mariana Islands,Janssen,2021-04-12,0,NA
+Mariana Islands,Janssen,2021-05-03,0,NA
+Mariana Islands,Janssen,2021-05-10,0,NA
+Mariana Islands,Moderna,2020-12-21,2600,0
+Mariana Islands,Moderna,2020-12-28,0,0
+Mariana Islands,Moderna,2021-01-04,2400,0
+Mariana Islands,Moderna,2021-01-11,0,0
+Mariana Islands,Moderna,2021-01-18,0,0
+Mariana Islands,Moderna,2021-01-25,0,0
+Mariana Islands,Moderna,2021-02-01,3200,0
+Mariana Islands,Moderna,2021-02-08,0,0
+Mariana Islands,Moderna,2021-02-15,0,0
+Mariana Islands,Moderna,2021-02-22,0,0
+Mariana Islands,Moderna,2021-03-01,4600,0
+Mariana Islands,Moderna,2021-03-08,0,0
+Mariana Islands,Moderna,2021-03-15,0,0
+Mariana Islands,Moderna,2021-03-22,0,0
+Mariana Islands,Moderna,2021-03-29,5000,0
+Mariana Islands,Moderna,2021-04-05,0,0
+Mariana Islands,Moderna,2021-04-12,0,0
+Mariana Islands,Moderna,2021-04-19,0,0
+Mariana Islands,Moderna,2021-04-26,0,0
+Mariana Islands,Moderna,2021-05-03,0,0
+Mariana Islands,Moderna,2021-05-10,0,0
+Mariana Islands,Moderna,2021-05-17,0,0
+Mariana Islands,Moderna,2021-05-24,0,0
+Mariana Islands,Moderna,2021-05-31,0,0
+Mariana Islands,Pfizer,2020-12-14,5850,0
+Mariana Islands,Pfizer,2020-12-21,0,0
+Mariana Islands,Pfizer,2020-12-28,0,0
+Mariana Islands,Pfizer,2021-01-04,7800,0
+Mariana Islands,Pfizer,2021-01-11,0,0
+Mariana Islands,Pfizer,2021-01-18,0,0
+Mariana Islands,Pfizer,2021-01-25,0,0
+Mariana Islands,Pfizer,2021-02-01,7800,0
+Mariana Islands,Pfizer,2021-02-08,0,0
+Mariana Islands,Pfizer,2021-02-15,0,0
+Mariana Islands,Pfizer,2021-02-22,0,0
+Mariana Islands,Pfizer,2021-03-01,9360,0
+Mariana Islands,Pfizer,2021-03-08,0,0
+Mariana Islands,Pfizer,2021-03-15,0,0
+Mariana Islands,Pfizer,2021-03-22,0,0
+Mariana Islands,Pfizer,2021-03-29,11700,0
+Mariana Islands,Pfizer,2021-04-05,0,0
+Mariana Islands,Pfizer,2021-04-12,0,0
+Mariana Islands,Pfizer,2021-04-19,0,0
+Mariana Islands,Pfizer,2021-04-26,0,0
+Mariana Islands,Pfizer,2021-05-03,0,0
+Mariana Islands,Pfizer,2021-05-10,0,0
+Mariana Islands,Pfizer,2021-05-17,0,0
+Mariana Islands,Pfizer,2021-05-24,0,0
+Mariana Islands,Pfizer,2021-05-31,0,0
+Marshall Islands,Janssen,2021-03-01,600,NA
+Marshall Islands,Janssen,2021-03-15,100,NA
+Marshall Islands,Janssen,2021-03-22,100,NA
+Marshall Islands,Janssen,2021-03-29,400,NA
+Marshall Islands,Janssen,2021-04-05,9600,NA
+Marshall Islands,Janssen,2021-04-12,0,NA
+Marshall Islands,Janssen,2021-05-03,0,NA
+Marshall Islands,Janssen,2021-05-10,0,NA
+Marshall Islands,Moderna,2020-12-21,7200,0
+Marshall Islands,Moderna,2020-12-28,0,0
+Marshall Islands,Moderna,2021-01-04,6400,0
+Marshall Islands,Moderna,2021-01-11,0,0
+Marshall Islands,Moderna,2021-01-18,0,0
+Marshall Islands,Moderna,2021-01-25,0,0
+Marshall Islands,Moderna,2021-02-01,6600,0
+Marshall Islands,Moderna,2021-02-08,0,0
+Marshall Islands,Moderna,2021-02-15,0,0
+Marshall Islands,Moderna,2021-02-22,0,0
+Marshall Islands,Moderna,2021-03-01,14000,0
+Marshall Islands,Moderna,2021-03-08,0,0
+Marshall Islands,Moderna,2021-03-15,0,0
+Marshall Islands,Moderna,2021-03-22,0,0
+Marshall Islands,Moderna,2021-03-29,16800,0
+Marshall Islands,Moderna,2021-04-05,0,0
+Marshall Islands,Moderna,2021-04-12,0,0
+Marshall Islands,Moderna,2021-04-19,0,0
+Marshall Islands,Moderna,2021-04-26,0,0
+Marshall Islands,Moderna,2021-05-03,0,0
+Marshall Islands,Moderna,2021-05-10,0,0
+Marshall Islands,Moderna,2021-05-17,0,0
+Marshall Islands,Moderna,2021-05-24,0,0
+Marshall Islands,Moderna,2021-05-31,0,0
+Marshall Islands,Pfizer,2020-12-14,0,0
+Marshall Islands,Pfizer,2020-12-21,0,0
+Marshall Islands,Pfizer,2020-12-28,0,0
+Marshall Islands,Pfizer,2021-01-04,0,0
+Marshall Islands,Pfizer,2021-01-11,0,0
+Marshall Islands,Pfizer,2021-01-18,0,0
+Marshall Islands,Pfizer,2021-01-25,0,0
+Marshall Islands,Pfizer,2021-02-01,0,0
+Marshall Islands,Pfizer,2021-02-08,0,0
+Marshall Islands,Pfizer,2021-02-15,0,0
+Marshall Islands,Pfizer,2021-02-22,0,0
+Marshall Islands,Pfizer,2021-03-01,0,0
+Marshall Islands,Pfizer,2021-03-08,0,0
+Marshall Islands,Pfizer,2021-03-15,0,0
+Marshall Islands,Pfizer,2021-03-22,0,0
+Marshall Islands,Pfizer,2021-03-29,0,0
+Marshall Islands,Pfizer,2021-04-05,0,0
+Marshall Islands,Pfizer,2021-04-12,0,0
+Marshall Islands,Pfizer,2021-04-19,0,0
+Marshall Islands,Pfizer,2021-04-26,0,0
+Marshall Islands,Pfizer,2021-05-03,0,0
+Marshall Islands,Pfizer,2021-05-10,0,0
+Marshall Islands,Pfizer,2021-05-17,0,0
+Marshall Islands,Pfizer,2021-05-24,0,0
+Marshall Islands,Pfizer,2021-05-31,0,0
+Maryland,Janssen,2021-03-01,49600,NA
+Maryland,Janssen,2021-03-15,6900,NA
+Maryland,Janssen,2021-03-22,6900,NA
+Maryland,Janssen,2021-03-29,34900,NA
+Maryland,Janssen,2021-04-05,88800,NA
+Maryland,Janssen,2021-04-12,10500,NA
+Maryland,Janssen,2021-05-03,13600,NA
+Maryland,Janssen,2021-05-10,10500,NA
+Maryland,Moderna,2020-12-21,104300,104300
+Maryland,Moderna,2020-12-28,36000,36000
+Maryland,Moderna,2021-01-04,35900,35900
+Maryland,Moderna,2021-01-11,36000,36000
+Maryland,Moderna,2021-01-18,37800,37800
+Maryland,Moderna,2021-01-25,37800,37800
+Maryland,Moderna,2021-02-01,49900,49900
+Maryland,Moderna,2021-02-08,54600,54600
+Maryland,Moderna,2021-02-15,59000,59000
+Maryland,Moderna,2021-02-22,59000,59000
+Maryland,Moderna,2021-03-01,59000,59000
+Maryland,Moderna,2021-03-08,59000,59000
+Maryland,Moderna,2021-03-15,59000,59000
+Maryland,Moderna,2021-03-22,59000,59000
+Maryland,Moderna,2021-03-29,59000,59000
+Maryland,Moderna,2021-04-05,61600,61600
+Maryland,Moderna,2021-04-12,61600,61600
+Maryland,Moderna,2021-04-19,66500,66500
+Maryland,Moderna,2021-04-26,66500,66500
+Maryland,Moderna,2021-05-03,66500,66500
+Maryland,Moderna,2021-05-10,68000,68000
+Maryland,Moderna,2021-05-17,68000,68000
+Maryland,Moderna,2021-05-24,68000,68000
+Maryland,Moderna,2021-05-31,66500,66500
+Maryland,Pfizer,2020-12-14,50700,50700
+Maryland,Pfizer,2020-12-21,36075,36075
+Maryland,Pfizer,2020-12-28,46800,46800
+Maryland,Pfizer,2021-01-04,36075,36075
+Maryland,Pfizer,2021-01-11,36075,36075
+Maryland,Pfizer,2021-01-18,38025,38025
+Maryland,Pfizer,2021-01-25,38025,38025
+Maryland,Pfizer,2021-02-01,38025,38025
+Maryland,Pfizer,2021-02-08,38025,38025
+Maryland,Pfizer,2021-02-15,38025,38025
+Maryland,Pfizer,2021-02-22,59670,59670
+Maryland,Pfizer,2021-03-01,69030,69030
+Maryland,Pfizer,2021-03-08,74880,74880
+Maryland,Pfizer,2021-03-15,80730,80730
+Maryland,Pfizer,2021-03-22,81900,81900
+Maryland,Pfizer,2021-03-29,100620,100620
+Maryland,Pfizer,2021-04-05,81900,81900
+Maryland,Pfizer,2021-04-12,83070,83070
+Maryland,Pfizer,2021-04-19,90090,90090
+Maryland,Pfizer,2021-04-26,90090,90090
+Maryland,Pfizer,2021-05-03,90090,90090
+Maryland,Pfizer,2021-05-10,90090,90090
+Maryland,Pfizer,2021-05-17,90090,90090
+Maryland,Pfizer,2021-05-24,90090,90090
+Maryland,Pfizer,2021-05-31,89370,89370
+Massachusetts,Janssen,2021-03-01,58100,NA
+Massachusetts,Janssen,2021-03-15,8000,NA
+Massachusetts,Janssen,2021-03-22,8000,NA
+Massachusetts,Janssen,2021-03-29,40800,NA
+Massachusetts,Janssen,2021-04-05,103800,NA
+Massachusetts,Janssen,2021-04-12,12300,NA
+Massachusetts,Janssen,2021-05-03,16000,NA
+Massachusetts,Janssen,2021-05-10,12300,NA
+Massachusetts,Moderna,2020-12-21,121900,121900
+Massachusetts,Moderna,2020-12-28,42100,42100
+Massachusetts,Moderna,2021-01-04,42000,42000
+Massachusetts,Moderna,2021-01-11,42100,42100
+Massachusetts,Moderna,2021-01-18,44300,44300
+Massachusetts,Moderna,2021-01-25,44300,44300
+Massachusetts,Moderna,2021-02-01,58400,58400
+Massachusetts,Moderna,2021-02-08,63800,63800
+Massachusetts,Moderna,2021-02-15,69000,69000
+Massachusetts,Moderna,2021-02-22,69000,69000
+Massachusetts,Moderna,2021-03-01,69000,69000
+Massachusetts,Moderna,2021-03-08,69000,69000
+Massachusetts,Moderna,2021-03-15,69000,69000
+Massachusetts,Moderna,2021-03-22,69000,69000
+Massachusetts,Moderna,2021-03-29,69000,69000
+Massachusetts,Moderna,2021-04-05,72100,72100
+Massachusetts,Moderna,2021-04-12,72100,72100
+Massachusetts,Moderna,2021-04-19,77700,77700
+Massachusetts,Moderna,2021-04-26,77700,77700
+Massachusetts,Moderna,2021-05-03,77700,77700
+Massachusetts,Moderna,2021-05-10,79500,79500
+Massachusetts,Moderna,2021-05-17,79500,79500
+Massachusetts,Moderna,2021-05-24,79500,79500
+Massachusetts,Moderna,2021-05-31,77700,77700
+Massachusetts,Pfizer,2020-12-14,59475,59475
+Massachusetts,Pfizer,2020-12-21,42900,42900
+Massachusetts,Pfizer,2020-12-28,54600,54600
+Massachusetts,Pfizer,2021-01-04,42900,42900
+Massachusetts,Pfizer,2021-01-11,42900,42900
+Massachusetts,Pfizer,2021-01-18,43875,43875
+Massachusetts,Pfizer,2021-01-25,43875,43875
+Massachusetts,Pfizer,2021-02-01,43875,43875
+Massachusetts,Pfizer,2021-02-08,43875,43875
+Massachusetts,Pfizer,2021-02-15,43875,43875
+Massachusetts,Pfizer,2021-02-22,70200,70200
+Massachusetts,Pfizer,2021-03-01,79560,79560
+Massachusetts,Pfizer,2021-03-08,87750,87750
+Massachusetts,Pfizer,2021-03-15,93600,93600
+Massachusetts,Pfizer,2021-03-22,95940,95940
+Massachusetts,Pfizer,2021-03-29,117000,117000
+Massachusetts,Pfizer,2021-04-05,95940,95940
+Massachusetts,Pfizer,2021-04-12,97110,97110
+Massachusetts,Pfizer,2021-04-19,105300,105300
+Massachusetts,Pfizer,2021-04-26,105300,105300
+Massachusetts,Pfizer,2021-05-03,105300,105300
+Massachusetts,Pfizer,2021-05-10,105300,105300
+Massachusetts,Pfizer,2021-05-17,105300,105300
+Massachusetts,Pfizer,2021-05-24,105300,105300
+Massachusetts,Pfizer,2021-05-31,104580,104580
+Michigan,Janssen,2021-03-01,82700,NA
+Michigan,Janssen,2021-03-15,11400,NA
+Michigan,Janssen,2021-03-22,11400,NA
+Michigan,Janssen,2021-03-29,58100,NA
+Michigan,Janssen,2021-04-05,147800,NA
+Michigan,Janssen,2021-04-12,17500,NA
+Michigan,Janssen,2021-05-03,22700,NA
+Michigan,Janssen,2021-05-10,17500,NA
+Michigan,Moderna,2020-12-21,173600,173600
+Michigan,Moderna,2020-12-28,60000,60000
+Michigan,Moderna,2021-01-04,59800,59800
+Michigan,Moderna,2021-01-11,60000,60000
+Michigan,Moderna,2021-01-18,63000,63000
+Michigan,Moderna,2021-01-25,63000,63000
+Michigan,Moderna,2021-02-01,83100,83100
+Michigan,Moderna,2021-02-08,90900,90900
+Michigan,Moderna,2021-02-15,98200,98200
+Michigan,Moderna,2021-02-22,98200,98200
+Michigan,Moderna,2021-03-01,98200,98200
+Michigan,Moderna,2021-03-08,98200,98200
+Michigan,Moderna,2021-03-15,98200,98200
+Michigan,Moderna,2021-03-22,98200,98200
+Michigan,Moderna,2021-03-29,98200,98200
+Michigan,Moderna,2021-04-05,102600,102600
+Michigan,Moderna,2021-04-12,102600,102600
+Michigan,Moderna,2021-04-19,110600,110600
+Michigan,Moderna,2021-04-26,110600,110600
+Michigan,Moderna,2021-05-03,110600,110600
+Michigan,Moderna,2021-05-10,113100,113100
+Michigan,Moderna,2021-05-17,113100,113100
+Michigan,Moderna,2021-05-24,113100,113100
+Michigan,Moderna,2021-05-31,110600,110600
+Michigan,Pfizer,2020-12-14,84825,84825
+Michigan,Pfizer,2020-12-21,60450,60450
+Michigan,Pfizer,2020-12-28,77025,77025
+Michigan,Pfizer,2021-01-04,60450,60450
+Michigan,Pfizer,2021-01-11,60450,60450
+Michigan,Pfizer,2021-01-18,62400,62400
+Michigan,Pfizer,2021-01-25,62400,62400
+Michigan,Pfizer,2021-02-01,62400,62400
+Michigan,Pfizer,2021-02-08,62400,62400
+Michigan,Pfizer,2021-02-15,62400,62400
+Michigan,Pfizer,2021-02-22,99450,99450
+Michigan,Pfizer,2021-03-01,113490,113490
+Michigan,Pfizer,2021-03-08,124020,124020
+Michigan,Pfizer,2021-03-15,133380,133380
+Michigan,Pfizer,2021-03-22,135720,135720
+Michigan,Pfizer,2021-03-29,166140,166140
+Michigan,Pfizer,2021-04-05,135720,135720
+Michigan,Pfizer,2021-04-12,139230,139230
+Michigan,Pfizer,2021-04-19,148590,148590
+Michigan,Pfizer,2021-04-26,148590,148590
+Michigan,Pfizer,2021-05-03,148590,148590
+Michigan,Pfizer,2021-05-10,148590,148590
+Michigan,Pfizer,2021-05-17,148590,148590
+Michigan,Pfizer,2021-05-24,148590,148590
+Michigan,Pfizer,2021-05-31,147870,147870
+Micronesia,Janssen,2021-03-01,800,NA
+Micronesia,Janssen,2021-03-15,100,NA
+Micronesia,Janssen,2021-03-22,100,NA
+Micronesia,Janssen,2021-03-29,600,NA
+Micronesia,Janssen,2021-04-05,15900,NA
+Micronesia,Janssen,2021-04-12,0,NA
+Micronesia,Janssen,2021-05-03,0,NA
+Micronesia,Janssen,2021-05-10,0,NA
+Micronesia,Moderna,2020-12-21,9800,0
+Micronesia,Moderna,2020-12-28,0,0
+Micronesia,Moderna,2021-01-04,9600,0
+Micronesia,Moderna,2021-01-11,0,0
+Micronesia,Moderna,2021-01-18,0,0
+Micronesia,Moderna,2021-01-25,0,0
+Micronesia,Moderna,2021-02-01,9400,0
+Micronesia,Moderna,2021-02-08,0,0
+Micronesia,Moderna,2021-02-15,0,0
+Micronesia,Moderna,2021-02-22,0,0
+Micronesia,Moderna,2021-03-01,16600,0
+Micronesia,Moderna,2021-03-08,0,0
+Micronesia,Moderna,2021-03-15,0,0
+Micronesia,Moderna,2021-03-22,0,0
+Micronesia,Moderna,2021-03-29,22600,0
+Micronesia,Moderna,2021-04-05,0,0
+Micronesia,Moderna,2021-04-12,0,0
+Micronesia,Moderna,2021-04-19,0,0
+Micronesia,Moderna,2021-04-26,0,0
+Micronesia,Moderna,2021-05-03,0,0
+Micronesia,Moderna,2021-05-10,0,0
+Micronesia,Moderna,2021-05-17,0,0
+Micronesia,Moderna,2021-05-24,0,0
+Micronesia,Moderna,2021-05-31,0,0
+Micronesia,Pfizer,2020-12-14,0,0
+Micronesia,Pfizer,2020-12-21,0,0
+Micronesia,Pfizer,2020-12-28,0,0
+Micronesia,Pfizer,2021-01-04,0,0
+Micronesia,Pfizer,2021-01-11,0,0
+Micronesia,Pfizer,2021-01-18,0,0
+Micronesia,Pfizer,2021-01-25,0,0
+Micronesia,Pfizer,2021-02-01,0,0
+Micronesia,Pfizer,2021-02-08,0,0
+Micronesia,Pfizer,2021-02-15,0,0
+Micronesia,Pfizer,2021-02-22,0,0
+Micronesia,Pfizer,2021-03-01,0,0
+Micronesia,Pfizer,2021-03-08,0,0
+Micronesia,Pfizer,2021-03-15,0,0
+Micronesia,Pfizer,2021-03-22,0,0
+Micronesia,Pfizer,2021-03-29,0,0
+Micronesia,Pfizer,2021-04-05,0,0
+Micronesia,Pfizer,2021-04-12,0,0
+Micronesia,Pfizer,2021-04-19,0,0
+Micronesia,Pfizer,2021-04-26,0,0
+Micronesia,Pfizer,2021-05-03,0,0
+Micronesia,Pfizer,2021-05-10,0,0
+Micronesia,Pfizer,2021-05-17,0,0
+Micronesia,Pfizer,2021-05-24,0,0
+Micronesia,Pfizer,2021-05-31,0,0
+Minnesota,Janssen,2021-03-01,45200,NA
+Minnesota,Janssen,2021-03-15,6300,NA
+Minnesota,Janssen,2021-03-22,6300,NA
+Minnesota,Janssen,2021-03-29,31800,NA
+Minnesota,Janssen,2021-04-05,80800,NA
+Minnesota,Janssen,2021-04-12,9600,NA
+Minnesota,Janssen,2021-05-03,12400,NA
+Minnesota,Janssen,2021-05-10,9600,NA
+Minnesota,Moderna,2020-12-21,94900,94900
+Minnesota,Moderna,2020-12-28,32900,32900
+Minnesota,Moderna,2021-01-04,32700,32700
+Minnesota,Moderna,2021-01-11,32900,32900
+Minnesota,Moderna,2021-01-18,34500,34500
+Minnesota,Moderna,2021-01-25,34500,34500
+Minnesota,Moderna,2021-02-01,45500,45500
+Minnesota,Moderna,2021-02-08,49700,49700
+Minnesota,Moderna,2021-02-15,53800,53800
+Minnesota,Moderna,2021-02-22,53800,53800
+Minnesota,Moderna,2021-03-01,53800,53800
+Minnesota,Moderna,2021-03-08,53800,53800
+Minnesota,Moderna,2021-03-15,53800,53800
+Minnesota,Moderna,2021-03-22,53800,53800
+Minnesota,Moderna,2021-03-29,53800,53800
+Minnesota,Moderna,2021-04-05,56200,56200
+Minnesota,Moderna,2021-04-12,56200,56200
+Minnesota,Moderna,2021-04-19,60600,60600
+Minnesota,Moderna,2021-04-26,60600,60600
+Minnesota,Moderna,2021-05-03,60600,60600
+Minnesota,Moderna,2021-05-10,62000,62000
+Minnesota,Moderna,2021-05-17,62020,62020
+Minnesota,Moderna,2021-05-24,62020,62020
+Minnesota,Moderna,2021-05-31,60620,60620
+Minnesota,Pfizer,2020-12-14,46800,46800
+Minnesota,Pfizer,2020-12-21,33150,33150
+Minnesota,Pfizer,2020-12-28,42900,42900
+Minnesota,Pfizer,2021-01-04,33150,33150
+Minnesota,Pfizer,2021-01-11,33150,33150
+Minnesota,Pfizer,2021-01-18,34125,34125
+Minnesota,Pfizer,2021-01-25,34125,34125
+Minnesota,Pfizer,2021-02-01,34125,34125
+Minnesota,Pfizer,2021-02-08,34125,34125
+Minnesota,Pfizer,2021-02-15,34125,34125
+Minnesota,Pfizer,2021-02-22,54990,54990
+Minnesota,Pfizer,2021-03-01,62010,62010
+Minnesota,Pfizer,2021-03-08,67860,67860
+Minnesota,Pfizer,2021-03-15,73710,73710
+Minnesota,Pfizer,2021-03-22,74880,74880
+Minnesota,Pfizer,2021-03-29,91260,91260
+Minnesota,Pfizer,2021-04-05,74880,74880
+Minnesota,Pfizer,2021-04-12,76050,76050
+Minnesota,Pfizer,2021-04-19,81900,81900
+Minnesota,Pfizer,2021-04-26,81900,81900
+Minnesota,Pfizer,2021-05-03,81900,81900
+Minnesota,Pfizer,2021-05-10,81900,81900
+Minnesota,Pfizer,2021-05-17,81900,81900
+Minnesota,Pfizer,2021-05-24,81900,81900
+Minnesota,Pfizer,2021-05-31,81540,81540
+Mississippi,Janssen,2021-03-01,24200,NA
+Mississippi,Janssen,2021-03-15,3400,NA
+Mississippi,Janssen,2021-03-22,3400,NA
+Mississippi,Janssen,2021-03-29,17100,NA
+Mississippi,Janssen,2021-04-05,43200,NA
+Mississippi,Janssen,2021-04-12,5100,NA
+Mississippi,Janssen,2021-05-03,6700,NA
+Mississippi,Janssen,2021-05-10,5100,NA
+Mississippi,Moderna,2020-12-21,50800,50800
+Mississippi,Moderna,2020-12-28,17600,17600
+Mississippi,Moderna,2021-01-04,17500,17500
+Mississippi,Moderna,2021-01-11,17600,17600
+Mississippi,Moderna,2021-01-18,18500,18500
+Mississippi,Moderna,2021-01-25,18500,18500
+Mississippi,Moderna,2021-02-01,24300,24300
+Mississippi,Moderna,2021-02-08,26600,26600
+Mississippi,Moderna,2021-02-15,28700,28700
+Mississippi,Moderna,2021-02-22,28700,28700
+Mississippi,Moderna,2021-03-01,28700,28700
+Mississippi,Moderna,2021-03-08,28700,28700
+Mississippi,Moderna,2021-03-15,28700,28700
+Mississippi,Moderna,2021-03-22,28700,28700
+Mississippi,Moderna,2021-03-29,28700,28700
+Mississippi,Moderna,2021-04-05,30000,30000
+Mississippi,Moderna,2021-04-12,30000,30000
+Mississippi,Moderna,2021-04-19,32400,32400
+Mississippi,Moderna,2021-04-26,32400,32400
+Mississippi,Moderna,2021-05-03,32400,32400
+Mississippi,Moderna,2021-05-10,33200,33200
+Mississippi,Moderna,2021-05-17,33140,33140
+Mississippi,Moderna,2021-05-24,33140,33140
+Mississippi,Moderna,2021-05-31,32340,32340
+Mississippi,Pfizer,2020-12-14,25350,25350
+Mississippi,Pfizer,2020-12-21,17550,17550
+Mississippi,Pfizer,2020-12-28,22425,22425
+Mississippi,Pfizer,2021-01-04,17550,17550
+Mississippi,Pfizer,2021-01-11,17550,17550
+Mississippi,Pfizer,2021-01-18,18525,18525
+Mississippi,Pfizer,2021-01-25,18525,18525
+Mississippi,Pfizer,2021-02-01,18525,18525
+Mississippi,Pfizer,2021-02-08,18525,18525
+Mississippi,Pfizer,2021-02-15,18525,18525
+Mississippi,Pfizer,2021-02-22,29250,29250
+Mississippi,Pfizer,2021-03-01,33930,33930
+Mississippi,Pfizer,2021-03-08,36270,36270
+Mississippi,Pfizer,2021-03-15,39780,39780
+Mississippi,Pfizer,2021-03-22,39780,39780
+Mississippi,Pfizer,2021-03-29,49140,49140
+Mississippi,Pfizer,2021-04-05,39780,39780
+Mississippi,Pfizer,2021-04-12,40950,40950
+Mississippi,Pfizer,2021-04-19,44460,44460
+Mississippi,Pfizer,2021-04-26,44460,44460
+Mississippi,Pfizer,2021-05-03,44460,44460
+Mississippi,Pfizer,2021-05-10,44460,44460
+Mississippi,Pfizer,2021-05-17,44460,44460
+Mississippi,Pfizer,2021-05-24,44460,44460
+Mississippi,Pfizer,2021-05-31,44460,44460
+Missouri,Janssen,2021-03-01,50100,NA
+Missouri,Janssen,2021-03-15,6900,NA
+Missouri,Janssen,2021-03-22,6900,NA
+Missouri,Janssen,2021-03-29,35200,NA
+Missouri,Janssen,2021-04-05,89600,NA
+Missouri,Janssen,2021-04-12,10600,NA
+Missouri,Janssen,2021-05-03,13800,NA
+Missouri,Janssen,2021-05-10,10600,NA
+Missouri,Moderna,2020-12-21,105300,105300
+Missouri,Moderna,2020-12-28,36400,36400
+Missouri,Moderna,2021-01-04,36200,36200
+Missouri,Moderna,2021-01-11,36400,36400
+Missouri,Moderna,2021-01-18,38200,38200
+Missouri,Moderna,2021-01-25,38200,38200
+Missouri,Moderna,2021-02-01,50400,50400
+Missouri,Moderna,2021-02-08,55100,55100
+Missouri,Moderna,2021-02-15,59500,59500
+Missouri,Moderna,2021-02-22,59500,59500
+Missouri,Moderna,2021-03-01,59500,59500
+Missouri,Moderna,2021-03-08,59500,59500
+Missouri,Moderna,2021-03-15,59500,59500
+Missouri,Moderna,2021-03-22,59500,59500
+Missouri,Moderna,2021-03-29,59500,59500
+Missouri,Moderna,2021-04-05,62200,62200
+Missouri,Moderna,2021-04-12,62200,62200
+Missouri,Moderna,2021-04-19,67100,67100
+Missouri,Moderna,2021-04-26,67100,67100
+Missouri,Moderna,2021-05-03,67100,67100
+Missouri,Moderna,2021-05-10,68600,68600
+Missouri,Moderna,2021-05-17,68560,68560
+Missouri,Moderna,2021-05-24,68560,68560
+Missouri,Moderna,2021-05-31,67060,67060
+Missouri,Pfizer,2020-12-14,51675,51675
+Missouri,Pfizer,2020-12-21,37050,37050
+Missouri,Pfizer,2020-12-28,46800,46800
+Missouri,Pfizer,2021-01-04,37050,37050
+Missouri,Pfizer,2021-01-11,37050,37050
+Missouri,Pfizer,2021-01-18,38025,38025
+Missouri,Pfizer,2021-01-25,38025,38025
+Missouri,Pfizer,2021-02-01,38025,38025
+Missouri,Pfizer,2021-02-08,38025,38025
+Missouri,Pfizer,2021-02-15,38025,38025
+Missouri,Pfizer,2021-02-22,60840,60840
+Missouri,Pfizer,2021-03-01,69030,69030
+Missouri,Pfizer,2021-03-08,76050,76050
+Missouri,Pfizer,2021-03-15,80730,80730
+Missouri,Pfizer,2021-03-22,83070,83070
+Missouri,Pfizer,2021-03-29,101790,101790
+Missouri,Pfizer,2021-04-05,83070,83070
+Missouri,Pfizer,2021-04-12,84240,84240
+Missouri,Pfizer,2021-04-19,90090,90090
+Missouri,Pfizer,2021-04-26,90090,90090
+Missouri,Pfizer,2021-05-03,90090,90090
+Missouri,Pfizer,2021-05-10,90090,90090
+Missouri,Pfizer,2021-05-17,90090,90090
+Missouri,Pfizer,2021-05-24,90090,90090
+Missouri,Pfizer,2021-05-31,89820,89820
+Montana,Janssen,2021-03-01,8700,NA
+Montana,Janssen,2021-03-15,1200,NA
+Montana,Janssen,2021-03-22,1200,NA
+Montana,Janssen,2021-03-29,6100,NA
+Montana,Janssen,2021-04-05,15600,NA
+Montana,Janssen,2021-04-12,1900,NA
+Montana,Janssen,2021-05-03,2400,NA
+Montana,Janssen,2021-05-10,1900,NA
+Montana,Moderna,2020-12-21,18300,18300
+Montana,Moderna,2020-12-28,6400,6400
+Montana,Moderna,2021-01-04,6300,6300
+Montana,Moderna,2021-01-11,6400,6400
+Montana,Moderna,2021-01-18,6700,6700
+Montana,Moderna,2021-01-25,6700,6700
+Montana,Moderna,2021-02-01,8800,8800
+Montana,Moderna,2021-02-08,9600,9600
+Montana,Moderna,2021-02-15,10400,10400
+Montana,Moderna,2021-02-22,10400,10400
+Montana,Moderna,2021-03-01,10400,10400
+Montana,Moderna,2021-03-08,10400,10400
+Montana,Moderna,2021-03-15,10400,10400
+Montana,Moderna,2021-03-22,10400,10400
+Montana,Moderna,2021-03-29,10400,10400
+Montana,Moderna,2021-04-05,10800,10800
+Montana,Moderna,2021-04-12,10800,10800
+Montana,Moderna,2021-04-19,11700,11700
+Montana,Moderna,2021-04-26,11700,11700
+Montana,Moderna,2021-05-03,11700,11700
+Montana,Moderna,2021-05-10,12000,12000
+Montana,Moderna,2021-05-17,12060,12060
+Montana,Moderna,2021-05-24,12060,12060
+Montana,Moderna,2021-05-31,11760,11760
+Montana,Pfizer,2020-12-14,9750,9750
+Montana,Pfizer,2020-12-21,6825,6825
+Montana,Pfizer,2020-12-28,8775,8775
+Montana,Pfizer,2021-01-04,6825,6825
+Montana,Pfizer,2021-01-11,6825,6825
+Montana,Pfizer,2021-01-18,6825,6825
+Montana,Pfizer,2021-01-25,6825,6825
+Montana,Pfizer,2021-02-01,6825,6825
+Montana,Pfizer,2021-02-08,6825,6825
+Montana,Pfizer,2021-02-15,6825,6825
+Montana,Pfizer,2021-02-22,10530,10530
+Montana,Pfizer,2021-03-01,12870,12870
+Montana,Pfizer,2021-03-08,14040,14040
+Montana,Pfizer,2021-03-15,14040,14040
+Montana,Pfizer,2021-03-22,15210,15210
+Montana,Pfizer,2021-03-29,17550,17550
+Montana,Pfizer,2021-04-05,15210,15210
+Montana,Pfizer,2021-04-12,15210,15210
+Montana,Pfizer,2021-04-19,16380,16380
+Montana,Pfizer,2021-04-26,16380,16380
+Montana,Pfizer,2021-05-03,16380,16380
+Montana,Pfizer,2021-05-10,16380,16380
+Montana,Pfizer,2021-05-17,16380,16380
+Montana,Pfizer,2021-05-24,16380,16380
+Montana,Pfizer,2021-05-31,16830,16830
+Nebraska,Janssen,2021-03-01,15500,NA
+Nebraska,Janssen,2021-03-15,2200,NA
+Nebraska,Janssen,2021-03-22,2200,NA
+Nebraska,Janssen,2021-03-29,10900,NA
+Nebraska,Janssen,2021-04-05,27600,NA
+Nebraska,Janssen,2021-04-12,3300,NA
+Nebraska,Janssen,2021-05-03,4300,NA
+Nebraska,Janssen,2021-05-10,3300,NA
+Nebraska,Moderna,2020-12-21,32400,32400
+Nebraska,Moderna,2020-12-28,11200,11200
+Nebraska,Moderna,2021-01-04,11200,11200
+Nebraska,Moderna,2021-01-11,11200,11200
+Nebraska,Moderna,2021-01-18,11800,11800
+Nebraska,Moderna,2021-01-25,11800,11800
+Nebraska,Moderna,2021-02-01,15500,15500
+Nebraska,Moderna,2021-02-08,17000,17000
+Nebraska,Moderna,2021-02-15,18400,18400
+Nebraska,Moderna,2021-02-22,18400,18400
+Nebraska,Moderna,2021-03-01,18400,18400
+Nebraska,Moderna,2021-03-08,18400,18400
+Nebraska,Moderna,2021-03-15,18400,18400
+Nebraska,Moderna,2021-03-22,18400,18400
+Nebraska,Moderna,2021-03-29,18400,18400
+Nebraska,Moderna,2021-04-05,19200,19200
+Nebraska,Moderna,2021-04-12,19200,19200
+Nebraska,Moderna,2021-04-19,20700,20700
+Nebraska,Moderna,2021-04-26,20700,20700
+Nebraska,Moderna,2021-05-03,20700,20700
+Nebraska,Moderna,2021-05-10,21200,21200
+Nebraska,Moderna,2021-05-17,21220,21220
+Nebraska,Moderna,2021-05-24,21220,21220
+Nebraska,Moderna,2021-05-31,20720,20720
+Nebraska,Pfizer,2020-12-14,16575,16575
+Nebraska,Pfizer,2020-12-21,11700,11700
+Nebraska,Pfizer,2020-12-28,14625,14625
+Nebraska,Pfizer,2021-01-04,11700,11700
+Nebraska,Pfizer,2021-01-11,11700,11700
+Nebraska,Pfizer,2021-01-18,11700,11700
+Nebraska,Pfizer,2021-01-25,11700,11700
+Nebraska,Pfizer,2021-02-01,11700,11700
+Nebraska,Pfizer,2021-02-08,11700,11700
+Nebraska,Pfizer,2021-02-15,11700,11700
+Nebraska,Pfizer,2021-02-22,18720,18720
+Nebraska,Pfizer,2021-03-01,22230,22230
+Nebraska,Pfizer,2021-03-08,23400,23400
+Nebraska,Pfizer,2021-03-15,25740,25740
+Nebraska,Pfizer,2021-03-22,25740,25740
+Nebraska,Pfizer,2021-03-29,31590,31590
+Nebraska,Pfizer,2021-04-05,25740,25740
+Nebraska,Pfizer,2021-04-12,26910,26910
+Nebraska,Pfizer,2021-04-19,28080,28080
+Nebraska,Pfizer,2021-04-26,28080,28080
+Nebraska,Pfizer,2021-05-03,28080,28080
+Nebraska,Pfizer,2021-05-10,28080,28080
+Nebraska,Pfizer,2021-05-17,28080,28080
+Nebraska,Pfizer,2021-05-24,28080,28080
+Nebraska,Pfizer,2021-05-31,28800,28800
+Nevada,Janssen,2021-03-01,24000,NA
+Nevada,Janssen,2021-03-15,3300,NA
+Nevada,Janssen,2021-03-22,3300,NA
+Nevada,Janssen,2021-03-29,16900,NA
+Nevada,Janssen,2021-04-05,42900,NA
+Nevada,Janssen,2021-04-12,5100,NA
+Nevada,Janssen,2021-05-03,6600,NA
+Nevada,Janssen,2021-05-10,5100,NA
+Nevada,Moderna,2020-12-21,50300,50300
+Nevada,Moderna,2020-12-28,17400,17400
+Nevada,Moderna,2021-01-04,17300,17300
+Nevada,Moderna,2021-01-11,17400,17400
+Nevada,Moderna,2021-01-18,18300,18300
+Nevada,Moderna,2021-01-25,18300,18300
+Nevada,Moderna,2021-02-01,24100,24100
+Nevada,Moderna,2021-02-08,26400,26400
+Nevada,Moderna,2021-02-15,28500,28500
+Nevada,Moderna,2021-02-22,28500,28500
+Nevada,Moderna,2021-03-01,28500,28500
+Nevada,Moderna,2021-03-08,28500,28500
+Nevada,Moderna,2021-03-15,28500,28500
+Nevada,Moderna,2021-03-22,28500,28500
+Nevada,Moderna,2021-03-29,28500,28500
+Nevada,Moderna,2021-04-05,29800,29800
+Nevada,Moderna,2021-04-12,29800,29800
+Nevada,Moderna,2021-04-19,32100,32100
+Nevada,Moderna,2021-04-26,32100,32100
+Nevada,Moderna,2021-05-03,32100,32100
+Nevada,Moderna,2021-05-10,32900,32900
+Nevada,Moderna,2021-05-17,32860,32860
+Nevada,Moderna,2021-05-24,32860,32860
+Nevada,Moderna,2021-05-31,32060,32060
+Nevada,Pfizer,2020-12-14,25350,25350
+Nevada,Pfizer,2020-12-21,17550,17550
+Nevada,Pfizer,2020-12-28,22425,22425
+Nevada,Pfizer,2021-01-04,17550,17550
+Nevada,Pfizer,2021-01-11,17550,17550
+Nevada,Pfizer,2021-01-18,18525,18525
+Nevada,Pfizer,2021-01-25,18525,18525
+Nevada,Pfizer,2021-02-01,18525,18525
+Nevada,Pfizer,2021-02-08,18525,18525
+Nevada,Pfizer,2021-02-15,18525,18525
+Nevada,Pfizer,2021-02-22,29250,29250
+Nevada,Pfizer,2021-03-01,33930,33930
+Nevada,Pfizer,2021-03-08,36270,36270
+Nevada,Pfizer,2021-03-15,38610,38610
+Nevada,Pfizer,2021-03-22,39780,39780
+Nevada,Pfizer,2021-03-29,49140,49140
+Nevada,Pfizer,2021-04-05,39780,39780
+Nevada,Pfizer,2021-04-12,40950,40950
+Nevada,Pfizer,2021-04-19,43290,43290
+Nevada,Pfizer,2021-04-26,43290,43290
+Nevada,Pfizer,2021-05-03,43290,43290
+Nevada,Pfizer,2021-05-10,43290,43290
+Nevada,Pfizer,2021-05-17,43290,43290
+Nevada,Pfizer,2021-05-24,43290,43290
+Nevada,Pfizer,2021-05-31,42840,42840
+New Hampshire,Janssen,2021-03-01,11600,NA
+New Hampshire,Janssen,2021-03-15,1600,NA
+New Hampshire,Janssen,2021-03-22,1600,NA
+New Hampshire,Janssen,2021-03-29,8100,NA
+New Hampshire,Janssen,2021-04-05,20600,NA
+New Hampshire,Janssen,2021-04-12,2500,NA
+New Hampshire,Janssen,2021-05-03,3200,NA
+New Hampshire,Janssen,2021-05-10,2500,NA
+New Hampshire,Moderna,2020-12-21,24200,24200
+New Hampshire,Moderna,2020-12-28,8400,8400
+New Hampshire,Moderna,2021-01-04,8400,8400
+New Hampshire,Moderna,2021-01-11,8400,8400
+New Hampshire,Moderna,2021-01-18,8800,8800
+New Hampshire,Moderna,2021-01-25,8800,8800
+New Hampshire,Moderna,2021-02-01,11600,11600
+New Hampshire,Moderna,2021-02-08,12700,12700
+New Hampshire,Moderna,2021-02-15,13700,13700
+New Hampshire,Moderna,2021-02-22,13700,13700
+New Hampshire,Moderna,2021-03-01,13700,13700
+New Hampshire,Moderna,2021-03-08,13700,13700
+New Hampshire,Moderna,2021-03-15,13700,13700
+New Hampshire,Moderna,2021-03-22,13700,13700
+New Hampshire,Moderna,2021-03-29,13700,13700
+New Hampshire,Moderna,2021-04-05,14300,14300
+New Hampshire,Moderna,2021-04-12,14300,14300
+New Hampshire,Moderna,2021-04-19,15500,15500
+New Hampshire,Moderna,2021-04-26,15500,15500
+New Hampshire,Moderna,2021-05-03,15500,15500
+New Hampshire,Moderna,2021-05-10,15900,15900
+New Hampshire,Moderna,2021-05-17,15800,15800
+New Hampshire,Moderna,2021-05-24,15800,15800
+New Hampshire,Moderna,2021-05-31,15400,15400
+New Hampshire,Pfizer,2020-12-14,12675,12675
+New Hampshire,Pfizer,2020-12-21,8775,8775
+New Hampshire,Pfizer,2020-12-28,10725,10725
+New Hampshire,Pfizer,2021-01-04,8775,8775
+New Hampshire,Pfizer,2021-01-11,8775,8775
+New Hampshire,Pfizer,2021-01-18,8775,8775
+New Hampshire,Pfizer,2021-01-25,8775,8775
+New Hampshire,Pfizer,2021-02-01,8775,8775
+New Hampshire,Pfizer,2021-02-08,8775,8775
+New Hampshire,Pfizer,2021-02-15,8775,8775
+New Hampshire,Pfizer,2021-02-22,14040,14040
+New Hampshire,Pfizer,2021-03-01,16380,16380
+New Hampshire,Pfizer,2021-03-08,17550,17550
+New Hampshire,Pfizer,2021-03-15,18720,18720
+New Hampshire,Pfizer,2021-03-22,19890,19890
+New Hampshire,Pfizer,2021-03-29,23400,23400
+New Hampshire,Pfizer,2021-04-05,19890,19890
+New Hampshire,Pfizer,2021-04-12,19890,19890
+New Hampshire,Pfizer,2021-04-19,21060,21060
+New Hampshire,Pfizer,2021-04-26,21060,21060
+New Hampshire,Pfizer,2021-05-03,21060,21060
+New Hampshire,Pfizer,2021-05-10,21060,21060
+New Hampshire,Pfizer,2021-05-17,21060,21060
+New Hampshire,Pfizer,2021-05-24,21060,21060
+New Hampshire,Pfizer,2021-05-31,21420,21420
+New Jersey,Janssen,2021-03-01,73600,NA
+New Jersey,Janssen,2021-03-15,10200,NA
+New Jersey,Janssen,2021-03-22,10200,NA
+New Jersey,Janssen,2021-03-29,51700,NA
+New Jersey,Janssen,2021-04-05,131600,NA
+New Jersey,Janssen,2021-04-12,15600,NA
+New Jersey,Janssen,2021-05-03,20200,NA
+New Jersey,Janssen,2021-05-10,15600,NA
+New Jersey,Moderna,2020-12-21,154500,154500
+New Jersey,Moderna,2020-12-28,53400,53400
+New Jersey,Moderna,2021-01-04,53200,53200
+New Jersey,Moderna,2021-01-11,53400,53400
+New Jersey,Moderna,2021-01-18,56100,56100
+New Jersey,Moderna,2021-01-25,56100,56100
+New Jersey,Moderna,2021-02-01,74000,74000
+New Jersey,Moderna,2021-02-08,80900,80900
+New Jersey,Moderna,2021-02-15,87400,87400
+New Jersey,Moderna,2021-02-22,87400,87400
+New Jersey,Moderna,2021-03-01,87400,87400
+New Jersey,Moderna,2021-03-08,87400,87400
+New Jersey,Moderna,2021-03-15,87400,87400
+New Jersey,Moderna,2021-03-22,87400,87400
+New Jersey,Moderna,2021-03-29,87400,87400
+New Jersey,Moderna,2021-04-05,91300,91300
+New Jersey,Moderna,2021-04-12,91300,91300
+New Jersey,Moderna,2021-04-19,98500,98500
+New Jersey,Moderna,2021-04-26,98500,98500
+New Jersey,Moderna,2021-05-03,98500,98500
+New Jersey,Moderna,2021-05-10,100700,100700
+New Jersey,Moderna,2021-05-17,100620,100620
+New Jersey,Moderna,2021-05-24,100620,100620
+New Jersey,Moderna,2021-05-31,98420,98420
+New Jersey,Pfizer,2020-12-14,76050,76050
+New Jersey,Pfizer,2020-12-21,53625,53625
+New Jersey,Pfizer,2020-12-28,68250,68250
+New Jersey,Pfizer,2021-01-04,53625,53625
+New Jersey,Pfizer,2021-01-11,53625,53625
+New Jersey,Pfizer,2021-01-18,55575,55575
+New Jersey,Pfizer,2021-01-25,55575,55575
+New Jersey,Pfizer,2021-02-01,55575,55575
+New Jersey,Pfizer,2021-02-08,55575,55575
+New Jersey,Pfizer,2021-02-15,55575,55575
+New Jersey,Pfizer,2021-02-22,88920,88920
+New Jersey,Pfizer,2021-03-01,101790,101790
+New Jersey,Pfizer,2021-03-08,111150,111150
+New Jersey,Pfizer,2021-03-15,119340,119340
+New Jersey,Pfizer,2021-03-22,120510,120510
+New Jersey,Pfizer,2021-03-29,148590,148590
+New Jersey,Pfizer,2021-04-05,120510,120510
+New Jersey,Pfizer,2021-04-12,124020,124020
+New Jersey,Pfizer,2021-04-19,132210,132210
+New Jersey,Pfizer,2021-04-26,132210,132210
+New Jersey,Pfizer,2021-05-03,132210,132210
+New Jersey,Pfizer,2021-05-10,132210,132210
+New Jersey,Pfizer,2021-05-17,132210,132210
+New Jersey,Pfizer,2021-05-24,132210,132210
+New Jersey,Pfizer,2021-05-31,132210,132210
+New Mexico,Janssen,2021-03-01,17200,NA
+New Mexico,Janssen,2021-03-15,2400,NA
+New Mexico,Janssen,2021-03-22,2400,NA
+New Mexico,Janssen,2021-03-29,12100,NA
+New Mexico,Janssen,2021-04-05,30800,NA
+New Mexico,Janssen,2021-04-12,3700,NA
+New Mexico,Janssen,2021-05-03,4800,NA
+New Mexico,Janssen,2021-05-10,3600,NA
+New Mexico,Moderna,2020-12-21,36100,36100
+New Mexico,Moderna,2020-12-28,12500,12500
+New Mexico,Moderna,2021-01-04,12500,12500
+New Mexico,Moderna,2021-01-11,12500,12500
+New Mexico,Moderna,2021-01-18,13200,13200
+New Mexico,Moderna,2021-01-25,13200,13200
+New Mexico,Moderna,2021-02-01,17300,17300
+New Mexico,Moderna,2021-02-08,19000,19000
+New Mexico,Moderna,2021-02-15,20500,20500
+New Mexico,Moderna,2021-02-22,20500,20500
+New Mexico,Moderna,2021-03-01,20500,20500
+New Mexico,Moderna,2021-03-08,20500,20500
+New Mexico,Moderna,2021-03-15,20500,20500
+New Mexico,Moderna,2021-03-22,20500,20500
+New Mexico,Moderna,2021-03-29,20500,20500
+New Mexico,Moderna,2021-04-05,21400,21400
+New Mexico,Moderna,2021-04-12,21400,21400
+New Mexico,Moderna,2021-04-19,23100,23100
+New Mexico,Moderna,2021-04-26,23100,23100
+New Mexico,Moderna,2021-05-03,23100,23100
+New Mexico,Moderna,2021-05-10,23700,23700
+New Mexico,Moderna,2021-05-17,23700,23700
+New Mexico,Moderna,2021-05-24,23700,23700
+New Mexico,Moderna,2021-05-31,23100,23100
+New Mexico,Pfizer,2020-12-14,17550,17550
+New Mexico,Pfizer,2020-12-21,12675,12675
+New Mexico,Pfizer,2020-12-28,16575,16575
+New Mexico,Pfizer,2021-01-04,12675,12675
+New Mexico,Pfizer,2021-01-11,12675,12675
+New Mexico,Pfizer,2021-01-18,13650,13650
+New Mexico,Pfizer,2021-01-25,13650,13650
+New Mexico,Pfizer,2021-02-01,13650,13650
+New Mexico,Pfizer,2021-02-08,13650,13650
+New Mexico,Pfizer,2021-02-15,13650,13650
+New Mexico,Pfizer,2021-02-22,21060,21060
+New Mexico,Pfizer,2021-03-01,24570,24570
+New Mexico,Pfizer,2021-03-08,25740,25740
+New Mexico,Pfizer,2021-03-15,28080,28080
+New Mexico,Pfizer,2021-03-22,29250,29250
+New Mexico,Pfizer,2021-03-29,35100,35100
+New Mexico,Pfizer,2021-04-05,29250,29250
+New Mexico,Pfizer,2021-04-12,29250,29250
+New Mexico,Pfizer,2021-04-19,31590,31590
+New Mexico,Pfizer,2021-04-26,31590,31590
+New Mexico,Pfizer,2021-05-03,31590,31590
+New Mexico,Pfizer,2021-05-10,31590,31590
+New Mexico,Pfizer,2021-05-17,31590,31590
+New Mexico,Pfizer,2021-05-24,31590,31590
+New Mexico,Pfizer,2021-05-31,32490,32490
+New York,Janssen,2021-03-01,93700,NA
+New York,Janssen,2021-03-15,12900,NA
+New York,Janssen,2021-03-22,12900,NA
+New York,Janssen,2021-03-29,65800,NA
+New York,Janssen,2021-04-05,167600,NA
+New York,Janssen,2021-04-12,19800,NA
+New York,Janssen,2021-05-03,25700,NA
+New York,Janssen,2021-05-10,19800,NA
+New York,Moderna,2020-12-21,196800,196800
+New York,Moderna,2020-12-28,68000,68000
+New York,Moderna,2021-01-04,67700,67700
+New York,Moderna,2021-01-11,68000,68000
+New York,Moderna,2021-01-18,71400,71400
+New York,Moderna,2021-01-25,71400,71400
+New York,Moderna,2021-02-01,94200,94200
+New York,Moderna,2021-02-08,103000,103000
+New York,Moderna,2021-02-15,111300,111300
+New York,Moderna,2021-02-22,111300,111300
+New York,Moderna,2021-03-01,111300,111300
+New York,Moderna,2021-03-08,111300,111300
+New York,Moderna,2021-03-15,111300,111300
+New York,Moderna,2021-03-22,111300,111300
+New York,Moderna,2021-03-29,111300,111300
+New York,Moderna,2021-04-05,116300,116300
+New York,Moderna,2021-04-12,116300,116300
+New York,Moderna,2021-04-19,125400,125400
+New York,Moderna,2021-04-26,125400,125400
+New York,Moderna,2021-05-03,125400,125400
+New York,Moderna,2021-05-10,128200,128200
+New York,Moderna,2021-05-17,128240,128240
+New York,Moderna,2021-05-24,128240,128240
+New York,Moderna,2021-05-31,125440,125440
+New York,Pfizer,2020-12-14,96525,96525
+New York,Pfizer,2020-12-21,68250,68250
+New York,Pfizer,2020-12-28,87750,87750
+New York,Pfizer,2021-01-04,68250,68250
+New York,Pfizer,2021-01-11,68250,68250
+New York,Pfizer,2021-01-18,71175,71175
+New York,Pfizer,2021-01-25,71175,71175
+New York,Pfizer,2021-02-01,70200,70200
+New York,Pfizer,2021-02-08,71175,71175
+New York,Pfizer,2021-02-15,71175,71175
+New York,Pfizer,2021-02-22,112320,112320
+New York,Pfizer,2021-03-01,128700,128700
+New York,Pfizer,2021-03-08,140400,140400
+New York,Pfizer,2021-03-15,150930,150930
+New York,Pfizer,2021-03-22,153270,153270
+New York,Pfizer,2021-03-29,188370,188370
+New York,Pfizer,2021-04-05,153270,153270
+New York,Pfizer,2021-04-12,156780,156780
+New York,Pfizer,2021-04-19,168480,168480
+New York,Pfizer,2021-04-26,168480,168480
+New York,Pfizer,2021-05-03,168480,168480
+New York,Pfizer,2021-05-10,168480,168480
+New York,Pfizer,2021-05-17,168480,168480
+New York,Pfizer,2021-05-24,168480,168480
+New York,Pfizer,2021-05-31,167670,167670
+New York City,Janssen,2021-03-01,71100,NA
+New York City,Janssen,2021-03-15,9800,NA
+New York City,Janssen,2021-03-22,9800,NA
+New York City,Janssen,2021-03-29,49900,NA
+New York City,Janssen,2021-04-05,127200,NA
+New York City,Janssen,2021-04-12,15100,NA
+New York City,Janssen,2021-05-03,19500,NA
+New York City,Janssen,2021-05-10,15100,NA
+New York City,Moderna,2020-12-21,149400,149400
+New York City,Moderna,2020-12-28,51600,51600
+New York City,Moderna,2021-01-04,51400,51400
+New York City,Moderna,2021-01-11,51600,51600
+New York City,Moderna,2021-01-18,54200,54200
+New York City,Moderna,2021-01-25,54200,54200
+New York City,Moderna,2021-02-01,71500,71500
+New York City,Moderna,2021-02-08,78200,78200
+New York City,Moderna,2021-02-15,84500,84500
+New York City,Moderna,2021-02-22,84500,84500
+New York City,Moderna,2021-03-01,84500,84500
+New York City,Moderna,2021-03-08,84500,84500
+New York City,Moderna,2021-03-15,84500,84500
+New York City,Moderna,2021-03-22,84500,84500
+New York City,Moderna,2021-03-29,84500,84500
+New York City,Moderna,2021-04-05,88300,88300
+New York City,Moderna,2021-04-12,88300,88300
+New York City,Moderna,2021-04-19,95200,95200
+New York City,Moderna,2021-04-26,95200,95200
+New York City,Moderna,2021-05-03,95200,95200
+New York City,Moderna,2021-05-10,97400,97400
+New York City,Moderna,2021-05-17,97400,97400
+New York City,Moderna,2021-05-24,97400,97400
+New York City,Moderna,2021-05-31,95200,95200
+New York City,Pfizer,2020-12-14,73125,73125
+New York City,Pfizer,2020-12-21,51675,51675
+New York City,Pfizer,2020-12-28,66300,66300
+New York City,Pfizer,2021-01-04,51675,51675
+New York City,Pfizer,2021-01-11,51675,51675
+New York City,Pfizer,2021-01-18,53625,53625
+New York City,Pfizer,2021-01-25,53625,53625
+New York City,Pfizer,2021-02-01,53625,53625
+New York City,Pfizer,2021-02-08,53625,53625
+New York City,Pfizer,2021-02-15,53625,53625
+New York City,Pfizer,2021-02-22,85410,85410
+New York City,Pfizer,2021-03-01,98280,98280
+New York City,Pfizer,2021-03-08,106470,106470
+New York City,Pfizer,2021-03-15,114660,114660
+New York City,Pfizer,2021-03-22,117000,117000
+New York City,Pfizer,2021-03-29,143910,143910
+New York City,Pfizer,2021-04-05,117000,117000
+New York City,Pfizer,2021-04-12,119340,119340
+New York City,Pfizer,2021-04-19,128700,128700
+New York City,Pfizer,2021-04-26,128700,128700
+New York City,Pfizer,2021-05-03,128700,128700
+New York City,Pfizer,2021-05-10,128700,128700
+New York City,Pfizer,2021-05-17,128700,128700
+New York City,Pfizer,2021-05-24,128700,128700
+New York City,Pfizer,2021-05-31,128070,128070
+North Carolina,Janssen,2021-03-01,83700,NA
+North Carolina,Janssen,2021-03-15,11500,NA
+North Carolina,Janssen,2021-03-22,11500,NA
+North Carolina,Janssen,2021-03-29,58800,NA
+North Carolina,Janssen,2021-04-05,149800,NA
+North Carolina,Janssen,2021-04-12,17700,NA
+North Carolina,Janssen,2021-05-03,23000,NA
+North Carolina,Janssen,2021-05-10,17700,NA
+North Carolina,Moderna,2020-12-21,175900,175900
+North Carolina,Moderna,2020-12-28,60800,60800
+North Carolina,Moderna,2021-01-04,60500,60500
+North Carolina,Moderna,2021-01-11,60800,60800
+North Carolina,Moderna,2021-01-18,63800,63800
+North Carolina,Moderna,2021-01-25,63800,63800
+North Carolina,Moderna,2021-02-01,84200,84200
+North Carolina,Moderna,2021-02-08,92000,92000
+North Carolina,Moderna,2021-02-15,99500,99500
+North Carolina,Moderna,2021-02-22,99500,99500
+North Carolina,Moderna,2021-03-01,99500,99500
+North Carolina,Moderna,2021-03-08,99500,99500
+North Carolina,Moderna,2021-03-15,99500,99500
+North Carolina,Moderna,2021-03-22,99500,99500
+North Carolina,Moderna,2021-03-29,99500,99500
+North Carolina,Moderna,2021-04-05,103900,103900
+North Carolina,Moderna,2021-04-12,103900,103900
+North Carolina,Moderna,2021-04-19,112100,112100
+North Carolina,Moderna,2021-04-26,112100,112100
+North Carolina,Moderna,2021-05-03,112100,112100
+North Carolina,Moderna,2021-05-10,114600,114600
+North Carolina,Moderna,2021-05-17,114640,114640
+North Carolina,Moderna,2021-05-24,114640,114640
+North Carolina,Moderna,2021-05-31,112140,112140
+North Carolina,Pfizer,2020-12-14,85800,85800
+North Carolina,Pfizer,2020-12-21,61425,61425
+North Carolina,Pfizer,2020-12-28,78000,78000
+North Carolina,Pfizer,2021-01-04,61425,61425
+North Carolina,Pfizer,2021-01-11,61425,61425
+North Carolina,Pfizer,2021-01-18,63375,63375
+North Carolina,Pfizer,2021-01-25,63375,63375
+North Carolina,Pfizer,2021-02-01,63375,63375
+North Carolina,Pfizer,2021-02-08,63375,63375
+North Carolina,Pfizer,2021-02-15,63375,63375
+North Carolina,Pfizer,2021-02-22,100620,100620
+North Carolina,Pfizer,2021-03-01,115830,115830
+North Carolina,Pfizer,2021-03-08,126360,126360
+North Carolina,Pfizer,2021-03-15,135720,135720
+North Carolina,Pfizer,2021-03-22,138060,138060
+North Carolina,Pfizer,2021-03-29,168480,168480
+North Carolina,Pfizer,2021-04-05,138060,138060
+North Carolina,Pfizer,2021-04-12,140400,140400
+North Carolina,Pfizer,2021-04-19,150930,150930
+North Carolina,Pfizer,2021-04-26,150930,150930
+North Carolina,Pfizer,2021-05-03,150930,150930
+North Carolina,Pfizer,2021-05-10,150930,150930
+North Carolina,Pfizer,2021-05-17,150930,150930
+North Carolina,Pfizer,2021-05-24,150930,150930
+North Carolina,Pfizer,2021-05-31,149940,149940
+North Dakota,Janssen,2021-03-01,6300,NA
+North Dakota,Janssen,2021-03-15,900,NA
+North Dakota,Janssen,2021-03-22,900,NA
+North Dakota,Janssen,2021-03-29,4500,NA
+North Dakota,Janssen,2021-04-05,11300,NA
+North Dakota,Janssen,2021-04-12,1400,NA
+North Dakota,Janssen,2021-05-03,1800,NA
+North Dakota,Janssen,2021-05-10,1400,NA
+North Dakota,Moderna,2020-12-21,13200,13200
+North Dakota,Moderna,2020-12-28,4600,4600
+North Dakota,Moderna,2021-01-04,4600,4600
+North Dakota,Moderna,2021-01-11,4600,4600
+North Dakota,Moderna,2021-01-18,4800,4800
+North Dakota,Moderna,2021-01-25,4800,4800
+North Dakota,Moderna,2021-02-01,6400,6400
+North Dakota,Moderna,2021-02-08,6900,6900
+North Dakota,Moderna,2021-02-15,7500,7500
+North Dakota,Moderna,2021-02-22,7500,7500
+North Dakota,Moderna,2021-03-01,7500,7500
+North Dakota,Moderna,2021-03-08,7500,7500
+North Dakota,Moderna,2021-03-15,7500,7500
+North Dakota,Moderna,2021-03-22,7500,7500
+North Dakota,Moderna,2021-03-29,7500,7500
+North Dakota,Moderna,2021-04-05,7800,7800
+North Dakota,Moderna,2021-04-12,7800,7800
+North Dakota,Moderna,2021-04-19,8500,8500
+North Dakota,Moderna,2021-04-26,8500,8500
+North Dakota,Moderna,2021-05-03,8500,8500
+North Dakota,Moderna,2021-05-10,8700,8700
+North Dakota,Moderna,2021-05-17,8600,8600
+North Dakota,Moderna,2021-05-24,8600,8600
+North Dakota,Moderna,2021-05-31,8400,8400
+North Dakota,Pfizer,2020-12-14,6825,6825
+North Dakota,Pfizer,2020-12-21,4875,4875
+North Dakota,Pfizer,2020-12-28,5850,5850
+North Dakota,Pfizer,2021-01-04,4875,4875
+North Dakota,Pfizer,2021-01-11,4875,4875
+North Dakota,Pfizer,2021-01-18,4875,4875
+North Dakota,Pfizer,2021-01-25,4875,4875
+North Dakota,Pfizer,2021-02-01,4875,4875
+North Dakota,Pfizer,2021-02-08,4875,4875
+North Dakota,Pfizer,2021-02-15,4875,4875
+North Dakota,Pfizer,2021-02-22,8190,8190
+North Dakota,Pfizer,2021-03-01,9360,9360
+North Dakota,Pfizer,2021-03-08,10530,10530
+North Dakota,Pfizer,2021-03-15,10530,10530
+North Dakota,Pfizer,2021-03-22,10530,10530
+North Dakota,Pfizer,2021-03-29,12870,12870
+North Dakota,Pfizer,2021-04-05,10530,10530
+North Dakota,Pfizer,2021-04-12,10530,10530
+North Dakota,Pfizer,2021-04-19,11700,11700
+North Dakota,Pfizer,2021-04-26,11700,11700
+North Dakota,Pfizer,2021-05-03,11700,11700
+North Dakota,Pfizer,2021-05-10,11700,11700
+North Dakota,Pfizer,2021-05-17,11700,11700
+North Dakota,Pfizer,2021-05-24,11700,11700
+North Dakota,Pfizer,2021-05-31,11520,11520
+Ohio,Janssen,2021-03-01,96100,NA
+Ohio,Janssen,2021-03-15,13200,NA
+Ohio,Janssen,2021-03-22,13200,NA
+Ohio,Janssen,2021-03-29,67400,NA
+Ohio,Janssen,2021-04-05,171900,NA
+Ohio,Janssen,2021-04-12,20300,NA
+Ohio,Janssen,2021-05-03,26400,NA
+Ohio,Janssen,2021-05-10,20300,NA
+Ohio,Moderna,2020-12-21,201900,201900
+Ohio,Moderna,2020-12-28,69700,69700
+Ohio,Moderna,2021-01-04,69500,69500
+Ohio,Moderna,2021-01-11,69700,69700
+Ohio,Moderna,2021-01-18,73200,73200
+Ohio,Moderna,2021-01-25,73200,73200
+Ohio,Moderna,2021-02-01,96600,96600
+Ohio,Moderna,2021-02-08,105600,105600
+Ohio,Moderna,2021-02-15,114100,114100
+Ohio,Moderna,2021-02-22,114100,114100
+Ohio,Moderna,2021-03-01,114100,114100
+Ohio,Moderna,2021-03-08,114100,114100
+Ohio,Moderna,2021-03-15,114100,114100
+Ohio,Moderna,2021-03-22,114100,114100
+Ohio,Moderna,2021-03-29,114100,114100
+Ohio,Moderna,2021-04-05,119300,119300
+Ohio,Moderna,2021-04-12,119300,119300
+Ohio,Moderna,2021-04-19,128600,128600
+Ohio,Moderna,2021-04-26,128600,128600
+Ohio,Moderna,2021-05-03,128600,128600
+Ohio,Moderna,2021-05-10,131500,131500
+Ohio,Moderna,2021-05-17,131560,131560
+Ohio,Moderna,2021-05-24,131560,131560
+Ohio,Moderna,2021-05-31,128660,128660
+Ohio,Pfizer,2020-12-14,98475,98475
+Ohio,Pfizer,2020-12-21,70200,70200
+Ohio,Pfizer,2020-12-28,89700,89700
+Ohio,Pfizer,2021-01-04,70200,70200
+Ohio,Pfizer,2021-01-11,70200,70200
+Ohio,Pfizer,2021-01-18,73125,73125
+Ohio,Pfizer,2021-01-25,73125,73125
+Ohio,Pfizer,2021-02-01,72150,72150
+Ohio,Pfizer,2021-02-08,73125,73125
+Ohio,Pfizer,2021-02-15,73125,73125
+Ohio,Pfizer,2021-02-22,115830,115830
+Ohio,Pfizer,2021-03-01,132210,132210
+Ohio,Pfizer,2021-03-08,143910,143910
+Ohio,Pfizer,2021-03-15,155610,155610
+Ohio,Pfizer,2021-03-22,157950,157950
+Ohio,Pfizer,2021-03-29,194220,194220
+Ohio,Pfizer,2021-04-05,157950,157950
+Ohio,Pfizer,2021-04-12,161460,161460
+Ohio,Pfizer,2021-04-19,173160,173160
+Ohio,Pfizer,2021-04-26,173160,173160
+Ohio,Pfizer,2021-05-03,173160,173160
+Ohio,Pfizer,2021-05-10,173160,173160
+Ohio,Pfizer,2021-05-17,173160,173160
+Ohio,Pfizer,2021-05-24,173160,173160
+Ohio,Pfizer,2021-05-31,172530,172530
+Oklahoma,Janssen,2021-03-01,31500,NA
+Oklahoma,Janssen,2021-03-15,4400,NA
+Oklahoma,Janssen,2021-03-22,4400,NA
+Oklahoma,Janssen,2021-03-29,22200,NA
+Oklahoma,Janssen,2021-04-05,56400,NA
+Oklahoma,Janssen,2021-04-12,6700,NA
+Oklahoma,Janssen,2021-05-03,8700,NA
+Oklahoma,Janssen,2021-05-10,6700,NA
+Oklahoma,Moderna,2020-12-21,66200,66200
+Oklahoma,Moderna,2020-12-28,22900,22900
+Oklahoma,Moderna,2021-01-04,22800,22800
+Oklahoma,Moderna,2021-01-11,22900,22900
+Oklahoma,Moderna,2021-01-18,24100,24100
+Oklahoma,Moderna,2021-01-25,24100,24100
+Oklahoma,Moderna,2021-02-01,31700,31700
+Oklahoma,Moderna,2021-02-08,34700,34700
+Oklahoma,Moderna,2021-02-15,37500,37500
+Oklahoma,Moderna,2021-02-22,37500,37500
+Oklahoma,Moderna,2021-03-01,37500,37500
+Oklahoma,Moderna,2021-03-08,37500,37500
+Oklahoma,Moderna,2021-03-15,37500,37500
+Oklahoma,Moderna,2021-03-22,37500,37500
+Oklahoma,Moderna,2021-03-29,37500,37500
+Oklahoma,Moderna,2021-04-05,39200,39200
+Oklahoma,Moderna,2021-04-12,39200,39200
+Oklahoma,Moderna,2021-04-19,42200,42200
+Oklahoma,Moderna,2021-04-26,42200,42200
+Oklahoma,Moderna,2021-05-03,42200,42200
+Oklahoma,Moderna,2021-05-10,43200,43200
+Oklahoma,Moderna,2021-05-17,43280,43280
+Oklahoma,Moderna,2021-05-24,43280,43280
+Oklahoma,Moderna,2021-05-31,42280,42280
+Oklahoma,Pfizer,2020-12-14,33150,33150
+Oklahoma,Pfizer,2020-12-21,23400,23400
+Oklahoma,Pfizer,2020-12-28,29250,29250
+Oklahoma,Pfizer,2021-01-04,23400,23400
+Oklahoma,Pfizer,2021-01-11,23400,23400
+Oklahoma,Pfizer,2021-01-18,24375,24375
+Oklahoma,Pfizer,2021-01-25,24375,24375
+Oklahoma,Pfizer,2021-02-01,24375,24375
+Oklahoma,Pfizer,2021-02-08,24375,24375
+Oklahoma,Pfizer,2021-02-15,24375,24375
+Oklahoma,Pfizer,2021-02-22,38610,38610
+Oklahoma,Pfizer,2021-03-01,43290,43290
+Oklahoma,Pfizer,2021-03-08,47970,47970
+Oklahoma,Pfizer,2021-03-15,51480,51480
+Oklahoma,Pfizer,2021-03-22,52650,52650
+Oklahoma,Pfizer,2021-03-29,64350,64350
+Oklahoma,Pfizer,2021-04-05,52650,52650
+Oklahoma,Pfizer,2021-04-12,53820,53820
+Oklahoma,Pfizer,2021-04-19,57330,57330
+Oklahoma,Pfizer,2021-04-26,57330,57330
+Oklahoma,Pfizer,2021-05-03,57330,57330
+Oklahoma,Pfizer,2021-05-10,57330,57330
+Oklahoma,Pfizer,2021-05-17,57330,57330
+Oklahoma,Pfizer,2021-05-24,57330,57330
+Oklahoma,Pfizer,2021-05-31,57600,57600
+Oregon,Janssen,2021-03-01,34400,NA
+Oregon,Janssen,2021-03-15,4800,NA
+Oregon,Janssen,2021-03-22,4800,NA
+Oregon,Janssen,2021-03-29,24200,NA
+Oregon,Janssen,2021-04-05,61400,NA
+Oregon,Janssen,2021-04-12,7300,NA
+Oregon,Janssen,2021-05-03,9500,NA
+Oregon,Janssen,2021-05-10,7300,NA
+Oregon,Moderna,2020-12-21,72100,72100
+Oregon,Moderna,2020-12-28,25000,25000
+Oregon,Moderna,2021-01-04,24800,24800
+Oregon,Moderna,2021-01-11,25000,25000
+Oregon,Moderna,2021-01-18,26200,26200
+Oregon,Moderna,2021-01-25,26200,26200
+Oregon,Moderna,2021-02-01,34600,34600
+Oregon,Moderna,2021-02-08,37800,37800
+Oregon,Moderna,2021-02-15,40800,40800
+Oregon,Moderna,2021-02-22,40800,40800
+Oregon,Moderna,2021-03-01,40800,40800
+Oregon,Moderna,2021-03-08,40800,40800
+Oregon,Moderna,2021-03-15,40800,40800
+Oregon,Moderna,2021-03-22,40800,40800
+Oregon,Moderna,2021-03-29,40800,40800
+Oregon,Moderna,2021-04-05,42700,42700
+Oregon,Moderna,2021-04-12,42700,42700
+Oregon,Moderna,2021-04-19,46000,46000
+Oregon,Moderna,2021-04-26,46000,46000
+Oregon,Moderna,2021-05-03,46000,46000
+Oregon,Moderna,2021-05-10,47100,47100
+Oregon,Moderna,2021-05-17,47160,47160
+Oregon,Moderna,2021-05-24,47160,47160
+Oregon,Moderna,2021-05-31,46060,46060
+Oregon,Pfizer,2020-12-14,35100,35100
+Oregon,Pfizer,2020-12-21,25350,25350
+Oregon,Pfizer,2020-12-28,32175,32175
+Oregon,Pfizer,2021-01-04,25350,25350
+Oregon,Pfizer,2021-01-11,25350,25350
+Oregon,Pfizer,2021-01-18,26325,26325
+Oregon,Pfizer,2021-01-25,26325,26325
+Oregon,Pfizer,2021-02-01,26325,26325
+Oregon,Pfizer,2021-02-08,26325,26325
+Oregon,Pfizer,2021-02-15,26325,26325
+Oregon,Pfizer,2021-02-22,42120,42120
+Oregon,Pfizer,2021-03-01,47970,47970
+Oregon,Pfizer,2021-03-08,51480,51480
+Oregon,Pfizer,2021-03-15,56160,56160
+Oregon,Pfizer,2021-03-22,57330,57330
+Oregon,Pfizer,2021-03-29,70200,70200
+Oregon,Pfizer,2021-04-05,57330,57330
+Oregon,Pfizer,2021-04-12,58500,58500
+Oregon,Pfizer,2021-04-19,62010,62010
+Oregon,Pfizer,2021-04-26,62010,62010
+Oregon,Pfizer,2021-05-03,62010,62010
+Oregon,Pfizer,2021-05-10,62010,62010
+Oregon,Pfizer,2021-05-17,62010,62010
+Oregon,Pfizer,2021-05-24,62010,62010
+Oregon,Pfizer,2021-05-31,62190,62190
+Palau,Janssen,2021-03-01,200,NA
+Palau,Janssen,2021-03-15,100,NA
+Palau,Janssen,2021-03-22,100,NA
+Palau,Janssen,2021-03-29,200,NA
+Palau,Janssen,2021-04-05,3200,NA
+Palau,Janssen,2021-04-12,0,NA
+Palau,Janssen,2021-05-03,0,NA
+Palau,Janssen,2021-05-10,0,NA
+Palau,Moderna,2020-12-21,2800,0
+Palau,Moderna,2020-12-28,0,0
+Palau,Moderna,2021-01-04,3200,0
+Palau,Moderna,2021-01-11,0,0
+Palau,Moderna,2021-01-18,0,0
+Palau,Moderna,2021-01-25,0,0
+Palau,Moderna,2021-02-01,2800,0
+Palau,Moderna,2021-02-08,0,0
+Palau,Moderna,2021-02-15,0,0
+Palau,Moderna,2021-02-22,0,0
+Palau,Moderna,2021-03-01,5400,0
+Palau,Moderna,2021-03-08,0,0
+Palau,Moderna,2021-03-15,0,0
+Palau,Moderna,2021-03-22,0,0
+Palau,Moderna,2021-03-29,6200,0
+Palau,Moderna,2021-04-05,0,0
+Palau,Moderna,2021-04-12,0,0
+Palau,Moderna,2021-04-19,0,0
+Palau,Moderna,2021-04-26,0,0
+Palau,Moderna,2021-05-03,0,0
+Palau,Moderna,2021-05-10,0,0
+Palau,Moderna,2021-05-17,0,0
+Palau,Moderna,2021-05-24,0,0
+Palau,Moderna,2021-05-31,0,0
+Palau,Pfizer,2020-12-14,0,0
+Palau,Pfizer,2020-12-21,0,0
+Palau,Pfizer,2020-12-28,0,0
+Palau,Pfizer,2021-01-04,0,0
+Palau,Pfizer,2021-01-11,0,0
+Palau,Pfizer,2021-01-18,0,0
+Palau,Pfizer,2021-01-25,0,0
+Palau,Pfizer,2021-02-01,0,0
+Palau,Pfizer,2021-02-08,0,0
+Palau,Pfizer,2021-02-15,0,0
+Palau,Pfizer,2021-02-22,0,0
+Palau,Pfizer,2021-03-01,0,0
+Palau,Pfizer,2021-03-08,0,0
+Palau,Pfizer,2021-03-15,0,0
+Palau,Pfizer,2021-03-22,0,0
+Palau,Pfizer,2021-03-29,0,0
+Palau,Pfizer,2021-04-05,0,0
+Palau,Pfizer,2021-04-12,0,0
+Palau,Pfizer,2021-04-19,0,0
+Palau,Pfizer,2021-04-26,0,0
+Palau,Pfizer,2021-05-03,0,0
+Palau,Pfizer,2021-05-10,0,0
+Palau,Pfizer,2021-05-17,0,0
+Palau,Pfizer,2021-05-24,0,0
+Palau,Pfizer,2021-05-31,0,0
+Pennsylvania,Janssen,2021-03-01,94600,NA
+Pennsylvania,Janssen,2021-03-15,13000,NA
+Pennsylvania,Janssen,2021-03-22,13000,NA
+Pennsylvania,Janssen,2021-03-29,66400,NA
+Pennsylvania,Janssen,2021-04-05,169200,NA
+Pennsylvania,Janssen,2021-04-12,20000,NA
+Pennsylvania,Janssen,2021-05-03,26000,NA
+Pennsylvania,Janssen,2021-05-10,20000,NA
+Pennsylvania,Moderna,2020-12-21,198800,198800
+Pennsylvania,Moderna,2020-12-28,68700,68700
+Pennsylvania,Moderna,2021-01-04,68400,68400
+Pennsylvania,Moderna,2021-01-11,68700,68700
+Pennsylvania,Moderna,2021-01-18,72100,72100
+Pennsylvania,Moderna,2021-01-25,72100,72100
+Pennsylvania,Moderna,2021-02-01,95200,95200
+Pennsylvania,Moderna,2021-02-08,104000,104000
+Pennsylvania,Moderna,2021-02-15,112400,112400
+Pennsylvania,Moderna,2021-02-22,112400,112400
+Pennsylvania,Moderna,2021-03-01,112400,112400
+Pennsylvania,Moderna,2021-03-08,112400,112400
+Pennsylvania,Moderna,2021-03-15,112400,112400
+Pennsylvania,Moderna,2021-03-22,112400,112400
+Pennsylvania,Moderna,2021-03-29,112400,112400
+Pennsylvania,Moderna,2021-04-05,117500,117500
+Pennsylvania,Moderna,2021-04-12,117500,117500
+Pennsylvania,Moderna,2021-04-19,126700,126700
+Pennsylvania,Moderna,2021-04-26,126700,126700
+Pennsylvania,Moderna,2021-05-03,126700,126700
+Pennsylvania,Moderna,2021-05-10,129500,129500
+Pennsylvania,Moderna,2021-05-17,129600,129600
+Pennsylvania,Moderna,2021-05-24,129600,129600
+Pennsylvania,Moderna,2021-05-31,126700,126700
+Pennsylvania,Pfizer,2020-12-14,97500,97500
+Pennsylvania,Pfizer,2020-12-21,69225,69225
+Pennsylvania,Pfizer,2020-12-28,88725,88725
+Pennsylvania,Pfizer,2021-01-04,69225,69225
+Pennsylvania,Pfizer,2021-01-11,69225,69225
+Pennsylvania,Pfizer,2021-01-18,71175,71175
+Pennsylvania,Pfizer,2021-01-25,71175,71175
+Pennsylvania,Pfizer,2021-02-01,71175,71175
+Pennsylvania,Pfizer,2021-02-08,71175,71175
+Pennsylvania,Pfizer,2021-02-15,71175,71175
+Pennsylvania,Pfizer,2021-02-22,113490,113490
+Pennsylvania,Pfizer,2021-03-01,129870,129870
+Pennsylvania,Pfizer,2021-03-08,141570,141570
+Pennsylvania,Pfizer,2021-03-15,153270,153270
+Pennsylvania,Pfizer,2021-03-22,155610,155610
+Pennsylvania,Pfizer,2021-03-29,190710,190710
+Pennsylvania,Pfizer,2021-04-05,155610,155610
+Pennsylvania,Pfizer,2021-04-12,159120,159120
+Pennsylvania,Pfizer,2021-04-19,170820,170820
+Pennsylvania,Pfizer,2021-04-26,170820,170820
+Pennsylvania,Pfizer,2021-05-03,170820,170820
+Pennsylvania,Pfizer,2021-05-10,170820,170820
+Pennsylvania,Pfizer,2021-05-17,170820,170820
+Pennsylvania,Pfizer,2021-05-24,170820,170820
+Pennsylvania,Pfizer,2021-05-31,170460,170460
+Philadelphia,Janssen,2021-03-01,13100,NA
+Philadelphia,Janssen,2021-03-15,1800,NA
+Philadelphia,Janssen,2021-03-22,1800,NA
+Philadelphia,Janssen,2021-03-29,9200,NA
+Philadelphia,Janssen,2021-04-05,23500,NA
+Philadelphia,Janssen,2021-04-12,2800,NA
+Philadelphia,Janssen,2021-05-03,3600,NA
+Philadelphia,Janssen,2021-05-10,2800,NA
+Philadelphia,Moderna,2020-12-21,27600,27600
+Philadelphia,Moderna,2020-12-28,9500,9500
+Philadelphia,Moderna,2021-01-04,9500,9500
+Philadelphia,Moderna,2021-01-11,9500,9500
+Philadelphia,Moderna,2021-01-18,10000,10000
+Philadelphia,Moderna,2021-01-25,10000,10000
+Philadelphia,Moderna,2021-02-01,13200,13200
+Philadelphia,Moderna,2021-02-08,14400,14400
+Philadelphia,Moderna,2021-02-15,15600,15600
+Philadelphia,Moderna,2021-02-22,15600,15600
+Philadelphia,Moderna,2021-03-01,15600,15600
+Philadelphia,Moderna,2021-03-08,15600,15600
+Philadelphia,Moderna,2021-03-15,15600,15600
+Philadelphia,Moderna,2021-03-22,15600,15600
+Philadelphia,Moderna,2021-03-29,15600,15600
+Philadelphia,Moderna,2021-04-05,16300,16300
+Philadelphia,Moderna,2021-04-12,16300,16300
+Philadelphia,Moderna,2021-04-19,17600,17600
+Philadelphia,Moderna,2021-04-26,17600,17600
+Philadelphia,Moderna,2021-05-03,17600,17600
+Philadelphia,Moderna,2021-05-10,18000,18000
+Philadelphia,Moderna,2021-05-17,18040,18040
+Philadelphia,Moderna,2021-05-24,18040,18040
+Philadelphia,Moderna,2021-05-31,17640,17640
+Philadelphia,Pfizer,2020-12-14,13650,13650
+Philadelphia,Pfizer,2020-12-21,9750,9750
+Philadelphia,Pfizer,2020-12-28,12675,12675
+Philadelphia,Pfizer,2021-01-04,9750,9750
+Philadelphia,Pfizer,2021-01-11,9750,9750
+Philadelphia,Pfizer,2021-01-18,10725,10725
+Philadelphia,Pfizer,2021-01-25,10725,10725
+Philadelphia,Pfizer,2021-02-01,10725,10725
+Philadelphia,Pfizer,2021-02-08,10725,10725
+Philadelphia,Pfizer,2021-02-15,10725,10725
+Philadelphia,Pfizer,2021-02-22,16380,16380
+Philadelphia,Pfizer,2021-03-01,18720,18720
+Philadelphia,Pfizer,2021-03-08,19890,19890
+Philadelphia,Pfizer,2021-03-15,22230,22230
+Philadelphia,Pfizer,2021-03-22,22230,22230
+Philadelphia,Pfizer,2021-03-29,26910,26910
+Philadelphia,Pfizer,2021-04-05,22230,22230
+Philadelphia,Pfizer,2021-04-12,22230,22230
+Philadelphia,Pfizer,2021-04-19,24570,24570
+Philadelphia,Pfizer,2021-04-26,24570,24570
+Philadelphia,Pfizer,2021-05-03,24570,24570
+Philadelphia,Pfizer,2021-05-10,24570,24570
+Philadelphia,Pfizer,2021-05-17,24570,24570
+Philadelphia,Pfizer,2021-05-24,24570,24570
+Philadelphia,Pfizer,2021-05-31,24660,24660
+Puerto Rico,Janssen,2021-03-01,28800,NA
+Puerto Rico,Janssen,2021-03-15,4000,NA
+Puerto Rico,Janssen,2021-03-22,4000,NA
+Puerto Rico,Janssen,2021-03-29,20300,NA
+Puerto Rico,Janssen,2021-04-05,51400,NA
+Puerto Rico,Janssen,2021-04-12,6100,NA
+Puerto Rico,Janssen,2021-05-03,7900,NA
+Puerto Rico,Janssen,2021-05-10,6100,NA
+Puerto Rico,Moderna,2020-12-21,60400,60400
+Puerto Rico,Moderna,2020-12-28,20900,20900
+Puerto Rico,Moderna,2021-01-04,20800,20800
+Puerto Rico,Moderna,2021-01-11,20900,20900
+Puerto Rico,Moderna,2021-01-18,21900,21900
+Puerto Rico,Moderna,2021-01-25,21900,21900
+Puerto Rico,Moderna,2021-02-01,28900,28900
+Puerto Rico,Moderna,2021-02-08,31600,31600
+Puerto Rico,Moderna,2021-02-15,34200,34200
+Puerto Rico,Moderna,2021-02-22,34200,34200
+Puerto Rico,Moderna,2021-03-01,34200,34200
+Puerto Rico,Moderna,2021-03-08,34200,34200
+Puerto Rico,Moderna,2021-03-15,34200,34200
+Puerto Rico,Moderna,2021-03-22,34200,34200
+Puerto Rico,Moderna,2021-03-29,34200,34200
+Puerto Rico,Moderna,2021-04-05,35700,35700
+Puerto Rico,Moderna,2021-04-12,35700,35700
+Puerto Rico,Moderna,2021-04-19,38500,38500
+Puerto Rico,Moderna,2021-04-26,38500,38500
+Puerto Rico,Moderna,2021-05-03,38500,38500
+Puerto Rico,Moderna,2021-05-10,39400,39400
+Puerto Rico,Moderna,2021-05-17,39400,39400
+Puerto Rico,Moderna,2021-05-24,39400,39400
+Puerto Rico,Moderna,2021-05-31,38500,38500
+Puerto Rico,Pfizer,2020-12-14,30225,30225
+Puerto Rico,Pfizer,2020-12-21,21450,21450
+Puerto Rico,Pfizer,2020-12-28,27300,27300
+Puerto Rico,Pfizer,2021-01-04,21450,21450
+Puerto Rico,Pfizer,2021-01-11,21450,21450
+Puerto Rico,Pfizer,2021-01-18,22425,22425
+Puerto Rico,Pfizer,2021-01-25,22425,22425
+Puerto Rico,Pfizer,2021-02-01,22425,22425
+Puerto Rico,Pfizer,2021-02-08,22425,22425
+Puerto Rico,Pfizer,2021-02-15,22425,22425
+Puerto Rico,Pfizer,2021-02-22,35100,35100
+Puerto Rico,Pfizer,2021-03-01,39780,39780
+Puerto Rico,Pfizer,2021-03-08,43290,43290
+Puerto Rico,Pfizer,2021-03-15,46800,46800
+Puerto Rico,Pfizer,2021-03-22,47970,47970
+Puerto Rico,Pfizer,2021-03-29,58500,58500
+Puerto Rico,Pfizer,2021-04-05,47970,47970
+Puerto Rico,Pfizer,2021-04-12,49140,49140
+Puerto Rico,Pfizer,2021-04-19,52650,52650
+Puerto Rico,Pfizer,2021-04-26,52650,52650
+Puerto Rico,Pfizer,2021-05-03,52650,52650
+Puerto Rico,Pfizer,2021-05-10,52650,52650
+Puerto Rico,Pfizer,2021-05-17,52650,52650
+Puerto Rico,Pfizer,2021-05-24,52650,52650
+Puerto Rico,Pfizer,2021-05-31,52290,52290
+Rhode Island,Janssen,2021-03-01,9100,NA
+Rhode Island,Janssen,2021-03-15,1300,NA
+Rhode Island,Janssen,2021-03-22,1300,NA
+Rhode Island,Janssen,2021-03-29,6400,NA
+Rhode Island,Janssen,2021-04-05,16200,NA
+Rhode Island,Janssen,2021-04-12,2000,NA
+Rhode Island,Janssen,2021-05-03,2500,NA
+Rhode Island,Janssen,2021-05-10,2000,NA
+Rhode Island,Moderna,2020-12-21,19000,19000
+Rhode Island,Moderna,2020-12-28,6600,6600
+Rhode Island,Moderna,2021-01-04,6600,6600
+Rhode Island,Moderna,2021-01-11,6600,6600
+Rhode Island,Moderna,2021-01-18,6900,6900
+Rhode Island,Moderna,2021-01-25,6900,6900
+Rhode Island,Moderna,2021-02-01,9100,9100
+Rhode Island,Moderna,2021-02-08,10000,10000
+Rhode Island,Moderna,2021-02-15,10800,10800
+Rhode Island,Moderna,2021-02-22,10800,10800
+Rhode Island,Moderna,2021-03-01,10800,10800
+Rhode Island,Moderna,2021-03-08,10800,10800
+Rhode Island,Moderna,2021-03-15,10800,10800
+Rhode Island,Moderna,2021-03-22,10800,10800
+Rhode Island,Moderna,2021-03-29,10800,10800
+Rhode Island,Moderna,2021-04-05,11300,11300
+Rhode Island,Moderna,2021-04-12,11300,11300
+Rhode Island,Moderna,2021-04-19,12100,12100
+Rhode Island,Moderna,2021-04-26,12100,12100
+Rhode Island,Moderna,2021-05-03,12100,12100
+Rhode Island,Moderna,2021-05-10,12400,12400
+Rhode Island,Moderna,2021-05-17,12480,12480
+Rhode Island,Moderna,2021-05-24,12480,12480
+Rhode Island,Moderna,2021-05-31,12180,12180
+Rhode Island,Pfizer,2020-12-14,9750,9750
+Rhode Island,Pfizer,2020-12-21,6825,6825
+Rhode Island,Pfizer,2020-12-28,8775,8775
+Rhode Island,Pfizer,2021-01-04,6825,6825
+Rhode Island,Pfizer,2021-01-11,6825,6825
+Rhode Island,Pfizer,2021-01-18,6825,6825
+Rhode Island,Pfizer,2021-01-25,6825,6825
+Rhode Island,Pfizer,2021-02-01,6825,6825
+Rhode Island,Pfizer,2021-02-08,6825,6825
+Rhode Island,Pfizer,2021-02-15,6825,6825
+Rhode Island,Pfizer,2021-02-22,11700,11700
+Rhode Island,Pfizer,2021-03-01,12870,12870
+Rhode Island,Pfizer,2021-03-08,14040,14040
+Rhode Island,Pfizer,2021-03-15,15210,15210
+Rhode Island,Pfizer,2021-03-22,15210,15210
+Rhode Island,Pfizer,2021-03-29,18720,18720
+Rhode Island,Pfizer,2021-04-05,15210,15210
+Rhode Island,Pfizer,2021-04-12,15210,15210
+Rhode Island,Pfizer,2021-04-19,16380,16380
+Rhode Island,Pfizer,2021-04-26,16380,16380
+Rhode Island,Pfizer,2021-05-03,16380,16380
+Rhode Island,Pfizer,2021-05-10,16380,16380
+Rhode Island,Pfizer,2021-05-17,16380,16380
+Rhode Island,Pfizer,2021-05-24,16380,16380
+Rhode Island,Pfizer,2021-05-31,17280,17280
+South Carolina,Janssen,2021-03-01,41100,NA
+South Carolina,Janssen,2021-03-15,5700,NA
+South Carolina,Janssen,2021-03-22,5700,NA
+South Carolina,Janssen,2021-03-29,28900,NA
+South Carolina,Janssen,2021-04-05,73500,NA
+South Carolina,Janssen,2021-04-12,8700,NA
+South Carolina,Janssen,2021-05-03,11300,NA
+South Carolina,Janssen,2021-05-10,8700,NA
+South Carolina,Moderna,2020-12-21,86400,86400
+South Carolina,Moderna,2020-12-28,29900,29900
+South Carolina,Moderna,2021-01-04,29700,29700
+South Carolina,Moderna,2021-01-11,29900,29900
+South Carolina,Moderna,2021-01-18,31400,31400
+South Carolina,Moderna,2021-01-25,31400,31400
+South Carolina,Moderna,2021-02-01,41400,41400
+South Carolina,Moderna,2021-02-08,45200,45200
+South Carolina,Moderna,2021-02-15,48800,48800
+South Carolina,Moderna,2021-02-22,48800,48800
+South Carolina,Moderna,2021-03-01,48800,48800
+South Carolina,Moderna,2021-03-08,48800,48800
+South Carolina,Moderna,2021-03-15,48800,48800
+South Carolina,Moderna,2021-03-22,48800,48800
+South Carolina,Moderna,2021-03-29,48800,48800
+South Carolina,Moderna,2021-04-05,51000,51000
+South Carolina,Moderna,2021-04-12,51000,51000
+South Carolina,Moderna,2021-04-19,55000,55000
+South Carolina,Moderna,2021-04-26,55000,55000
+South Carolina,Moderna,2021-05-03,55000,55000
+South Carolina,Moderna,2021-05-10,56300,56300
+South Carolina,Moderna,2021-05-17,56320,56320
+South Carolina,Moderna,2021-05-24,56320,56320
+South Carolina,Moderna,2021-05-31,55020,55020
+South Carolina,Pfizer,2020-12-14,42900,42900
+South Carolina,Pfizer,2020-12-21,30225,30225
+South Carolina,Pfizer,2020-12-28,39000,39000
+South Carolina,Pfizer,2021-01-04,30225,30225
+South Carolina,Pfizer,2021-01-11,30225,30225
+South Carolina,Pfizer,2021-01-18,31200,31200
+South Carolina,Pfizer,2021-01-25,31200,31200
+South Carolina,Pfizer,2021-02-01,31200,31200
+South Carolina,Pfizer,2021-02-08,31200,31200
+South Carolina,Pfizer,2021-02-15,31200,31200
+South Carolina,Pfizer,2021-02-22,49140,49140
+South Carolina,Pfizer,2021-03-01,57330,57330
+South Carolina,Pfizer,2021-03-08,62010,62010
+South Carolina,Pfizer,2021-03-15,66690,66690
+South Carolina,Pfizer,2021-03-22,67860,67860
+South Carolina,Pfizer,2021-03-29,83070,83070
+South Carolina,Pfizer,2021-04-05,67860,67860
+South Carolina,Pfizer,2021-04-12,69030,69030
+South Carolina,Pfizer,2021-04-19,74880,74880
+South Carolina,Pfizer,2021-04-26,74880,74880
+South Carolina,Pfizer,2021-05-03,74880,74880
+South Carolina,Pfizer,2021-05-10,74880,74880
+South Carolina,Pfizer,2021-05-17,74880,74880
+South Carolina,Pfizer,2021-05-24,74880,74880
+South Carolina,Pfizer,2021-05-31,74160,74160
+South Dakota,Janssen,2021-03-01,7000,NA
+South Dakota,Janssen,2021-03-15,1000,NA
+South Dakota,Janssen,2021-03-22,1000,NA
+South Dakota,Janssen,2021-03-29,5000,NA
+South Dakota,Janssen,2021-04-05,12500,NA
+South Dakota,Janssen,2021-04-12,1500,NA
+South Dakota,Janssen,2021-05-03,2000,NA
+South Dakota,Janssen,2021-05-10,1500,NA
+South Dakota,Moderna,2020-12-21,14600,14600
+South Dakota,Moderna,2020-12-28,5100,5100
+South Dakota,Moderna,2021-01-04,5100,5100
+South Dakota,Moderna,2021-01-11,5100,5100
+South Dakota,Moderna,2021-01-18,5300,5300
+South Dakota,Moderna,2021-01-25,5300,5300
+South Dakota,Moderna,2021-02-01,7000,7000
+South Dakota,Moderna,2021-02-08,7700,7700
+South Dakota,Moderna,2021-02-15,8300,8300
+South Dakota,Moderna,2021-02-22,8300,8300
+South Dakota,Moderna,2021-03-01,8300,8300
+South Dakota,Moderna,2021-03-08,8300,8300
+South Dakota,Moderna,2021-03-15,8300,8300
+South Dakota,Moderna,2021-03-22,8300,8300
+South Dakota,Moderna,2021-03-29,8300,8300
+South Dakota,Moderna,2021-04-05,8700,8700
+South Dakota,Moderna,2021-04-12,8700,8700
+South Dakota,Moderna,2021-04-19,9300,9300
+South Dakota,Moderna,2021-04-26,9300,9300
+South Dakota,Moderna,2021-05-03,9300,9300
+South Dakota,Moderna,2021-05-10,9600,9600
+South Dakota,Moderna,2021-05-17,9680,9680
+South Dakota,Moderna,2021-05-24,9680,9680
+South Dakota,Moderna,2021-05-31,9380,9380
+South Dakota,Pfizer,2020-12-14,7800,7800
+South Dakota,Pfizer,2020-12-21,5850,5850
+South Dakota,Pfizer,2020-12-28,6825,6825
+South Dakota,Pfizer,2021-01-04,5850,5850
+South Dakota,Pfizer,2021-01-11,5850,5850
+South Dakota,Pfizer,2021-01-18,5850,5850
+South Dakota,Pfizer,2021-01-25,5850,5850
+South Dakota,Pfizer,2021-02-01,5850,5850
+South Dakota,Pfizer,2021-02-08,5850,5850
+South Dakota,Pfizer,2021-02-15,5850,5850
+South Dakota,Pfizer,2021-02-22,9360,9360
+South Dakota,Pfizer,2021-03-01,10530,10530
+South Dakota,Pfizer,2021-03-08,10530,10530
+South Dakota,Pfizer,2021-03-15,11700,11700
+South Dakota,Pfizer,2021-03-22,11700,11700
+South Dakota,Pfizer,2021-03-29,14040,14040
+South Dakota,Pfizer,2021-04-05,11700,11700
+South Dakota,Pfizer,2021-04-12,11700,11700
+South Dakota,Pfizer,2021-04-19,12870,12870
+South Dakota,Pfizer,2021-04-26,12870,12870
+South Dakota,Pfizer,2021-05-03,12870,12870
+South Dakota,Pfizer,2021-05-10,12870,12870
+South Dakota,Pfizer,2021-05-17,12870,12870
+South Dakota,Pfizer,2021-05-24,12870,12870
+South Dakota,Pfizer,2021-05-31,13140,13140
+Tennessee,Janssen,2021-03-01,54800,NA
+Tennessee,Janssen,2021-03-15,7600,NA
+Tennessee,Janssen,2021-03-22,7600,NA
+Tennessee,Janssen,2021-03-29,38600,NA
+Tennessee,Janssen,2021-04-05,98100,NA
+Tennessee,Janssen,2021-04-12,11600,NA
+Tennessee,Janssen,2021-05-03,15100,NA
+Tennessee,Janssen,2021-05-10,11600,NA
+Tennessee,Moderna,2020-12-21,115200,115200
+Tennessee,Moderna,2020-12-28,39800,39800
+Tennessee,Moderna,2021-01-04,39700,39700
+Tennessee,Moderna,2021-01-11,39800,39800
+Tennessee,Moderna,2021-01-18,41800,41800
+Tennessee,Moderna,2021-01-25,41800,41800
+Tennessee,Moderna,2021-02-01,55200,55200
+Tennessee,Moderna,2021-02-08,60300,60300
+Tennessee,Moderna,2021-02-15,65200,65200
+Tennessee,Moderna,2021-02-22,65200,65200
+Tennessee,Moderna,2021-03-01,65200,65200
+Tennessee,Moderna,2021-03-08,65200,65200
+Tennessee,Moderna,2021-03-15,65200,65200
+Tennessee,Moderna,2021-03-22,65200,65200
+Tennessee,Moderna,2021-03-29,65200,65200
+Tennessee,Moderna,2021-04-05,68100,68100
+Tennessee,Moderna,2021-04-12,68100,68100
+Tennessee,Moderna,2021-04-19,73400,73400
+Tennessee,Moderna,2021-04-26,73400,73400
+Tennessee,Moderna,2021-05-03,73400,73400
+Tennessee,Moderna,2021-05-10,75100,75100
+Tennessee,Moderna,2021-05-17,75060,75060
+Tennessee,Moderna,2021-05-24,75060,75060
+Tennessee,Moderna,2021-05-31,73360,73360
+Tennessee,Pfizer,2020-12-14,56550,56550
+Tennessee,Pfizer,2020-12-21,39975,39975
+Tennessee,Pfizer,2020-12-28,51675,51675
+Tennessee,Pfizer,2021-01-04,39975,39975
+Tennessee,Pfizer,2021-01-11,39975,39975
+Tennessee,Pfizer,2021-01-18,41925,41925
+Tennessee,Pfizer,2021-01-25,41925,41925
+Tennessee,Pfizer,2021-02-01,41925,41925
+Tennessee,Pfizer,2021-02-08,41925,41925
+Tennessee,Pfizer,2021-02-15,41925,41925
+Tennessee,Pfizer,2021-02-22,65520,65520
+Tennessee,Pfizer,2021-03-01,76050,76050
+Tennessee,Pfizer,2021-03-08,83070,83070
+Tennessee,Pfizer,2021-03-15,88920,88920
+Tennessee,Pfizer,2021-03-22,90090,90090
+Tennessee,Pfizer,2021-03-29,111150,111150
+Tennessee,Pfizer,2021-04-05,90090,90090
+Tennessee,Pfizer,2021-04-12,92430,92430
+Tennessee,Pfizer,2021-04-19,99450,99450
+Tennessee,Pfizer,2021-04-26,99450,99450
+Tennessee,Pfizer,2021-05-03,99450,99450
+Tennessee,Pfizer,2021-05-10,99450,99450
+Tennessee,Pfizer,2021-05-17,99450,99450
+Tennessee,Pfizer,2021-05-24,99450,99450
+Tennessee,Pfizer,2021-05-31,98820,98820
+Texas,Janssen,2021-03-01,219200,NA
+Texas,Janssen,2021-03-15,30200,NA
+Texas,Janssen,2021-03-22,30200,NA
+Texas,Janssen,2021-03-29,153900,NA
+Texas,Janssen,2021-04-05,392100,NA
+Texas,Janssen,2021-04-12,46300,NA
+Texas,Janssen,2021-05-03,60100,NA
+Texas,Janssen,2021-05-10,46300,NA
+Texas,Moderna,2020-12-21,460500,460500
+Texas,Moderna,2020-12-28,159100,159100
+Texas,Moderna,2021-01-04,158500,158500
+Texas,Moderna,2021-01-11,159100,159100
+Texas,Moderna,2021-01-18,167100,167100
+Texas,Moderna,2021-01-25,167100,167100
+Texas,Moderna,2021-02-01,220500,220500
+Texas,Moderna,2021-02-08,241000,241000
+Texas,Moderna,2021-02-15,260400,260400
+Texas,Moderna,2021-02-22,260400,260400
+Texas,Moderna,2021-03-01,260400,260400
+Texas,Moderna,2021-03-08,260400,260400
+Texas,Moderna,2021-03-15,260400,260400
+Texas,Moderna,2021-03-22,260400,260400
+Texas,Moderna,2021-03-29,260400,260400
+Texas,Moderna,2021-04-05,272100,272100
+Texas,Moderna,2021-04-12,272100,272100
+Texas,Moderna,2021-04-19,293500,293500
+Texas,Moderna,2021-04-26,293500,293500
+Texas,Moderna,2021-05-03,293500,293500
+Texas,Moderna,2021-05-10,300000,300000
+Texas,Moderna,2021-05-17,300040,300040
+Texas,Moderna,2021-05-24,300040,300040
+Texas,Moderna,2021-05-31,293440,293440
+Texas,Pfizer,2020-12-14,224250,224250
+Texas,Pfizer,2020-12-21,159900,159900
+Texas,Pfizer,2020-12-28,203775,203775
+Texas,Pfizer,2021-01-04,158925,158925
+Texas,Pfizer,2021-01-11,159900,159900
+Texas,Pfizer,2021-01-18,165750,165750
+Texas,Pfizer,2021-01-25,165750,165750
+Texas,Pfizer,2021-02-01,164775,164775
+Texas,Pfizer,2021-02-08,165750,165750
+Texas,Pfizer,2021-02-15,165750,165750
+Texas,Pfizer,2021-02-22,262080,262080
+Texas,Pfizer,2021-03-01,300690,300690
+Texas,Pfizer,2021-03-08,328770,328770
+Texas,Pfizer,2021-03-15,353340,353340
+Texas,Pfizer,2021-03-22,359190,359190
+Texas,Pfizer,2021-03-29,441090,441090
+Texas,Pfizer,2021-04-05,359190,359190
+Texas,Pfizer,2021-04-12,367380,367380
+Texas,Pfizer,2021-04-19,394290,394290
+Texas,Pfizer,2021-04-26,394290,394290
+Texas,Pfizer,2021-05-03,394290,394290
+Texas,Pfizer,2021-05-10,394290,394290
+Texas,Pfizer,2021-05-17,394290,394290
+Texas,Pfizer,2021-05-24,394290,394290
+Texas,Pfizer,2021-05-31,393660,393660
+U.S. Virgin Islands,Janssen,2021-03-01,900,NA
+U.S. Virgin Islands,Janssen,2021-03-15,200,NA
+U.S. Virgin Islands,Janssen,2021-03-22,200,NA
+U.S. Virgin Islands,Janssen,2021-03-29,700,NA
+U.S. Virgin Islands,Janssen,2021-04-05,1600,NA
+U.S. Virgin Islands,Janssen,2021-04-12,200,NA
+U.S. Virgin Islands,Janssen,2021-05-03,300,NA
+U.S. Virgin Islands,Janssen,2021-05-10,200,NA
+U.S. Virgin Islands,Moderna,2020-12-21,1900,1900
+U.S. Virgin Islands,Moderna,2020-12-28,700,700
+U.S. Virgin Islands,Moderna,2021-01-04,700,700
+U.S. Virgin Islands,Moderna,2021-01-11,700,700
+U.S. Virgin Islands,Moderna,2021-01-18,700,700
+U.S. Virgin Islands,Moderna,2021-01-25,700,700
+U.S. Virgin Islands,Moderna,2021-02-01,900,900
+U.S. Virgin Islands,Moderna,2021-02-08,1000,1000
+U.S. Virgin Islands,Moderna,2021-02-15,1100,1100
+U.S. Virgin Islands,Moderna,2021-02-22,1100,1100
+U.S. Virgin Islands,Moderna,2021-03-01,1100,1100
+U.S. Virgin Islands,Moderna,2021-03-08,1100,1100
+U.S. Virgin Islands,Moderna,2021-03-15,1100,1100
+U.S. Virgin Islands,Moderna,2021-03-22,1100,1100
+U.S. Virgin Islands,Moderna,2021-03-29,1100,1100
+U.S. Virgin Islands,Moderna,2021-04-05,1100,1100
+U.S. Virgin Islands,Moderna,2021-04-12,1100,1100
+U.S. Virgin Islands,Moderna,2021-04-19,1200,1200
+U.S. Virgin Islands,Moderna,2021-04-26,1200,1200
+U.S. Virgin Islands,Moderna,2021-05-03,1200,1200
+U.S. Virgin Islands,Moderna,2021-05-10,1300,1300
+U.S. Virgin Islands,Moderna,2021-05-17,1360,1360
+U.S. Virgin Islands,Moderna,2021-05-24,1360,1360
+U.S. Virgin Islands,Moderna,2021-05-31,1260,1260
+U.S. Virgin Islands,Pfizer,2020-12-14,975,975
+U.S. Virgin Islands,Pfizer,2020-12-21,975,975
+U.S. Virgin Islands,Pfizer,2020-12-28,975,975
+U.S. Virgin Islands,Pfizer,2021-01-04,975,975
+U.S. Virgin Islands,Pfizer,2021-01-11,975,975
+U.S. Virgin Islands,Pfizer,2021-01-18,975,975
+U.S. Virgin Islands,Pfizer,2021-01-25,975,975
+U.S. Virgin Islands,Pfizer,2021-02-01,975,975
+U.S. Virgin Islands,Pfizer,2021-02-08,975,975
+U.S. Virgin Islands,Pfizer,2021-02-15,975,975
+U.S. Virgin Islands,Pfizer,2021-02-22,1170,1170
+U.S. Virgin Islands,Pfizer,2021-03-01,2340,2340
+U.S. Virgin Islands,Pfizer,2021-03-08,2340,2340
+U.S. Virgin Islands,Pfizer,2021-03-15,2340,2340
+U.S. Virgin Islands,Pfizer,2021-03-22,2340,2340
+U.S. Virgin Islands,Pfizer,2021-03-29,2340,2340
+U.S. Virgin Islands,Pfizer,2021-04-05,2340,2340
+U.S. Virgin Islands,Pfizer,2021-04-12,2340,2340
+U.S. Virgin Islands,Pfizer,2021-04-19,2340,2340
+U.S. Virgin Islands,Pfizer,2021-04-26,2340,2340
+U.S. Virgin Islands,Pfizer,2021-05-03,2340,2340
+U.S. Virgin Islands,Pfizer,2021-05-10,2340,2340
+U.S. Virgin Islands,Pfizer,2021-05-17,2340,2340
+U.S. Virgin Islands,Pfizer,2021-05-24,2340,2340
+U.S. Virgin Islands,Pfizer,2021-05-31,3240,3240
+Utah,Janssen,2021-03-01,22800,NA
+Utah,Janssen,2021-03-15,3200,NA
+Utah,Janssen,2021-03-22,3200,NA
+Utah,Janssen,2021-03-29,16100,NA
+Utah,Janssen,2021-04-05,40700,NA
+Utah,Janssen,2021-04-12,4900,NA
+Utah,Janssen,2021-05-03,6300,NA
+Utah,Janssen,2021-05-10,4900,NA
+Utah,Moderna,2020-12-21,47800,47800
+Utah,Moderna,2020-12-28,16600,16600
+Utah,Moderna,2021-01-04,16500,16500
+Utah,Moderna,2021-01-11,16600,16600
+Utah,Moderna,2021-01-18,17400,17400
+Utah,Moderna,2021-01-25,17400,17400
+Utah,Moderna,2021-02-01,22900,22900
+Utah,Moderna,2021-02-08,25100,25100
+Utah,Moderna,2021-02-15,27100,27100
+Utah,Moderna,2021-02-22,27100,27100
+Utah,Moderna,2021-03-01,27100,27100
+Utah,Moderna,2021-03-08,27100,27100
+Utah,Moderna,2021-03-15,27100,27100
+Utah,Moderna,2021-03-22,27100,27100
+Utah,Moderna,2021-03-29,27100,27100
+Utah,Moderna,2021-04-05,28300,28300
+Utah,Moderna,2021-04-12,28300,28300
+Utah,Moderna,2021-04-19,30500,30500
+Utah,Moderna,2021-04-26,30500,30500
+Utah,Moderna,2021-05-03,30500,30500
+Utah,Moderna,2021-05-10,31200,31200
+Utah,Moderna,2021-05-17,31220,31220
+Utah,Moderna,2021-05-24,31220,31220
+Utah,Moderna,2021-05-31,30520,30520
+Utah,Pfizer,2020-12-14,23400,23400
+Utah,Pfizer,2020-12-21,16575,16575
+Utah,Pfizer,2020-12-28,21450,21450
+Utah,Pfizer,2021-01-04,16575,16575
+Utah,Pfizer,2021-01-11,16575,16575
+Utah,Pfizer,2021-01-18,17550,17550
+Utah,Pfizer,2021-01-25,17550,17550
+Utah,Pfizer,2021-02-01,17550,17550
+Utah,Pfizer,2021-02-08,17550,17550
+Utah,Pfizer,2021-02-15,17550,17550
+Utah,Pfizer,2021-02-22,28080,28080
+Utah,Pfizer,2021-03-01,31590,31590
+Utah,Pfizer,2021-03-08,35100,35100
+Utah,Pfizer,2021-03-15,37440,37440
+Utah,Pfizer,2021-03-22,37440,37440
+Utah,Pfizer,2021-03-29,46800,46800
+Utah,Pfizer,2021-04-05,37440,37440
+Utah,Pfizer,2021-04-12,38610,38610
+Utah,Pfizer,2021-04-19,40950,40950
+Utah,Pfizer,2021-04-26,40950,40950
+Utah,Pfizer,2021-05-03,40950,40950
+Utah,Pfizer,2021-05-10,40950,40950
+Utah,Pfizer,2021-05-17,40950,40950
+Utah,Pfizer,2021-05-24,40950,40950
+Utah,Pfizer,2021-05-31,41220,41220
+Vermont,Janssen,2021-03-01,5400,NA
+Vermont,Janssen,2021-03-15,800,NA
+Vermont,Janssen,2021-03-22,800,NA
+Vermont,Janssen,2021-03-29,3900,NA
+Vermont,Janssen,2021-04-05,9700,NA
+Vermont,Janssen,2021-04-12,1200,NA
+Vermont,Janssen,2021-05-03,1500,NA
+Vermont,Janssen,2021-05-10,1200,NA
+Vermont,Moderna,2020-12-21,11400,11400
+Vermont,Moderna,2020-12-28,4000,4000
+Vermont,Moderna,2021-01-04,3900,3900
+Vermont,Moderna,2021-01-11,4000,4000
+Vermont,Moderna,2021-01-18,4200,4200
+Vermont,Moderna,2021-01-25,4200,4200
+Vermont,Moderna,2021-02-01,5500,5500
+Vermont,Moderna,2021-02-08,6000,6000
+Vermont,Moderna,2021-02-15,6500,6500
+Vermont,Moderna,2021-02-22,6500,6500
+Vermont,Moderna,2021-03-01,6500,6500
+Vermont,Moderna,2021-03-08,6500,6500
+Vermont,Moderna,2021-03-15,6500,6500
+Vermont,Moderna,2021-03-22,6500,6500
+Vermont,Moderna,2021-03-29,6500,6500
+Vermont,Moderna,2021-04-05,6700,6700
+Vermont,Moderna,2021-04-12,6700,6700
+Vermont,Moderna,2021-04-19,7300,7300
+Vermont,Moderna,2021-04-26,7300,7300
+Vermont,Moderna,2021-05-03,7300,7300
+Vermont,Moderna,2021-05-10,7500,7500
+Vermont,Moderna,2021-05-17,7480,7480
+Vermont,Moderna,2021-05-24,7480,7480
+Vermont,Moderna,2021-05-31,7280,7280
+Vermont,Pfizer,2020-12-14,5850,5850
+Vermont,Pfizer,2020-12-21,4875,4875
+Vermont,Pfizer,2020-12-28,5850,5850
+Vermont,Pfizer,2021-01-04,3900,3900
+Vermont,Pfizer,2021-01-11,4875,4875
+Vermont,Pfizer,2021-01-18,4875,4875
+Vermont,Pfizer,2021-01-25,4875,4875
+Vermont,Pfizer,2021-02-01,4875,4875
+Vermont,Pfizer,2021-02-08,4875,4875
+Vermont,Pfizer,2021-02-15,4875,4875
+Vermont,Pfizer,2021-02-22,7020,7020
+Vermont,Pfizer,2021-03-01,8190,8190
+Vermont,Pfizer,2021-03-08,8190,8190
+Vermont,Pfizer,2021-03-15,9360,9360
+Vermont,Pfizer,2021-03-22,9360,9360
+Vermont,Pfizer,2021-03-29,11700,11700
+Vermont,Pfizer,2021-04-05,9360,9360
+Vermont,Pfizer,2021-04-12,9360,9360
+Vermont,Pfizer,2021-04-19,10530,10530
+Vermont,Pfizer,2021-04-26,10530,10530
+Vermont,Pfizer,2021-05-03,10530,10530
+Vermont,Pfizer,2021-05-10,10530,10530
+Vermont,Pfizer,2021-05-17,10530,10530
+Vermont,Pfizer,2021-05-24,10530,10530
+Vermont,Pfizer,2021-05-31,11070,11070
+Virginia,Janssen,2021-03-01,69700,NA
+Virginia,Janssen,2021-03-15,9600,NA
+Virginia,Janssen,2021-03-22,9600,NA
+Virginia,Janssen,2021-03-29,49000,NA
+Virginia,Janssen,2021-04-05,124700,NA
+Virginia,Janssen,2021-04-12,14800,NA
+Virginia,Janssen,2021-05-03,19200,NA
+Virginia,Janssen,2021-05-10,14800,NA
+Virginia,Moderna,2020-12-21,146400,146400
+Virginia,Moderna,2020-12-28,50600,50600
+Virginia,Moderna,2021-01-04,50400,50400
+Virginia,Moderna,2021-01-11,50600,50600
+Virginia,Moderna,2021-01-18,53100,53100
+Virginia,Moderna,2021-01-25,53100,53100
+Virginia,Moderna,2021-02-01,70100,70100
+Virginia,Moderna,2021-02-08,76600,76600
+Virginia,Moderna,2021-02-15,82800,82800
+Virginia,Moderna,2021-02-22,82800,82800
+Virginia,Moderna,2021-03-01,82800,82800
+Virginia,Moderna,2021-03-08,82800,82800
+Virginia,Moderna,2021-03-15,82800,82800
+Virginia,Moderna,2021-03-22,82800,82800
+Virginia,Moderna,2021-03-29,82800,82800
+Virginia,Moderna,2021-04-05,86500,86500
+Virginia,Moderna,2021-04-12,86500,86500
+Virginia,Moderna,2021-04-19,93300,93300
+Virginia,Moderna,2021-04-26,93300,93300
+Virginia,Moderna,2021-05-03,93300,93300
+Virginia,Moderna,2021-05-10,95400,95400
+Virginia,Moderna,2021-05-17,95480,95480
+Virginia,Moderna,2021-05-24,95480,95480
+Virginia,Moderna,2021-05-31,93380,93380
+Virginia,Pfizer,2020-12-14,72150,72150
+Virginia,Pfizer,2020-12-21,50700,50700
+Virginia,Pfizer,2020-12-28,65325,65325
+Virginia,Pfizer,2021-01-04,50700,50700
+Virginia,Pfizer,2021-01-11,50700,50700
+Virginia,Pfizer,2021-01-18,52650,52650
+Virginia,Pfizer,2021-01-25,52650,52650
+Virginia,Pfizer,2021-02-01,52650,52650
+Virginia,Pfizer,2021-02-08,52650,52650
+Virginia,Pfizer,2021-02-15,52650,52650
+Virginia,Pfizer,2021-02-22,84240,84240
+Virginia,Pfizer,2021-03-01,95940,95940
+Virginia,Pfizer,2021-03-08,105300,105300
+Virginia,Pfizer,2021-03-15,112320,112320
+Virginia,Pfizer,2021-03-22,114660,114660
+Virginia,Pfizer,2021-03-29,140400,140400
+Virginia,Pfizer,2021-04-05,114660,114660
+Virginia,Pfizer,2021-04-12,117000,117000
+Virginia,Pfizer,2021-04-19,126360,126360
+Virginia,Pfizer,2021-04-26,126360,126360
+Virginia,Pfizer,2021-05-03,126360,126360
+Virginia,Pfizer,2021-05-10,126360,126360
+Virginia,Pfizer,2021-05-17,126360,126360
+Virginia,Pfizer,2021-05-24,126360,126360
+Virginia,Pfizer,2021-05-31,126000,126000
+Washington,Janssen,2021-03-01,60900,NA
+Washington,Janssen,2021-03-15,8400,NA
+Washington,Janssen,2021-03-22,8400,NA
+Washington,Janssen,2021-03-29,42800,NA
+Washington,Janssen,2021-04-05,109000,NA
+Washington,Janssen,2021-04-12,12900,NA
+Washington,Janssen,2021-05-03,16700,NA
+Washington,Janssen,2021-05-10,12900,NA
+Washington,Moderna,2020-12-21,128000,128000
+Washington,Moderna,2020-12-28,44300,44300
+Washington,Moderna,2021-01-04,44100,44100
+Washington,Moderna,2021-01-11,44300,44300
+Washington,Moderna,2021-01-18,46500,46500
+Washington,Moderna,2021-01-25,46500,46500
+Washington,Moderna,2021-02-01,61300,61300
+Washington,Moderna,2021-02-08,67000,67000
+Washington,Moderna,2021-02-15,72400,72400
+Washington,Moderna,2021-02-22,72400,72400
+Washington,Moderna,2021-03-01,72400,72400
+Washington,Moderna,2021-03-08,72400,72400
+Washington,Moderna,2021-03-15,72400,72400
+Washington,Moderna,2021-03-22,72400,72400
+Washington,Moderna,2021-03-29,72400,72400
+Washington,Moderna,2021-04-05,75700,75700
+Washington,Moderna,2021-04-12,75700,75700
+Washington,Moderna,2021-04-19,81700,81700
+Washington,Moderna,2021-04-26,81700,81700
+Washington,Moderna,2021-05-03,81700,81700
+Washington,Moderna,2021-05-10,83600,83600
+Washington,Moderna,2021-05-17,83520,83520
+Washington,Moderna,2021-05-24,83520,83520
+Washington,Moderna,2021-05-31,81620,81620
+Washington,Pfizer,2020-12-14,62400,62400
+Washington,Pfizer,2020-12-21,44850,44850
+Washington,Pfizer,2020-12-28,57525,57525
+Washington,Pfizer,2021-01-04,44850,44850
+Washington,Pfizer,2021-01-11,57525,57525
+Washington,Pfizer,2021-01-18,46800,46800
+Washington,Pfizer,2021-01-25,46800,46800
+Washington,Pfizer,2021-02-01,45825,45825
+Washington,Pfizer,2021-02-08,46800,46800
+Washington,Pfizer,2021-02-15,46800,46800
+Washington,Pfizer,2021-02-22,73710,73710
+Washington,Pfizer,2021-03-01,84240,84240
+Washington,Pfizer,2021-03-08,91260,91260
+Washington,Pfizer,2021-03-15,98280,98280
+Washington,Pfizer,2021-03-22,100620,100620
+Washington,Pfizer,2021-03-29,122850,122850
+Washington,Pfizer,2021-04-05,100620,100620
+Washington,Pfizer,2021-04-12,102960,102960
+Washington,Pfizer,2021-04-19,109980,109980
+Washington,Pfizer,2021-04-26,109980,109980
+Washington,Pfizer,2021-05-03,109980,109980
+Washington,Pfizer,2021-05-10,109980,109980
+Washington,Pfizer,2021-05-17,109980,109980
+Washington,Pfizer,2021-05-24,109980,109980
+Washington,Pfizer,2021-05-31,109170,109170
+West Virginia,Janssen,2021-03-01,15500,NA
+West Virginia,Janssen,2021-03-15,2200,NA
+West Virginia,Janssen,2021-03-22,2200,NA
+West Virginia,Janssen,2021-03-29,11000,NA
+West Virginia,Janssen,2021-04-05,27800,NA
+West Virginia,Janssen,2021-04-12,3300,NA
+West Virginia,Janssen,2021-05-03,4300,NA
+West Virginia,Janssen,2021-05-10,3300,NA
+West Virginia,Moderna,2020-12-21,32600,32600
+West Virginia,Moderna,2020-12-28,11300,11300
+West Virginia,Moderna,2021-01-04,11200,11200
+West Virginia,Moderna,2021-01-11,11300,11300
+West Virginia,Moderna,2021-01-18,11900,11900
+West Virginia,Moderna,2021-01-25,11900,11900
+West Virginia,Moderna,2021-02-01,15600,15600
+West Virginia,Moderna,2021-02-08,17100,17100
+West Virginia,Moderna,2021-02-15,18500,18500
+West Virginia,Moderna,2021-02-22,18500,18500
+West Virginia,Moderna,2021-03-01,18500,18500
+West Virginia,Moderna,2021-03-08,18500,18500
+West Virginia,Moderna,2021-03-15,18500,18500
+West Virginia,Moderna,2021-03-22,18500,18500
+West Virginia,Moderna,2021-03-29,18500,18500
+West Virginia,Moderna,2021-04-05,19300,19300
+West Virginia,Moderna,2021-04-12,19300,19300
+West Virginia,Moderna,2021-04-19,20800,20800
+West Virginia,Moderna,2021-04-26,20800,20800
+West Virginia,Moderna,2021-05-03,20800,20800
+West Virginia,Moderna,2021-05-10,21300,21300
+West Virginia,Moderna,2021-05-17,21360,21360
+West Virginia,Moderna,2021-05-24,21360,21360
+West Virginia,Moderna,2021-05-31,20860,20860
+West Virginia,Pfizer,2020-12-14,16575,16575
+West Virginia,Pfizer,2020-12-21,11700,11700
+West Virginia,Pfizer,2020-12-28,14625,14625
+West Virginia,Pfizer,2021-01-04,11700,11700
+West Virginia,Pfizer,2021-01-11,11700,11700
+West Virginia,Pfizer,2021-01-18,11700,11700
+West Virginia,Pfizer,2021-01-25,11700,11700
+West Virginia,Pfizer,2021-02-01,11700,11700
+West Virginia,Pfizer,2021-02-08,11700,11700
+West Virginia,Pfizer,2021-02-15,11700,11700
+West Virginia,Pfizer,2021-02-22,18720,18720
+West Virginia,Pfizer,2021-03-01,22230,22230
+West Virginia,Pfizer,2021-03-08,23400,23400
+West Virginia,Pfizer,2021-03-15,25740,25740
+West Virginia,Pfizer,2021-03-22,25740,25740
+West Virginia,Pfizer,2021-03-29,31590,31590
+West Virginia,Pfizer,2021-04-05,25740,25740
+West Virginia,Pfizer,2021-04-12,26910,26910
+West Virginia,Pfizer,2021-04-19,28080,28080
+West Virginia,Pfizer,2021-04-26,28080,28080
+West Virginia,Pfizer,2021-05-03,28080,28080
+West Virginia,Pfizer,2021-05-10,28080,28080
+West Virginia,Pfizer,2021-05-17,28080,28080
+West Virginia,Pfizer,2021-05-24,28080,28080
+West Virginia,Pfizer,2021-05-31,28800,28800
+Wisconsin,Janssen,2021-03-01,48000,NA
+Wisconsin,Janssen,2021-03-15,6700,NA
+Wisconsin,Janssen,2021-03-22,6700,NA
+Wisconsin,Janssen,2021-03-29,33800,NA
+Wisconsin,Janssen,2021-04-05,85900,NA
+Wisconsin,Janssen,2021-04-12,10200,NA
+Wisconsin,Janssen,2021-05-03,13200,NA
+Wisconsin,Janssen,2021-05-10,10200,NA
+Wisconsin,Moderna,2020-12-21,101000,101000
+Wisconsin,Moderna,2020-12-28,34900,34900
+Wisconsin,Moderna,2021-01-04,34700,34700
+Wisconsin,Moderna,2021-01-11,34900,34900
+Wisconsin,Moderna,2021-01-18,36700,36700
+Wisconsin,Moderna,2021-01-25,36700,36700
+Wisconsin,Moderna,2021-02-01,48300,48300
+Wisconsin,Moderna,2021-02-08,52900,52900
+Wisconsin,Moderna,2021-02-15,57100,57100
+Wisconsin,Moderna,2021-02-22,57100,57100
+Wisconsin,Moderna,2021-03-01,57100,57100
+Wisconsin,Moderna,2021-03-08,57100,57100
+Wisconsin,Moderna,2021-03-15,57100,57100
+Wisconsin,Moderna,2021-03-22,57100,57100
+Wisconsin,Moderna,2021-03-29,57100,57100
+Wisconsin,Moderna,2021-04-05,59700,59700
+Wisconsin,Moderna,2021-04-12,59700,59700
+Wisconsin,Moderna,2021-04-19,64400,64400
+Wisconsin,Moderna,2021-04-26,64400,64400
+Wisconsin,Moderna,2021-05-03,64400,64400
+Wisconsin,Moderna,2021-05-10,65900,65900
+Wisconsin,Moderna,2021-05-17,65900,65900
+Wisconsin,Moderna,2021-05-24,65900,65900
+Wisconsin,Moderna,2021-05-31,64400,64400
+Wisconsin,Pfizer,2020-12-14,49725,49725
+Wisconsin,Pfizer,2020-12-21,35100,35100
+Wisconsin,Pfizer,2020-12-28,44850,44850
+Wisconsin,Pfizer,2021-01-04,35100,35100
+Wisconsin,Pfizer,2021-01-11,35100,35100
+Wisconsin,Pfizer,2021-01-18,37050,37050
+Wisconsin,Pfizer,2021-01-25,37050,37050
+Wisconsin,Pfizer,2021-02-01,36075,36075
+Wisconsin,Pfizer,2021-02-08,37050,37050
+Wisconsin,Pfizer,2021-02-15,37050,37050
+Wisconsin,Pfizer,2021-02-22,58500,58500
+Wisconsin,Pfizer,2021-03-01,66690,66690
+Wisconsin,Pfizer,2021-03-08,72540,72540
+Wisconsin,Pfizer,2021-03-15,78390,78390
+Wisconsin,Pfizer,2021-03-22,79560,79560
+Wisconsin,Pfizer,2021-03-29,97110,97110
+Wisconsin,Pfizer,2021-04-05,79560,79560
+Wisconsin,Pfizer,2021-04-12,80730,80730
+Wisconsin,Pfizer,2021-04-19,86580,86580
+Wisconsin,Pfizer,2021-04-26,86580,86580
+Wisconsin,Pfizer,2021-05-03,86580,86580
+Wisconsin,Pfizer,2021-05-10,86580,86580
+Wisconsin,Pfizer,2021-05-17,86580,86580
+Wisconsin,Pfizer,2021-05-24,86580,86580
+Wisconsin,Pfizer,2021-05-31,85680,85680
+Wyoming,Janssen,2021-03-01,4800,NA
+Wyoming,Janssen,2021-03-15,700,NA
+Wyoming,Janssen,2021-03-22,700,NA
+Wyoming,Janssen,2021-03-29,3400,NA
+Wyoming,Janssen,2021-04-05,8500,NA
+Wyoming,Janssen,2021-04-12,1000,NA
+Wyoming,Janssen,2021-05-03,1300,NA
+Wyoming,Janssen,2021-05-10,1000,NA
+Wyoming,Moderna,2020-12-21,10000,10000
+Wyoming,Moderna,2020-12-28,3500,3500
+Wyoming,Moderna,2021-01-04,3500,3500
+Wyoming,Moderna,2021-01-11,3500,3500
+Wyoming,Moderna,2021-01-18,3700,3700
+Wyoming,Moderna,2021-01-25,3700,3700
+Wyoming,Moderna,2021-02-01,4800,4800
+Wyoming,Moderna,2021-02-08,5300,5300
+Wyoming,Moderna,2021-02-15,5700,5700
+Wyoming,Moderna,2021-02-22,5700,5700
+Wyoming,Moderna,2021-03-01,5700,5700
+Wyoming,Moderna,2021-03-08,5700,5700
+Wyoming,Moderna,2021-03-15,5700,5700
+Wyoming,Moderna,2021-03-22,5700,5700
+Wyoming,Moderna,2021-03-29,5700,5700
+Wyoming,Moderna,2021-04-05,5900,5900
+Wyoming,Moderna,2021-04-12,5900,5900
+Wyoming,Moderna,2021-04-19,6400,6400
+Wyoming,Moderna,2021-04-26,6400,6400
+Wyoming,Moderna,2021-05-03,6400,6400
+Wyoming,Moderna,2021-05-10,6600,6600
+Wyoming,Moderna,2021-05-17,6640,6640
+Wyoming,Moderna,2021-05-24,6640,6640
+Wyoming,Moderna,2021-05-31,6440,6440
+Wyoming,Pfizer,2020-12-14,4875,4875
+Wyoming,Pfizer,2020-12-21,3900,3900
+Wyoming,Pfizer,2020-12-28,4875,4875
+Wyoming,Pfizer,2021-01-04,3900,3900
+Wyoming,Pfizer,2021-01-11,3900,3900
+Wyoming,Pfizer,2021-01-18,3900,3900
+Wyoming,Pfizer,2021-01-25,3900,3900
+Wyoming,Pfizer,2021-02-01,3900,3900
+Wyoming,Pfizer,2021-02-08,3900,3900
+Wyoming,Pfizer,2021-02-15,3900,3900
+Wyoming,Pfizer,2021-02-22,5850,5850
+Wyoming,Pfizer,2021-03-01,7020,7020
+Wyoming,Pfizer,2021-03-08,8190,8190
+Wyoming,Pfizer,2021-03-15,8190,8190
+Wyoming,Pfizer,2021-03-22,8190,8190
+Wyoming,Pfizer,2021-03-29,10530,10530
+Wyoming,Pfizer,2021-04-05,8190,8190
+Wyoming,Pfizer,2021-04-12,8190,8190
+Wyoming,Pfizer,2021-04-19,9360,9360
+Wyoming,Pfizer,2021-04-26,9360,9360
+Wyoming,Pfizer,2021-05-03,9360,9360
+Wyoming,Pfizer,2021-05-10,9360,9360
+Wyoming,Pfizer,2021-05-17,9360,9360
+Wyoming,Pfizer,2021-05-24,9360,9360
+Wyoming,Pfizer,2021-05-31,9450,9450

@@ -1,0 +1,62 @@
+---
+title: "Oikolab weather"
+format: html
+---
+
+```{r}
+#| label: setup
+#| include: false
+# Load packages
+library(tidyverse)
+
+# Read data
+oikolab_1 <- read_csv("data/oikolab_1.csv")
+oikolab_2 <- read_csv("data/oikolab_2.csv")
+oikolab_3 <- read_csv("data/oikolab_3.csv")
+oikolab_4 <- read_csv("data/oikolab_4.csv")
+```
+
+```{r}
+#| label: functions
+c_to_f <- function(temp_c) {
+  (temp_c * 9/5) + 32
+}
+
+format_temps <- function(data) {
+  data |>
+  mutate(
+    across(contains("temperature"), c_to_f, .names = "{.col}_f"),
+    .after = timestamp
+  ) |>
+  select(-ends_with("temperature"))
+}
+
+get_daily_temps <- function(data) {
+  data |>
+    format_temps() |>
+    mutate(date = as_date(timestamp), .after = timestamp) |>
+    group_by(date) |>
+    summarize(across(ends_with("_f"), mean, .names = "mean_{.col}"))
+}
+
+plot_temps <- function(data, start_date, end_date) {
+  data |>
+    get_daily_temps() |>
+    filter(date %within% interval(start_date, end_date)) |>
+    pivot_longer(
+      cols = ends_with("_f"),
+      names_to = "temp_var"
+    ) |>
+    ggplot(aes(date, value, color = fct_reorder2(temp_var, date, value))) +
+    geom_line() +
+    scale_color_hue(
+      labels =
+        c("Daily mean temperature (°F)", "Daily mean dewpoint temperature (°F)")
+    ) +
+    labs(
+      color = NULL,
+      x = "Date",
+      y = "Temperature (°F)"
+    )
+}
+```
