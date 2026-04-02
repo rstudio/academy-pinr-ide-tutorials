@@ -12,17 +12,17 @@ git clone https://github.com/rstudio/academy-pinr-ide-tutorials.git
 
 ## Folder contents
 
-| Folder | Tutorial |
-|--------|----------|
-| `quarto-survey/` | Quarto basics: rendering, markdown, chunk options |
-| `quarto-parameterize/` | Parameterized Quarto reports |
-| `purrr-map_tourists-quarto/` | Iteration with `map()`, parameterized reports |
-| `debug-intro-quarto/` | Debugging workflow: `browser()`, traceback, reproducible examples |
-| `functions-state_management-quarto/` | Side effects, `on.exit()`, the withr package |
-| `debug-oikolab_weather-quarto/` | Debugging practice with weather data |
+| Folder | Starter File | Tutorial |
+|--------|-------------|----------|
+| `quarto-survey/` | `penguins.qmd` | Quarto basics: rendering, markdown, chunk options |
+| `quarto-parameterize/` | `tx-housing.qmd` | Parameterized Quarto reports |
+| `purrr-map_tourists-quarto/` | `tourism.qmd` | Iteration with `map()`, parameterized reports |
+| `debug-intro-quarto/` | `vaccines.qmd` | Debugging workflow: `browser()`, traceback, reproducible examples |
+| `functions-state_management-quarto/` | `gapminder.qmd` | Side effects, `on.exit()`, the withr package |
+| `debug-oikolab_weather-quarto/` | `weather.qmd` | Debugging practice with weather data |
 
-Each folder contains a `student.qmd` starter file and any data files needed for that tutorial.
+Each folder contains a starter `.qmd` file and any data files needed for that tutorial.
 
 ## How to use
 
-When a tutorial asks you to open a starter file, navigate to the corresponding folder and open `student.qmd` in your IDE.
+When a tutorial asks you to open a starter file, navigate to the corresponding folder and open the `.qmd` file in your IDE.
