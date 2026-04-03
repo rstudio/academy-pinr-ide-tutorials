@@ -11,6 +11,5 @@ format:
 knitr::opts_chunk$set(echo = FALSE)
 
 library(tidyverse)
-library(academyDatasets)
 library(glue)
 ```
