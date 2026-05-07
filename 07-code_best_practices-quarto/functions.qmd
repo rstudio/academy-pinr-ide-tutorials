@@ -1,0 +1,83 @@
+---
+title: "Functions"
+format: html
+---
+
+```{r}
+#| label: setup
+library(tidyverse)
+library(gt)
+```
+
+```{r}
+#| label: aus-elec
+aus_elec_data <- function(filepath, needs_pivot, output, demand_years) {
+  aus <- read_csv(filepath, show_col_types = FALSE)
+
+  if (needs_pivot) {
+    aus <-
+      aus |>
+      pivot_longer(
+        cols = -date,
+        names_to = "state",
+        values_to = "demand"
+      )
+  }
+
+  aus_summarized <-
+    aus |>
+    mutate(
+      state = fct_recode(
+        state,
+        "New South Wales" = "NSW",
+        "Victoria" = "VIC",
+        "Queensland" = "QLD",
+        "Tasmania" = "TAS",
+        "South Australia" = "SA"
+      ),
+      year = lubridate::year(date),
+      week = lubridate::week(date),
+      .after = date
+    ) |>
+    group_by(state, year, week) |>
+    summarize(mean_demand = mean(demand, na.rm = TRUE), .groups = "drop")
+
+  if (output == "plot") {
+    aus_summarized |>
+      filter(year %in% demand_years) |>
+      ggplot(aes(week, mean_demand, group = state, color = state)) +
+      geom_line() +
+      facet_grid(cols = vars(year)) +
+      labs(
+        x = "Week",
+        y = "Mean demand",
+        color = "State",
+        title = "Weekly Australian electricity demand"
+      )
+  } else if (output == "table") {
+    aus_summarized |>
+      filter(year %in% demand_years) |>
+      pivot_wider(
+        names_from = year,
+        values_from = mean_demand
+      ) |>
+      arrange(state, week) |>
+      gt_preview() |>
+      tab_header(
+        title = "Weekly Australian electricity demand",
+        subtitle = "Average demand in megawatts (MW)"
+      ) |>
+      cols_label(
+        state = "State",
+        week = "Week"
+      ) |>
+      fmt_number(
+        columns = -c(state, week),
+        decimals = 0,
+        use_seps = FALSE
+      )
+  } else {
+    aus_summarized
+  }
+}
+```
