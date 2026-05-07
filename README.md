@@ -22,6 +22,9 @@ git clone https://github.com/rstudio/academy-pinr-ide-tutorials.git
 | `04-debug-intro-quarto/` | `vaccines.qmd` | Debugging workflow: `browser()`, traceback, reproducible examples |
 | `05-functions-state_management-quarto/` | `gapminder.qmd` | Side effects, `on.exit()`, the withr package |
 | `06-debug-oikolab_weather-quarto/` | `weather.qmd` | Debugging practice with weather data |
+| `07-code_best_practices-quarto/` | `functions.qmd` | Code best practices: refactoring, naming, style |
+| `08-functions-validation-quarto/` | `validation.qmd` | Input validation and error signalling with cli |
+| `09-functions_validation-nhanes-quarto/` | `nhanes_validation.qmd` | Validation practice with NHANES data |
 
 Each folder contains a starter `.qmd` file and any data files needed for that tutorial.
 
