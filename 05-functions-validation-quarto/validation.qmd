@@ -9,7 +9,7 @@ format: html
 library(tidyverse)
 library(cli)
 
-algeria <- read_csv("data/Algeria.csv") |>
+algeria <- read_csv("05-functions-validation-quarto/data/Algeria.csv") |>
   mutate(
     lifeExp_cat = cut(lifeExp, quantile(lifeExp, probs = seq(0, 1, 0.25), na.rm = TRUE), include.lowest = TRUE),
     pop_cat = cut(pop, quantile(pop, probs = seq(0, 1, 0.1), na.rm = TRUE), include.lowest = TRUE),
