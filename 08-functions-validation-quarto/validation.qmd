@@ -1,0 +1,37 @@
+---
+title: "Validation and stopping"
+format: html
+---
+
+```{r}
+#| label: setup
+#| message: false
+library(tidyverse)
+library(cli)
+
+algeria <- read_csv("data/Algeria.csv") |>
+  mutate(
+    lifeExp_cat = cut(lifeExp, quantile(lifeExp, probs = seq(0, 1, 0.25), na.rm = TRUE), include.lowest = TRUE),
+    pop_cat = cut(pop, quantile(pop, probs = seq(0, 1, 0.1), na.rm = TRUE), include.lowest = TRUE),
+    gdpPercap_cat = cut(gdpPercap, quantile(gdpPercap, probs = seq(0, 1, 0.25), na.rm = TRUE), include.lowest = TRUE)
+  )
+```
+
+## `plot_top_n_lifexp()`
+
+```{r}
+#| label: plot-function
+plot_top_n_lifexp <- function(.df, n = 5) {
+ .df |>
+    slice_max(lifeExp, n = n) |>
+    mutate(
+      country_year = paste(country, year, sep = ": "),
+      country_year = fct_reorder(country_year, lifeExp)
+    ) |>
+    ggplot(aes(lifeExp, country_year, group = 1)) +
+    geom_point()
+}
+
+plot_top_n_lifexp(algeria)
+plot_top_n_lifexp(algeria, n = 7)
+```

@@ -1,0 +1,38 @@
+---
+title: "Analyze NHANES data sets"
+format: html
+---
+
+```{r}
+#| label: setup
+#| include: false
+library(tidyverse)
+library(cli)
+
+nhanes_dermatology <- read_csv("data/nhanes_dermatology.csv") |>
+  mutate(across(c(sun_reaction, shade, long_sleeves, sunscreen), as.factor))
+
+nhanes_sleep <- read_csv("data/nhanes_sleep.csv") |>
+  mutate(across(c(snore, stop_breathing, overly_sleepy), as.factor))
+```
+
+## Plot one variable
+
+```{r}
+#| label: nhanes-plot-var
+nhanes_plot_var <- function(data, var, n = 5) {
+  data <-
+    data |>
+    filter(!is.na({{ var }}), {{ var }} != "Don't know")
+
+  data |>
+    mutate({{ var }} := fct_lump({{ var }}, n = n)) |>
+    ggplot(aes({{ var }})) +
+    geom_bar()
+}
+```
+
+```{r}
+#| label: nhanes-plot-var-run
+nhanes_plot_var(nhanes_dermatology, shade)
+```
