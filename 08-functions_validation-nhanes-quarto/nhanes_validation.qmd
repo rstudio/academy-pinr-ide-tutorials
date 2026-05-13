@@ -9,10 +9,10 @@ format: html
 library(tidyverse)
 library(cli)
 
-nhanes_dermatology <- read_csv("data/nhanes_dermatology.csv") |>
+nhanes_dermatology <- read_csv("08-functions_validation-nhanes-quarto/data/nhanes_dermatology.csv") |>
   mutate(across(c(sun_reaction, shade, long_sleeves, sunscreen), as.factor))
 
-nhanes_sleep <- read_csv("data/nhanes_sleep.csv") |>
+nhanes_sleep <- read_csv("08-functions_validation-nhanes-quarto/data/nhanes_sleep.csv") |>
   mutate(across(c(snore, stop_breathing, overly_sleepy), as.factor))
 ```
 
