@@ -31,5 +31,5 @@ read_data <- function(file_name) {
 }
 
 url_algeria <-
-  "https://rsacdn.link/ac/r_software_development/iteration/purrr-map/data/Algeria.xlsx"
+  "https://raw.githubusercontent.com/rstudio/academy-pinr-ide-tutorials/main/07-functions-state_management-quarto/data/Algeria.xlsx"
 ```
